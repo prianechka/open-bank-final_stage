@@ -1,0 +1,2134 @@
+;Unnamed: 0;school;school_setting;school_type;classroom;teaching_method;n_student;gender;lunch;posttest;target
+0;0;ANKYI;Urban;Non-public;6OL;Standard;20.0;Male;Does not qualify;72.0;1.0
+1;1;ANKYI;Urban;Non-public;6OL;Standard;20.0;Male;Does not qualify;79.0;0.0
+2;2;ANKYI;Urban;Non-public;6OL;Standard;;Male;Does not qualify;76.0;1.0
+3;3;ANKYI;Urban;Non-public;6OL;Standard;20.0;Male;Does not qualify;77.0;1.0
+4;4;ANKYI;Urban;Non-public;6OL;Standard;20.0;Male;Does not qualify;76.0;0.0
+5;5;ANKYI;Urban;Non-public;6OL;Standard;20.0;Male;Does not qualify;74.0;1.0
+6;6;ANKYI;Urban;Non-public;6OL;Standard;20.0;Male;Does not qualify;75.0;0.0
+7;7;ANKYI;Urban;Non-public;6OL;Standard;20.0;Male;Does not qualify;72.0;0.0
+8;8;ANKYI;Urban;Non-public;6OL;Standard;20.0;Male;Does not qualify;77.0;1.0
+9;9;ANKYI;Urban;Non-public;6OL;Standard;;Male;Does not qualify;72.0;0.0
+10;10;ANKYI;Urban;Non-public;6OL;Standard;20.0;Male;Does not qualify;73.0;1.0
+11;11;ANKYI;Urban;Non-public;6OL;Standard;20.0;Male;Does not qualify;74.0;1.0
+12;12;ANKYI;Urban;Non-public;6OL;Standard;20.0;Male;Does not qualify;78.0;1.0
+13;13;ANKYI;Urban;Non-public;6OL;Standard;20.0;Male;Does not qualify;71.0;1.0
+14;14;ANKYI;Urban;Non-public;6OL;Standard;20.0;Male;Does not qualify;77.0;0.0
+15;15;ANKYI;Urban;Non-public;6OL;Standard;20.0;Male;Does not qualify;73.0;0.0
+16;16;ANKYI;Urban;Non-public;6OL;Standard;20.0;Male;Does not qualify;70.0;0.0
+17;17;ANKYI;Urban;Non-public;6OL;Standard;20.0;Male;Does not qualify;73.0;0.0
+18;18;ANKYI;Urban;Non-public;6OL;Standard;20.0;Male;Does not qualify;71.0;0.0
+19;19;ANKYI;Urban;Non-public;6OL;Standard;20.0;Male;Does not qualify;73.0;1.0
+20;20;ANKYI;Urban;Non-public;ZNS;Standard;21.0;Male;Does not qualify;68.0;1.0
+21;21;ANKYI;Urban;Non-public;ZNS;Standard;21.0;Male;Does not qualify;70.0;1.0
+22;22;ANKYI;Urban;Non-public;ZNS;Standard;21.0;Male;Does not qualify;66.0;1.0
+23;23;ANKYI;Urban;Non-public;ZNS;Standard;21.0;Male;Does not qualify;70.0;0.0
+24;24;ANKYI;Urban;Non-public;ZNS;Standard;21.0;Male;Qualifies for reduced/free lunch;65.0;0.0
+25;25;ANKYI;Urban;Non-public;ZNS;Standard;21.0;Male;Does not qualify;67.0;1.0
+26;26;ANKYI;Urban;Non-public;ZNS;Standard;;Male;Does not qualify;70.0;1.0
+27;27;ANKYI;Urban;Non-public;ZNS;Standard;21.0;Male;Does not qualify;67.0;1.0
+28;28;ANKYI;Urban;Non-public;ZNS;Standard;21.0;Male;Does not qualify;63.0;0.0
+29;29;ANKYI;Urban;Non-public;ZNS;Standard;21.0;Male;Does not qualify;75.0;0.0
+30;30;ANKYI;Urban;Non-public;ZNS;Standard;;Male;Does not qualify;66.0;1.0
+31;31;ANKYI;Urban;Non-public;ZNS;Standard;21.0;Male;Does not qualify;71.0;0.0
+32;32;ANKYI;Urban;Non-public;ZNS;Standard;21.0;Male;Does not qualify;76.0;1.0
+33;33;ANKYI;Urban;Non-public;ZNS;Standard;21.0;Male;Does not qualify;69.0;1.0
+34;34;ANKYI;Urban;Non-public;ZNS;Standard;21.0;Male;Does not qualify;69.0;1.0
+35;35;ANKYI;Urban;Non-public;ZNS;Standard;21.0;Male;Does not qualify;68.0;0.0
+36;36;ANKYI;Urban;Non-public;ZNS;Standard;21.0;Male;Does not qualify;71.0;0.0
+37;37;ANKYI;Urban;Non-public;ZNS;Standard;21.0;Male;Does not qualify;66.0;0.0
+38;38;ANKYI;Urban;Non-public;ZNS;Standard;21.0;Male;Does not qualify;69.0;0.0
+39;39;ANKYI;Urban;Non-public;ZNS;Standard;21.0;Male;Does not qualify;72.0;0.0
+40;40;ANKYI;Urban;Non-public;ZNS;Standard;21.0;Male;Does not qualify;66.0;0.0
+41;41;CCAAW;Suburban;Non-public;2B1;Experimental;18.0;Male;Does not qualify;75.0;1.0
+42;42;CCAAW;Suburban;Non-public;2B1;Experimental;18.0;Male;Qualifies for reduced/free lunch;78.0;1.0
+43;43;CCAAW;Suburban;Non-public;2B1;Experimental;18.0;Female;Qualifies for reduced/free lunch;82.0;1.0
+44;44;CCAAW;Suburban;Non-public;2B1;Experimental;18.0;Male;Qualifies for reduced/free lunch;77.0;1.0
+45;45;CCAAW;Suburban;Non-public;2B1;Experimental;18.0;Male;Does not qualify;87.0;1.0
+46;46;CCAAW;Suburban;Non-public;2B1;Experimental;18.0;Male;Does not qualify;80.0;1.0
+47;47;CCAAW;Suburban;Non-public;2B1;Experimental;18.0;Female;Qualifies for reduced/free lunch;75.0;0.0
+48;48;CCAAW;Suburban;Non-public;2B1;Experimental;18.0;Male;Qualifies for reduced/free lunch;73.0;1.0
+49;49;CCAAW;Suburban;Non-public;2B1;Experimental;18.0;Male;Qualifies for reduced/free lunch;74.0;1.0
+50;50;CCAAW;Suburban;Non-public;2B1;Experimental;18.0;Male;Qualifies for reduced/free lunch;74.0;1.0
+51;51;CCAAW;Suburban;Non-public;2B1;Experimental;18.0;Male;Qualifies for reduced/free lunch;76.0;0.0
+52;52;CCAAW;Suburban;Non-public;2B1;Experimental;18.0;Female;Does not qualify;78.0;1.0
+53;53;CCAAW;Suburban;Non-public;2B1;Experimental;18.0;Male;Does not qualify;77.0;0.0
+54;54;CCAAW;Suburban;Non-public;2B1;Experimental;18.0;Male;Qualifies for reduced/free lunch;77.0;1.0
+55;55;CCAAW;Suburban;Non-public;2B1;Experimental;18.0;Male;Qualifies for reduced/free lunch;72.0;1.0
+56;56;CCAAW;Suburban;Non-public;2B1;Experimental;18.0;Male;Does not qualify;83.0;1.0
+57;57;CCAAW;Suburban;Non-public;2B1;Experimental;18.0;Male;Does not qualify;81.0;0.0
+58;58;CCAAW;Suburban;Non-public;2B1;Experimental;18.0;Male;Does not qualify;79.0;1.0
+59;59;CCAAW;Suburban;Non-public;EPS;Experimental;20.0;Male;Does not qualify;80.0;0.0
+60;60;CCAAW;Suburban;Non-public;EPS;Experimental;20.0;Male;Qualifies for reduced/free lunch;83.0;1.0
+61;61;CCAAW;Suburban;Non-public;EPS;Experimental;20.0;Male;Does not qualify;82.0;1.0
+62;62;CCAAW;Suburban;Non-public;EPS;Experimental;20.0;Male;Does not qualify;84.0;0.0
+63;63;CCAAW;Suburban;Non-public;EPS;Experimental;20.0;Male;Qualifies for reduced/free lunch;83.0;0.0
+64;64;CCAAW;Suburban;Non-public;EPS;Experimental;20.0;Male;Does not qualify;85.0;1.0
+65;65;CCAAW;Suburban;Non-public;EPS;Experimental;20.0;Male;Does not qualify;87.0;1.0
+66;66;CCAAW;Suburban;Non-public;EPS;Experimental;20.0;Male;Qualifies for reduced/free lunch;91.0;1.0
+67;67;CCAAW;Suburban;Non-public;EPS;Experimental;20.0;Male;Qualifies for reduced/free lunch;85.0;0.0
+68;68;CCAAW;Suburban;Non-public;EPS;Experimental;20.0;Male;Does not qualify;83.0;0.0
+69;69;CCAAW;Suburban;Non-public;EPS;Experimental;20.0;Male;Qualifies for reduced/free lunch;78.0;0.0
+70;70;CCAAW;Suburban;Non-public;EPS;Experimental;20.0;Male;Does not qualify;84.0;0.0
+71;71;CCAAW;Suburban;Non-public;EPS;Experimental;20.0;Male;Does not qualify;86.0;1.0
+72;72;CCAAW;Suburban;Non-public;EPS;Experimental;20.0;Male;Does not qualify;87.0;0.0
+73;73;CCAAW;Suburban;Non-public;EPS;Experimental;20.0;Male;Does not qualify;79.0;1.0
+74;74;CCAAW;Suburban;Non-public;EPS;Experimental;20.0;Male;Does not qualify;84.0;1.0
+75;75;CCAAW;Suburban;Non-public;EPS;Experimental;20.0;Male;Does not qualify;82.0;0.0
+76;76;CCAAW;Suburban;Non-public;EPS;Experimental;20.0;Male;Qualifies for reduced/free lunch;83.0;0.0
+77;77;CCAAW;Suburban;Non-public;EPS;Experimental;20.0;Male;Qualifies for reduced/free lunch;78.0;0.0
+78;78;CCAAW;Suburban;Non-public;EPS;Experimental;20.0;Female;Qualifies for reduced/free lunch;84.0;1.0
+79;79;CCAAW;Suburban;Non-public;IQN;Experimental;15.0;Female;Does not qualify;79.0;1.0
+80;80;CCAAW;Suburban;Non-public;IQN;Experimental;15.0;Female;Does not qualify;83.0;1.0
+81;81;CCAAW;Suburban;Non-public;IQN;Experimental;15.0;Female;Qualifies for reduced/free lunch;81.0;0.0
+82;82;CCAAW;Suburban;Non-public;IQN;Experimental;15.0;Female;Qualifies for reduced/free lunch;74.0;1.0
+83;83;CCAAW;Suburban;Non-public;IQN;Experimental;15.0;Male;Qualifies for reduced/free lunch;77.0;1.0
+84;84;CCAAW;Suburban;Non-public;IQN;Experimental;15.0;Female;Does not qualify;82.0;0.0
+85;85;CCAAW;Suburban;Non-public;IQN;Experimental;15.0;Male;Does not qualify;81.0;1.0
+86;86;CCAAW;Suburban;Non-public;IQN;Experimental;15.0;Male;Qualifies for reduced/free lunch;75.0;0.0
+87;87;CCAAW;Suburban;Non-public;IQN;Experimental;15.0;Male;Qualifies for reduced/free lunch;81.0;0.0
+88;88;CCAAW;Suburban;Non-public;IQN;Experimental;15.0;Female;Qualifies for reduced/free lunch;77.0;1.0
+89;89;CCAAW;Suburban;Non-public;IQN;Experimental;15.0;Male;Qualifies for reduced/free lunch;74.0;1.0
+90;90;CCAAW;Suburban;Non-public;IQN;Experimental;15.0;Male;Does not qualify;80.0;0.0
+91;91;CCAAW;Suburban;Non-public;IQN;Experimental;15.0;Male;Does not qualify;76.0;0.0
+92;92;CCAAW;Suburban;Non-public;IQN;Experimental;15.0;Female;Does not qualify;77.0;0.0
+93;93;CCAAW;Suburban;Non-public;IQN;Experimental;15.0;Male;Qualifies for reduced/free lunch;74.0;0.0
+94;94;CCAAW;Suburban;Non-public;PGK;Standard;21.0;Female;Qualifies for reduced/free lunch;76.0;1.0
+95;95;CCAAW;Suburban;Non-public;PGK;Standard;21.0;Male;Qualifies for reduced/free lunch;82.0;0.0
+96;96;CCAAW;Suburban;Non-public;PGK;Standard;21.0;Female;Qualifies for reduced/free lunch;73.0;1.0
+97;97;CCAAW;Suburban;Non-public;PGK;Standard;21.0;Female;Qualifies for reduced/free lunch;78.0;0.0
+98;98;CCAAW;Suburban;Non-public;PGK;Standard;21.0;Male;Does not qualify;83.0;0.0
+99;99;CCAAW;Suburban;Non-public;PGK;Standard;21.0;Female;Does not qualify;84.0;0.0
+100;100;CCAAW;Suburban;Non-public;PGK;Standard;21.0;Female;Qualifies for reduced/free lunch;78.0;0.0
+101;101;CCAAW;Suburban;Non-public;PGK;Standard;21.0;Male;Qualifies for reduced/free lunch;81.0;0.0
+102;102;CCAAW;Suburban;Non-public;PGK;Standard;21.0;Male;Qualifies for reduced/free lunch;80.0;1.0
+103;103;CCAAW;Suburban;Non-public;PGK;Standard;21.0;Female;Does not qualify;80.0;0.0
+104;104;CCAAW;Suburban;Non-public;PGK;Standard;;Female;Qualifies for reduced/free lunch;82.0;1.0
+105;105;CCAAW;Suburban;Non-public;PGK;Standard;;Female;Does not qualify;84.0;1.0
+106;106;CCAAW;Suburban;Non-public;PGK;Standard;;Female;Does not qualify;80.0;1.0
+107;107;CCAAW;Suburban;Non-public;PGK;Standard;;Male;Does not qualify;91.0;0.0
+108;108;CCAAW;Suburban;Non-public;PGK;Standard;;Male;Does not qualify;80.0;0.0
+109;109;CCAAW;Suburban;Non-public;PGK;Standard;;Female;Does not qualify;80.0;0.0
+110;110;CCAAW;Suburban;Non-public;PGK;Standard;;Female;Does not qualify;84.0;1.0
+111;111;CCAAW;Suburban;Non-public;PGK;Standard;;Male;Does not qualify;78.0;1.0
+112;112;CCAAW;Suburban;Non-public;PGK;Standard;;Male;Does not qualify;85.0;1.0
+113;113;CCAAW;Suburban;Non-public;PGK;Standard;;Male;Does not qualify;83.0;0.0
+114;114;CCAAW;Suburban;Non-public;PGK;Standard;;Male;Does not qualify;83.0;0.0
+115;115;CCAAW;Suburban;Non-public;UHU;Experimental;;Male;Qualifies for reduced/free lunch;68.0;0.0
+116;116;CCAAW;Suburban;Non-public;UHU;Experimental;;Male;Does not qualify;70.0;1.0
+117;117;CCAAW;Suburban;Non-public;UHU;Experimental;;Male;Qualifies for reduced/free lunch;73.0;1.0
+118;118;CCAAW;Suburban;Non-public;UHU;Experimental;16.0;Male;Qualifies for reduced/free lunch;73.0;0.0
+119;119;CCAAW;Suburban;Non-public;UHU;Experimental;16.0;Male;Does not qualify;70.0;0.0
+120;120;CCAAW;Suburban;Non-public;UHU;Experimental;16.0;Male;Qualifies for reduced/free lunch;69.0;0.0
+121;121;CCAAW;Suburban;Non-public;UHU;Experimental;16.0;Male;Does not qualify;71.0;1.0
+122;122;CCAAW;Suburban;Non-public;UHU;Experimental;16.0;Male;Does not qualify;74.0;1.0
+123;123;CCAAW;Suburban;Non-public;UHU;Experimental;16.0;Male;Qualifies for reduced/free lunch;69.0;1.0
+124;124;CCAAW;Suburban;Non-public;UHU;Experimental;16.0;Male;Qualifies for reduced/free lunch;70.0;1.0
+125;125;CCAAW;Suburban;Non-public;UHU;Experimental;16.0;Male;Does not qualify;76.0;0.0
+126;126;CCAAW;Suburban;Non-public;UHU;Experimental;16.0;Male;Does not qualify;75.0;1.0
+127;127;CCAAW;Suburban;Non-public;UHU;Experimental;16.0;Male;Qualifies for reduced/free lunch;69.0;0.0
+128;128;CCAAW;Suburban;Non-public;UHU;Experimental;16.0;Male;Does not qualify;67.0;1.0
+129;129;CCAAW;Suburban;Non-public;UHU;Experimental;16.0;Male;Qualifies for reduced/free lunch;69.0;1.0
+130;130;CCAAW;Suburban;Non-public;UHU;Experimental;16.0;Male;Does not qualify;72.0;1.0
+131;131;CCAAW;Suburban;Non-public;UWK;Standard;19.0;Male;Does not qualify;76.0;0.0
+132;132;CCAAW;Suburban;Non-public;UWK;Standard;19.0;Male;Does not qualify;80.0;0.0
+133;133;CCAAW;Suburban;Non-public;UWK;Standard;19.0;Male;Qualifies for reduced/free lunch;76.0;0.0
+134;134;CCAAW;Suburban;Non-public;UWK;Standard;19.0;Male;Does not qualify;82.0;1.0
+135;135;CCAAW;Suburban;Non-public;UWK;Standard;19.0;Male;Does not qualify;72.0;0.0
+136;136;CCAAW;Suburban;Non-public;UWK;Standard;19.0;Male;Does not qualify;70.0;1.0
+137;137;CCAAW;Suburban;Non-public;UWK;Standard;19.0;Male;Does not qualify;75.0;1.0
+138;138;CCAAW;Suburban;Non-public;UWK;Standard;19.0;Male;Does not qualify;77.0;0.0
+139;139;CCAAW;Suburban;Non-public;UWK;Standard;19.0;Male;Qualifies for reduced/free lunch;76.0;0.0
+140;140;CCAAW;Suburban;Non-public;UWK;Standard;19.0;Male;Does not qualify;83.0;0.0
+141;141;CCAAW;Suburban;Non-public;UWK;Standard;19.0;Male;Qualifies for reduced/free lunch;75.0;1.0
+142;142;CCAAW;Suburban;Non-public;UWK;Standard;19.0;Male;Qualifies for reduced/free lunch;72.0;1.0
+143;143;CCAAW;Suburban;Non-public;UWK;Standard;19.0;Male;Qualifies for reduced/free lunch;77.0;0.0
+144;144;CCAAW;Suburban;Non-public;UWK;Standard;19.0;Male;Qualifies for reduced/free lunch;77.0;1.0
+145;145;CCAAW;Suburban;Non-public;UWK;Standard;19.0;Male;Qualifies for reduced/free lunch;69.0;1.0
+146;146;CCAAW;Suburban;Non-public;UWK;Standard;19.0;Male;Qualifies for reduced/free lunch;74.0;0.0
+147;147;CCAAW;Suburban;Non-public;UWK;Standard;19.0;Male;Qualifies for reduced/free lunch;79.0;1.0
+148;148;CCAAW;Suburban;Non-public;UWK;Standard;19.0;Male;Qualifies for reduced/free lunch;74.0;0.0
+149;149;CCAAW;Suburban;Non-public;UWK;Standard;19.0;Male;Qualifies for reduced/free lunch;73.0;0.0
+150;150;CIMBB;Urban;Non-public;A33;Standard;19.0;Male;Does not qualify;67.0;1.0
+151;151;CIMBB;Urban;Non-public;A33;Standard;19.0;Male;Does not qualify;70.0;0.0
+152;152;CIMBB;Urban;Non-public;A33;Standard;19.0;Male;Does not qualify;73.0;1.0
+153;153;CIMBB;Urban;Non-public;A33;Standard;19.0;Male;Does not qualify;72.0;0.0
+154;154;CIMBB;Urban;Non-public;A33;Standard;19.0;Male;Does not qualify;68.0;1.0
+155;155;CIMBB;Urban;Non-public;A33;Standard;19.0;Male;Does not qualify;66.0;1.0
+156;156;CIMBB;Urban;Non-public;A33;Standard;19.0;Male;Does not qualify;66.0;0.0
+157;157;CIMBB;Urban;Non-public;A33;Standard;19.0;Male;Does not qualify;69.0;1.0
+158;158;CIMBB;Urban;Non-public;A33;Standard;19.0;Male;Does not qualify;78.0;1.0
+159;159;CIMBB;Urban;Non-public;A33;Standard;19.0;Male;Does not qualify;69.0;1.0
+160;160;CIMBB;Urban;Non-public;A33;Standard;19.0;Male;Does not qualify;71.0;1.0
+161;161;CIMBB;Urban;Non-public;A33;Standard;19.0;Male;Does not qualify;71.0;1.0
+162;162;CIMBB;Urban;Non-public;A33;Standard;19.0;Male;Does not qualify;70.0;1.0
+163;163;CIMBB;Urban;Non-public;A33;Standard;19.0;Male;Does not qualify;81.0;0.0
+164;164;CIMBB;Urban;Non-public;A33;Standard;19.0;Male;Does not qualify;72.0;1.0
+165;165;CIMBB;Urban;Non-public;A33;Standard;19.0;Male;Qualifies for reduced/free lunch;69.0;0.0
+166;166;CIMBB;Urban;Non-public;A33;Standard;19.0;Male;Does not qualify;65.0;0.0
+167;167;CIMBB;Urban;Non-public;A33;Standard;19.0;Male;Does not qualify;64.0;0.0
+168;168;CIMBB;Urban;Non-public;A33;Standard;19.0;Male;Does not qualify;71.0;1.0
+169;169;CIMBB;Urban;Non-public;EID;Standard;21.0;Male;Does not qualify;76.0;1.0
+170;170;CIMBB;Urban;Non-public;EID;Standard;21.0;Male;Does not qualify;79.0;1.0
+171;171;CIMBB;Urban;Non-public;EID;Standard;21.0;Male;Does not qualify;78.0;0.0
+172;172;CIMBB;Urban;Non-public;EID;Standard;21.0;Male;Does not qualify;72.0;1.0
+173;173;CIMBB;Urban;Non-public;EID;Standard;21.0;Male;Does not qualify;74.0;0.0
+174;174;CIMBB;Urban;Non-public;EID;Standard;21.0;Male;Does not qualify;79.0;0.0
+175;175;CIMBB;Urban;Non-public;EID;Standard;21.0;Male;Does not qualify;78.0;1.0
+176;176;CIMBB;Urban;Non-public;EID;Standard;;Male;Does not qualify;76.0;1.0
+177;177;CIMBB;Urban;Non-public;EID;Standard;21.0;Male;Does not qualify;77.0;0.0
+178;178;CIMBB;Urban;Non-public;EID;Standard;21.0;Female;Does not qualify;75.0;1.0
+179;179;CIMBB;Urban;Non-public;EID;Standard;21.0;Male;Does not qualify;78.0;1.0
+180;180;CIMBB;Urban;Non-public;EID;Standard;21.0;Female;Does not qualify;82.0;1.0
+181;181;CIMBB;Urban;Non-public;EID;Standard;21.0;Male;Does not qualify;78.0;1.0
+182;182;CIMBB;Urban;Non-public;EID;Standard;21.0;Female;Does not qualify;80.0;0.0
+183;183;CIMBB;Urban;Non-public;EID;Standard;21.0;Female;Does not qualify;79.0;1.0
+184;184;CIMBB;Urban;Non-public;EID;Standard;21.0;Male;Does not qualify;80.0;0.0
+185;185;CIMBB;Urban;Non-public;EID;Standard;;Male;Does not qualify;81.0;0.0
+186;186;CIMBB;Urban;Non-public;EID;Standard;21.0;Female;Does not qualify;78.0;0.0
+187;187;CIMBB;Urban;Non-public;EID;Standard;21.0;Female;Does not qualify;82.0;1.0
+188;188;CIMBB;Urban;Non-public;EID;Standard;21.0;Female;Does not qualify;82.0;1.0
+189;189;CIMBB;Urban;Non-public;EID;Standard;;Female;Does not qualify;76.0;0.0
+190;190;CIMBB;Urban;Non-public;HUJ;Experimental;17.0;Male;Does not qualify;88.0;1.0
+191;191;CIMBB;Urban;Non-public;HUJ;Experimental;17.0;Male;Does not qualify;80.0;1.0
+192;192;CIMBB;Urban;Non-public;HUJ;Experimental;17.0;Male;Does not qualify;81.0;0.0
+193;193;CIMBB;Urban;Non-public;HUJ;Experimental;17.0;Female;Does not qualify;83.0;0.0
+194;194;CIMBB;Urban;Non-public;HUJ;Experimental;17.0;Male;Does not qualify;78.0;1.0
+195;195;CIMBB;Urban;Non-public;HUJ;Experimental;;Male;Does not qualify;87.0;1.0
+196;196;CIMBB;Urban;Non-public;HUJ;Experimental;17.0;Female;Does not qualify;82.0;0.0
+197;197;CIMBB;Urban;Non-public;HUJ;Experimental;17.0;Female;Does not qualify;82.0;0.0
+198;198;CIMBB;Urban;Non-public;HUJ;Experimental;;Female;Does not qualify;84.0;1.0
+199;199;CIMBB;Urban;Non-public;HUJ;Experimental;;Female;Does not qualify;85.0;0.0
+200;200;CIMBB;Urban;Non-public;HUJ;Experimental;17.0;Male;Does not qualify;82.0;0.0
+201;201;CIMBB;Urban;Non-public;HUJ;Experimental;17.0;Female;Does not qualify;83.0;1.0
+202;202;CIMBB;Urban;Non-public;HUJ;Experimental;17.0;Male;Does not qualify;82.0;1.0
+203;203;CIMBB;Urban;Non-public;HUJ;Experimental;17.0;Male;Does not qualify;87.0;0.0
+204;204;CIMBB;Urban;Non-public;HUJ;Experimental;17.0;Female;Does not qualify;85.0;0.0
+205;205;CIMBB;Urban;Non-public;HUJ;Experimental;17.0;Male;Does not qualify;78.0;1.0
+206;206;CIMBB;Urban;Non-public;HUJ;Experimental;17.0;Male;Does not qualify;77.0;0.0
+207;207;CIMBB;Urban;Non-public;PC6;Standard;17.0;Male;Does not qualify;78.0;0.0
+208;208;CIMBB;Urban;Non-public;PC6;Standard;17.0;Female;Does not qualify;79.0;1.0
+209;209;CIMBB;Urban;Non-public;PC6;Standard;17.0;Female;Does not qualify;72.0;0.0
+210;210;CIMBB;Urban;Non-public;PC6;Standard;17.0;Female;Does not qualify;80.0;0.0
+211;211;CIMBB;Urban;Non-public;PC6;Standard;17.0;Male;Does not qualify;75.0;1.0
+212;212;CIMBB;Urban;Non-public;PC6;Standard;17.0;Male;Does not qualify;75.0;1.0
+213;213;CIMBB;Urban;Non-public;PC6;Standard;17.0;Male;Does not qualify;77.0;0.0
+214;214;CIMBB;Urban;Non-public;PC6;Standard;17.0;Male;Does not qualify;79.0;0.0
+215;215;CIMBB;Urban;Non-public;PC6;Standard;17.0;Male;Does not qualify;75.0;0.0
+216;216;CIMBB;Urban;Non-public;PC6;Standard;17.0;Male;Does not qualify;80.0;0.0
+217;217;CIMBB;Urban;Non-public;PC6;Standard;17.0;Male;Does not qualify;86.0;0.0
+218;218;CIMBB;Urban;Non-public;PC6;Standard;17.0;Male;Does not qualify;76.0;1.0
+219;219;CIMBB;Urban;Non-public;PC6;Standard;17.0;Male;Does not qualify;78.0;1.0
+220;220;CIMBB;Urban;Non-public;PC6;Standard;17.0;Male;Does not qualify;75.0;1.0
+221;221;CIMBB;Urban;Non-public;PC6;Standard;17.0;Male;Does not qualify;80.0;0.0
+222;222;CIMBB;Urban;Non-public;PC6;Standard;17.0;Male;Does not qualify;79.0;0.0
+223;223;CIMBB;Urban;Non-public;PC6;Standard;17.0;Male;Does not qualify;74.0;0.0
+224;224;CUQAM;Urban;Public;1Q1;Standard;28.0;Male;Does not qualify;70.0;0.0
+225;225;CUQAM;Urban;Public;1Q1;Standard;28.0;Male;Qualifies for reduced/free lunch;67.0;0.0
+226;226;CUQAM;Urban;Public;1Q1;Standard;28.0;Male;Does not qualify;70.0;0.0
+227;227;CUQAM;Urban;Public;1Q1;Standard;28.0;Male;Does not qualify;67.0;1.0
+228;228;CUQAM;Urban;Public;1Q1;Standard;28.0;Male;Does not qualify;69.0;1.0
+229;229;CUQAM;Urban;Public;1Q1;Standard;28.0;Male;Does not qualify;63.0;0.0
+230;230;CUQAM;Urban;Public;1Q1;Standard;28.0;Male;Does not qualify;67.0;1.0
+231;231;CUQAM;Urban;Public;1Q1;Standard;28.0;Male;Does not qualify;68.0;0.0
+232;232;CUQAM;Urban;Public;1Q1;Standard;28.0;Male;Does not qualify;68.0;0.0
+233;233;CUQAM;Urban;Public;1Q1;Standard;28.0;Male;Does not qualify;70.0;1.0
+234;234;CUQAM;Urban;Public;1Q1;Standard;28.0;Male;Does not qualify;65.0;1.0
+235;235;CUQAM;Urban;Public;1Q1;Standard;28.0;Male;Does not qualify;67.0;1.0
+236;236;CUQAM;Urban;Public;1Q1;Standard;28.0;Male;Does not qualify;67.0;0.0
+237;237;CUQAM;Urban;Public;1Q1;Standard;28.0;Female;Does not qualify;65.0;1.0
+238;238;CUQAM;Urban;Public;1Q1;Standard;28.0;Male;Qualifies for reduced/free lunch;65.0;1.0
+239;239;CUQAM;Urban;Public;1Q1;Standard;28.0;Male;Does not qualify;74.0;1.0
+240;240;CUQAM;Urban;Public;1Q1;Standard;28.0;Female;Does not qualify;69.0;0.0
+241;241;CUQAM;Urban;Public;1Q1;Standard;28.0;Male;Does not qualify;61.0;1.0
+242;242;CUQAM;Urban;Public;1Q1;Standard;28.0;Female;Does not qualify;69.0;1.0
+243;243;CUQAM;Urban;Public;1Q1;Standard;28.0;Male;Does not qualify;74.0;1.0
+244;244;CUQAM;Urban;Public;1Q1;Standard;28.0;Female;Does not qualify;68.0;0.0
+245;245;CUQAM;Urban;Public;1Q1;Standard;28.0;Female;Qualifies for reduced/free lunch;68.0;0.0
+246;246;CUQAM;Urban;Public;1Q1;Standard;28.0;Female;Does not qualify;63.0;1.0
+247;247;CUQAM;Urban;Public;1Q1;Standard;28.0;Female;Does not qualify;70.0;1.0
+248;248;CUQAM;Urban;Public;1Q1;Standard;28.0;Male;Does not qualify;71.0;0.0
+249;249;CUQAM;Urban;Public;1Q1;Standard;28.0;Male;Does not qualify;62.0;1.0
+250;250;CUQAM;Urban;Public;1Q1;Standard;28.0;Male;Qualifies for reduced/free lunch;62.0;0.0
+251;251;CUQAM;Urban;Public;1Q1;Standard;28.0;Male;Does not qualify;58.0;1.0
+252;252;CUQAM;Urban;Public;BFY;Standard;27.0;Female;Does not qualify;57.0;0.0
+253;253;CUQAM;Urban;Public;BFY;Standard;27.0;Female;Does not qualify;63.0;1.0
+254;254;CUQAM;Urban;Public;BFY;Standard;27.0;Female;Does not qualify;57.0;0.0
+255;255;CUQAM;Urban;Public;BFY;Standard;27.0;Female;Does not qualify;59.0;0.0
+256;256;CUQAM;Urban;Public;BFY;Standard;27.0;Male;Does not qualify;57.0;0.0
+257;257;CUQAM;Urban;Public;BFY;Standard;27.0;Male;Does not qualify;64.0;0.0
+258;258;CUQAM;Urban;Public;BFY;Standard;27.0;Male;Qualifies for reduced/free lunch;58.0;0.0
+259;259;CUQAM;Urban;Public;BFY;Standard;27.0;Female;Does not qualify;64.0;1.0
+260;260;CUQAM;Urban;Public;BFY;Standard;27.0;Male;Does not qualify;56.0;1.0
+261;261;CUQAM;Urban;Public;BFY;Standard;27.0;Female;Does not qualify;61.0;0.0
+262;262;CUQAM;Urban;Public;BFY;Standard;27.0;Male;Does not qualify;61.0;0.0
+263;263;CUQAM;Urban;Public;BFY;Standard;27.0;Male;Does not qualify;64.0;1.0
+264;264;CUQAM;Urban;Public;BFY;Standard;27.0;Male;Does not qualify;60.0;0.0
+265;265;CUQAM;Urban;Public;BFY;Standard;27.0;Male;Does not qualify;61.0;0.0
+266;266;CUQAM;Urban;Public;BFY;Standard;27.0;Female;Does not qualify;63.0;0.0
+267;267;CUQAM;Urban;Public;BFY;Standard;27.0;Female;Does not qualify;66.0;0.0
+268;268;CUQAM;Urban;Public;BFY;Standard;27.0;Male;Does not qualify;62.0;0.0
+269;269;CUQAM;Urban;Public;BFY;Standard;;Male;Does not qualify;59.0;1.0
+270;270;CUQAM;Urban;Public;BFY;Standard;27.0;Male;Qualifies for reduced/free lunch;59.0;0.0
+271;271;CUQAM;Urban;Public;BFY;Standard;;Male;Does not qualify;62.0;1.0
+272;272;CUQAM;Urban;Public;BFY;Standard;27.0;Female;Does not qualify;58.0;1.0
+273;273;CUQAM;Urban;Public;BFY;Standard;27.0;Male;Qualifies for reduced/free lunch;62.0;1.0
+274;274;CUQAM;Urban;Public;BFY;Standard;27.0;Female;Qualifies for reduced/free lunch;60.0;0.0
+275;275;CUQAM;Urban;Public;BFY;Standard;;Male;Does not qualify;59.0;0.0
+276;276;CUQAM;Urban;Public;BFY;Standard;27.0;Male;Does not qualify;61.0;1.0
+277;277;CUQAM;Urban;Public;BFY;Standard;27.0;Male;Does not qualify;65.0;0.0
+278;278;CUQAM;Urban;Public;BFY;Standard;;Female;Does not qualify;64.0;1.0
+279;279;CUQAM;Urban;Public;OMI;Standard;28.0;Female;Does not qualify;67.0;1.0
+280;280;CUQAM;Urban;Public;OMI;Standard;28.0;Male;Does not qualify;72.0;1.0
+281;281;CUQAM;Urban;Public;OMI;Standard;28.0;Male;Does not qualify;69.0;0.0
+282;282;CUQAM;Urban;Public;OMI;Standard;28.0;Male;Does not qualify;68.0;1.0
+283;283;CUQAM;Urban;Public;OMI;Standard;28.0;Male;Does not qualify;67.0;1.0
+284;284;CUQAM;Urban;Public;OMI;Standard;;Male;Does not qualify;62.0;0.0
+285;285;CUQAM;Urban;Public;OMI;Standard;28.0;Female;Does not qualify;64.0;1.0
+286;286;CUQAM;Urban;Public;OMI;Standard;28.0;Female;Does not qualify;65.0;1.0
+287;287;CUQAM;Urban;Public;OMI;Standard;28.0;Male;Qualifies for reduced/free lunch;65.0;0.0
+288;288;CUQAM;Urban;Public;OMI;Standard;28.0;Female;Does not qualify;64.0;1.0
+289;289;CUQAM;Urban;Public;OMI;Standard;28.0;Male;Qualifies for reduced/free lunch;63.0;1.0
+290;290;CUQAM;Urban;Public;OMI;Standard;;Male;Does not qualify;66.0;0.0
+291;291;CUQAM;Urban;Public;OMI;Standard;28.0;Male;Does not qualify;65.0;0.0
+292;292;CUQAM;Urban;Public;OMI;Standard;;Male;Does not qualify;62.0;1.0
+293;293;CUQAM;Urban;Public;OMI;Standard;28.0;Male;Does not qualify;65.0;0.0
+294;294;CUQAM;Urban;Public;OMI;Standard;28.0;Male;Does not qualify;68.0;0.0
+295;295;CUQAM;Urban;Public;OMI;Standard;28.0;Male;Does not qualify;65.0;0.0
+296;296;CUQAM;Urban;Public;OMI;Standard;28.0;Male;Does not qualify;59.0;1.0
+297;297;CUQAM;Urban;Public;OMI;Standard;;Male;Does not qualify;68.0;0.0
+298;298;CUQAM;Urban;Public;OMI;Standard;28.0;Male;Does not qualify;64.0;0.0
+299;299;CUQAM;Urban;Public;OMI;Standard;28.0;Male;Does not qualify;67.0;0.0
+300;300;CUQAM;Urban;Public;OMI;Standard;28.0;Male;Qualifies for reduced/free lunch;61.0;1.0
+301;301;CUQAM;Urban;Public;OMI;Standard;28.0;Male;Does not qualify;63.0;0.0
+302;302;CUQAM;Urban;Public;OMI;Standard;28.0;Male;Qualifies for reduced/free lunch;64.0;0.0
+303;303;CUQAM;Urban;Public;OMI;Standard;28.0;Male;Does not qualify;63.0;0.0
+304;304;CUQAM;Urban;Public;OMI;Standard;28.0;Male;Does not qualify;63.0;1.0
+305;305;CUQAM;Urban;Public;OMI;Standard;28.0;Male;Does not qualify;63.0;0.0
+306;306;CUQAM;Urban;Public;OMI;Standard;;Male;Does not qualify;65.0;0.0
+307;307;CUQAM;Urban;Public;X6Z;Experimental;24.0;Male;Does not qualify;66.0;0.0
+308;308;CUQAM;Urban;Public;X6Z;Experimental;24.0;Male;Does not qualify;75.0;1.0
+309;309;CUQAM;Urban;Public;X6Z;Experimental;24.0;Male;Does not qualify;72.0;0.0
+310;310;CUQAM;Urban;Public;X6Z;Experimental;24.0;Male;Qualifies for reduced/free lunch;69.0;0.0
+311;311;CUQAM;Urban;Public;X6Z;Experimental;24.0;Male;Does not qualify;65.0;1.0
+312;312;CUQAM;Urban;Public;X6Z;Experimental;24.0;Male;Does not qualify;67.0;1.0
+313;313;CUQAM;Urban;Public;X6Z;Experimental;24.0;Male;Does not qualify;72.0;1.0
+314;314;CUQAM;Urban;Public;X6Z;Experimental;24.0;Male;Does not qualify;71.0;0.0
+315;315;CUQAM;Urban;Public;X6Z;Experimental;24.0;Male;Does not qualify;70.0;0.0
+316;316;CUQAM;Urban;Public;X6Z;Experimental;24.0;Male;Does not qualify;70.0;1.0
+317;317;CUQAM;Urban;Public;X6Z;Experimental;24.0;Male;Does not qualify;76.0;1.0
+318;318;CUQAM;Urban;Public;X6Z;Experimental;24.0;Male;Does not qualify;67.0;1.0
+319;319;CUQAM;Urban;Public;X6Z;Experimental;24.0;Male;Does not qualify;74.0;0.0
+320;320;CUQAM;Urban;Public;X6Z;Experimental;24.0;Male;Does not qualify;73.0;1.0
+321;321;CUQAM;Urban;Public;X6Z;Experimental;;Male;Qualifies for reduced/free lunch;68.0;1.0
+322;322;CUQAM;Urban;Public;X6Z;Experimental;24.0;Male;Does not qualify;69.0;1.0
+323;323;CUQAM;Urban;Public;X6Z;Experimental;24.0;Male;Does not qualify;71.0;1.0
+324;324;CUQAM;Urban;Public;X6Z;Experimental;24.0;Male;Does not qualify;72.0;0.0
+325;325;CUQAM;Urban;Public;X6Z;Experimental;24.0;Male;Does not qualify;70.0;1.0
+326;326;CUQAM;Urban;Public;X6Z;Experimental;;Male;Qualifies for reduced/free lunch;66.0;1.0
+327;327;CUQAM;Urban;Public;X6Z;Experimental;24.0;Male;Does not qualify;70.0;1.0
+328;328;CUQAM;Urban;Public;X6Z;Experimental;24.0;Male;Does not qualify;70.0;1.0
+329;329;CUQAM;Urban;Public;X6Z;Experimental;24.0;Male;Does not qualify;69.0;0.0
+330;330;CUQAM;Urban;Public;X6Z;Experimental;24.0;Male;Qualifies for reduced/free lunch;67.0;0.0
+331;331;DNQDD;Suburban;Public;2AP;Standard;27.0;Male;Does not qualify;67.0;1.0
+332;332;DNQDD;Suburban;Public;2AP;Standard;27.0;Male;Qualifies for reduced/free lunch;64.0;0.0
+333;333;DNQDD;Suburban;Public;2AP;Standard;27.0;Male;Does not qualify;65.0;1.0
+334;334;DNQDD;Suburban;Public;2AP;Standard;;Male;Does not qualify;70.0;0.0
+335;335;DNQDD;Suburban;Public;2AP;Standard;27.0;Male;Does not qualify;60.0;1.0
+336;336;DNQDD;Suburban;Public;2AP;Standard;27.0;Male;Qualifies for reduced/free lunch;57.0;0.0
+337;337;DNQDD;Suburban;Public;2AP;Standard;27.0;Male;Does not qualify;61.0;0.0
+338;338;DNQDD;Suburban;Public;2AP;Standard;27.0;Male;Qualifies for reduced/free lunch;58.0;1.0
+339;339;DNQDD;Suburban;Public;2AP;Standard;27.0;Male;Qualifies for reduced/free lunch;60.0;0.0
+340;340;DNQDD;Suburban;Public;2AP;Standard;27.0;Male;Qualifies for reduced/free lunch;63.0;1.0
+341;341;DNQDD;Suburban;Public;2AP;Standard;27.0;Male;Qualifies for reduced/free lunch;61.0;1.0
+342;342;DNQDD;Suburban;Public;2AP;Standard;27.0;Male;Does not qualify;59.0;0.0
+343;343;DNQDD;Suburban;Public;2AP;Standard;;Male;Does not qualify;64.0;1.0
+344;344;DNQDD;Suburban;Public;2AP;Standard;27.0;Male;Qualifies for reduced/free lunch;64.0;1.0
+345;345;DNQDD;Suburban;Public;2AP;Standard;27.0;Male;Does not qualify;62.0;0.0
+346;346;DNQDD;Suburban;Public;2AP;Standard;;Male;Does not qualify;63.0;0.0
+347;347;DNQDD;Suburban;Public;2AP;Standard;27.0;Male;Qualifies for reduced/free lunch;63.0;0.0
+348;348;DNQDD;Suburban;Public;2AP;Standard;27.0;Male;Does not qualify;55.0;0.0
+349;349;DNQDD;Suburban;Public;2AP;Standard;27.0;Male;Qualifies for reduced/free lunch;65.0;0.0
+350;350;DNQDD;Suburban;Public;2AP;Standard;27.0;Male;Qualifies for reduced/free lunch;57.0;0.0
+351;351;DNQDD;Suburban;Public;2AP;Standard;27.0;Male;Qualifies for reduced/free lunch;54.0;1.0
+352;352;DNQDD;Suburban;Public;2AP;Standard;;Male;Qualifies for reduced/free lunch;62.0;0.0
+353;353;DNQDD;Suburban;Public;2AP;Standard;27.0;Male;Qualifies for reduced/free lunch;58.0;1.0
+354;354;DNQDD;Suburban;Public;2AP;Standard;27.0;Male;Qualifies for reduced/free lunch;61.0;1.0
+355;355;DNQDD;Suburban;Public;2AP;Standard;27.0;Male;Qualifies for reduced/free lunch;59.0;0.0
+356;356;DNQDD;Suburban;Public;2AP;Standard;;Female;Qualifies for reduced/free lunch;56.0;1.0
+357;357;DNQDD;Suburban;Public;2AP;Standard;27.0;Female;Does not qualify;58.0;1.0
+358;358;DNQDD;Suburban;Public;PW5;Experimental;20.0;Male;Qualifies for reduced/free lunch;56.0;0.0
+359;359;DNQDD;Suburban;Public;PW5;Experimental;20.0;Female;Does not qualify;63.0;1.0
+360;360;DNQDD;Suburban;Public;PW5;Experimental;20.0;Male;Does not qualify;58.0;1.0
+361;361;DNQDD;Suburban;Public;PW5;Experimental;;Male;Qualifies for reduced/free lunch;60.0;1.0
+362;362;DNQDD;Suburban;Public;PW5;Experimental;20.0;Female;Qualifies for reduced/free lunch;49.0;1.0
+363;363;DNQDD;Suburban;Public;PW5;Experimental;20.0;Female;Does not qualify;60.0;0.0
+364;364;DNQDD;Suburban;Public;PW5;Experimental;;Female;Qualifies for reduced/free lunch;57.0;0.0
+365;365;DNQDD;Suburban;Public;PW5;Experimental;;Male;Qualifies for reduced/free lunch;58.0;1.0
+366;366;DNQDD;Suburban;Public;PW5;Experimental;20.0;Female;Does not qualify;63.0;0.0
+367;367;DNQDD;Suburban;Public;PW5;Experimental;20.0;Female;Does not qualify;67.0;0.0
+368;368;DNQDD;Suburban;Public;PW5;Experimental;20.0;Female;Qualifies for reduced/free lunch;53.0;0.0
+369;369;DNQDD;Suburban;Public;PW5;Experimental;20.0;Male;Does not qualify;62.0;1.0
+370;370;DNQDD;Suburban;Public;PW5;Experimental;20.0;Female;Qualifies for reduced/free lunch;54.0;0.0
+371;371;DNQDD;Suburban;Public;PW5;Experimental;20.0;Female;Does not qualify;65.0;1.0
+372;372;DNQDD;Suburban;Public;PW5;Experimental;20.0;Male;Qualifies for reduced/free lunch;57.0;0.0
+373;373;DNQDD;Suburban;Public;PW5;Experimental;20.0;Male;Does not qualify;67.0;1.0
+374;374;DNQDD;Suburban;Public;PW5;Experimental;20.0;Female;Qualifies for reduced/free lunch;61.0;1.0
+375;375;DNQDD;Suburban;Public;PW5;Experimental;20.0;Female;Qualifies for reduced/free lunch;64.0;0.0
+376;376;DNQDD;Suburban;Public;PW5;Experimental;20.0;Male;Qualifies for reduced/free lunch;59.0;1.0
+377;377;DNQDD;Suburban;Public;PW5;Experimental;20.0;Male;Qualifies for reduced/free lunch;52.0;0.0
+378;378;DNQDD;Suburban;Public;ROP;Experimental;28.0;Male;Does not qualify;74.0;0.0
+379;379;DNQDD;Suburban;Public;ROP;Experimental;28.0;Male;Qualifies for reduced/free lunch;74.0;1.0
+380;380;DNQDD;Suburban;Public;ROP;Experimental;28.0;Male;Does not qualify;79.0;0.0
+381;381;DNQDD;Suburban;Public;ROP;Experimental;28.0;Male;Qualifies for reduced/free lunch;71.0;1.0
+382;382;DNQDD;Suburban;Public;ROP;Experimental;28.0;Male;Qualifies for reduced/free lunch;73.0;1.0
+383;383;DNQDD;Suburban;Public;ROP;Experimental;28.0;Male;Qualifies for reduced/free lunch;74.0;1.0
+384;384;DNQDD;Suburban;Public;ROP;Experimental;28.0;Male;Qualifies for reduced/free lunch;71.0;0.0
+385;385;DNQDD;Suburban;Public;ROP;Experimental;28.0;Male;Qualifies for reduced/free lunch;68.0;0.0
+386;386;DNQDD;Suburban;Public;ROP;Experimental;28.0;Male;Does not qualify;75.0;1.0
+387;387;DNQDD;Suburban;Public;ROP;Experimental;28.0;Male;Qualifies for reduced/free lunch;72.0;1.0
+388;388;DNQDD;Suburban;Public;ROP;Experimental;28.0;Male;Qualifies for reduced/free lunch;79.0;0.0
+389;389;DNQDD;Suburban;Public;ROP;Experimental;28.0;Male;Does not qualify;75.0;1.0
+390;390;DNQDD;Suburban;Public;ROP;Experimental;28.0;Male;Does not qualify;78.0;1.0
+391;391;DNQDD;Suburban;Public;ROP;Experimental;28.0;Male;Qualifies for reduced/free lunch;67.0;1.0
+392;392;DNQDD;Suburban;Public;ROP;Experimental;28.0;Male;Qualifies for reduced/free lunch;73.0;0.0
+393;393;DNQDD;Suburban;Public;ROP;Experimental;28.0;Male;Does not qualify;73.0;0.0
+394;394;DNQDD;Suburban;Public;ROP;Experimental;28.0;Male;Qualifies for reduced/free lunch;67.0;0.0
+395;395;DNQDD;Suburban;Public;ROP;Experimental;28.0;Male;Qualifies for reduced/free lunch;73.0;1.0
+396;396;DNQDD;Suburban;Public;ROP;Experimental;28.0;Male;Does not qualify;76.0;1.0
+397;397;DNQDD;Suburban;Public;ROP;Experimental;28.0;Male;Qualifies for reduced/free lunch;67.0;0.0
+398;398;DNQDD;Suburban;Public;ROP;Experimental;28.0;Male;Qualifies for reduced/free lunch;72.0;1.0
+399;399;DNQDD;Suburban;Public;ROP;Experimental;28.0;Male;Does not qualify;77.0;1.0
+400;400;DNQDD;Suburban;Public;ROP;Experimental;28.0;Male;Does not qualify;74.0;0.0
+401;401;DNQDD;Suburban;Public;ROP;Experimental;28.0;Male;Qualifies for reduced/free lunch;74.0;1.0
+402;402;DNQDD;Suburban;Public;ROP;Experimental;28.0;Male;Qualifies for reduced/free lunch;76.0;0.0
+403;403;DNQDD;Suburban;Public;ROP;Experimental;28.0;Male;Does not qualify;77.0;0.0
+404;404;DNQDD;Suburban;Public;ROP;Experimental;28.0;Male;Qualifies for reduced/free lunch;74.0;1.0
+405;405;DNQDD;Suburban;Public;ROP;Experimental;28.0;Male;Qualifies for reduced/free lunch;73.0;1.0
+406;406;DNQDD;Suburban;Public;ST7;Standard;20.0;Male;Qualifies for reduced/free lunch;69.0;0.0
+407;407;DNQDD;Suburban;Public;ST7;Standard;20.0;Male;Does not qualify;74.0;1.0
+408;408;DNQDD;Suburban;Public;ST7;Standard;20.0;Male;Qualifies for reduced/free lunch;60.0;0.0
+409;409;DNQDD;Suburban;Public;ST7;Standard;20.0;Male;Does not qualify;61.0;0.0
+410;410;DNQDD;Suburban;Public;ST7;Standard;20.0;Male;Qualifies for reduced/free lunch;69.0;1.0
+411;411;DNQDD;Suburban;Public;ST7;Standard;20.0;Male;Qualifies for reduced/free lunch;74.0;1.0
+412;412;DNQDD;Suburban;Public;ST7;Standard;20.0;Male;Qualifies for reduced/free lunch;66.0;1.0
+413;413;DNQDD;Suburban;Public;ST7;Standard;20.0;Male;Qualifies for reduced/free lunch;70.0;0.0
+414;414;DNQDD;Suburban;Public;ST7;Standard;20.0;Male;Qualifies for reduced/free lunch;68.0;1.0
+415;415;DNQDD;Suburban;Public;ST7;Standard;20.0;Male;Does not qualify;71.0;1.0
+416;416;DNQDD;Suburban;Public;ST7;Standard;20.0;Male;Qualifies for reduced/free lunch;68.0;1.0
+417;417;DNQDD;Suburban;Public;ST7;Standard;20.0;Male;Qualifies for reduced/free lunch;66.0;0.0
+418;418;DNQDD;Suburban;Public;ST7;Standard;20.0;Male;Does not qualify;72.0;1.0
+419;419;DNQDD;Suburban;Public;ST7;Standard;20.0;Male;Does not qualify;71.0;1.0
+420;420;DNQDD;Suburban;Public;ST7;Standard;20.0;Male;Qualifies for reduced/free lunch;64.0;0.0
+421;421;DNQDD;Suburban;Public;ST7;Standard;20.0;Male;Qualifies for reduced/free lunch;67.0;1.0
+422;422;DNQDD;Suburban;Public;ST7;Standard;20.0;Male;Does not qualify;66.0;1.0
+423;423;DNQDD;Suburban;Public;ST7;Standard;20.0;Male;Qualifies for reduced/free lunch;70.0;0.0
+424;424;DNQDD;Suburban;Public;ST7;Standard;20.0;Male;Qualifies for reduced/free lunch;74.0;0.0
+425;425;DNQDD;Suburban;Public;ST7;Standard;20.0;Male;Qualifies for reduced/free lunch;69.0;1.0
+426;426;DNQDD;Suburban;Public;XXJ;Standard;27.0;Male;Does not qualify;72.0;1.0
+427;427;DNQDD;Suburban;Public;XXJ;Standard;27.0;Male;Qualifies for reduced/free lunch;68.0;1.0
+428;428;DNQDD;Suburban;Public;XXJ;Standard;27.0;Male;Qualifies for reduced/free lunch;71.0;1.0
+429;429;DNQDD;Suburban;Public;XXJ;Standard;27.0;Male;Qualifies for reduced/free lunch;69.0;1.0
+430;430;DNQDD;Suburban;Public;XXJ;Standard;27.0;Male;Does not qualify;66.0;0.0
+431;431;DNQDD;Suburban;Public;XXJ;Standard;27.0;Male;Does not qualify;68.0;0.0
+432;432;DNQDD;Suburban;Public;XXJ;Standard;27.0;Male;Does not qualify;72.0;0.0
+433;433;DNQDD;Suburban;Public;XXJ;Standard;27.0;Male;Does not qualify;70.0;0.0
+434;434;DNQDD;Suburban;Public;XXJ;Standard;27.0;Male;Does not qualify;74.0;0.0
+435;435;DNQDD;Suburban;Public;XXJ;Standard;27.0;Male;Qualifies for reduced/free lunch;69.0;0.0
+436;436;DNQDD;Suburban;Public;XXJ;Standard;27.0;Male;Qualifies for reduced/free lunch;67.0;1.0
+437;437;DNQDD;Suburban;Public;XXJ;Standard;27.0;Male;Qualifies for reduced/free lunch;66.0;1.0
+438;438;DNQDD;Suburban;Public;XXJ;Standard;27.0;Male;Qualifies for reduced/free lunch;71.0;1.0
+439;439;DNQDD;Suburban;Public;XXJ;Standard;27.0;Male;Qualifies for reduced/free lunch;71.0;1.0
+440;440;DNQDD;Suburban;Public;XXJ;Standard;27.0;Male;Qualifies for reduced/free lunch;70.0;1.0
+441;441;DNQDD;Suburban;Public;XXJ;Standard;27.0;Male;Qualifies for reduced/free lunch;67.0;0.0
+442;442;DNQDD;Suburban;Public;XXJ;Standard;27.0;Male;Does not qualify;69.0;1.0
+443;443;DNQDD;Suburban;Public;XXJ;Standard;27.0;Male;Qualifies for reduced/free lunch;65.0;0.0
+444;444;DNQDD;Suburban;Public;XXJ;Standard;27.0;Female;Qualifies for reduced/free lunch;76.0;1.0
+445;445;DNQDD;Suburban;Public;XXJ;Standard;27.0;Female;Qualifies for reduced/free lunch;62.0;0.0
+446;446;DNQDD;Suburban;Public;XXJ;Standard;27.0;Female;Qualifies for reduced/free lunch;67.0;0.0
+447;447;DNQDD;Suburban;Public;XXJ;Standard;27.0;Female;Qualifies for reduced/free lunch;70.0;1.0
+448;448;DNQDD;Suburban;Public;XXJ;Standard;27.0;Female;Does not qualify;68.0;1.0
+449;449;DNQDD;Suburban;Public;XXJ;Standard;27.0;Male;Qualifies for reduced/free lunch;64.0;0.0
+450;450;DNQDD;Suburban;Public;XXJ;Standard;27.0;Male;Does not qualify;75.0;0.0
+451;451;DNQDD;Suburban;Public;XXJ;Standard;27.0;Male;Does not qualify;70.0;0.0
+452;452;DNQDD;Suburban;Public;XXJ;Standard;27.0;Female;Qualifies for reduced/free lunch;68.0;1.0
+453;453;FBUMG;Rural;Non-public;197;Experimental;14.0;Male;Qualifies for reduced/free lunch;68.0;0.0
+454;454;FBUMG;Rural;Non-public;197;Experimental;14.0;Male;Does not qualify;78.0;0.0
+455;455;FBUMG;Rural;Non-public;197;Experimental;14.0;Male;Does not qualify;79.0;1.0
+456;456;FBUMG;Rural;Non-public;197;Experimental;14.0;Male;Does not qualify;76.0;0.0
+457;457;FBUMG;Rural;Non-public;197;Experimental;14.0;Male;Does not qualify;76.0;1.0
+458;458;FBUMG;Rural;Non-public;197;Experimental;14.0;Female;Does not qualify;84.0;0.0
+459;459;FBUMG;Rural;Non-public;197;Experimental;;Female;Does not qualify;78.0;1.0
+460;460;FBUMG;Rural;Non-public;197;Experimental;14.0;Male;Qualifies for reduced/free lunch;73.0;1.0
+461;461;FBUMG;Rural;Non-public;197;Experimental;14.0;Male;Does not qualify;77.0;0.0
+462;462;FBUMG;Rural;Non-public;197;Experimental;14.0;Male;Does not qualify;80.0;1.0
+463;463;FBUMG;Rural;Non-public;197;Experimental;14.0;Male;Does not qualify;79.0;1.0
+464;464;FBUMG;Rural;Non-public;197;Experimental;14.0;Male;Does not qualify;84.0;0.0
+465;465;FBUMG;Rural;Non-public;197;Experimental;;Male;Does not qualify;81.0;1.0
+466;466;FBUMG;Rural;Non-public;197;Experimental;14.0;Male;Does not qualify;78.0;1.0
+467;467;FBUMG;Rural;Non-public;5LQ;Experimental;18.0;Male;Qualifies for reduced/free lunch;84.0;0.0
+468;468;FBUMG;Rural;Non-public;5LQ;Experimental;18.0;Male;Qualifies for reduced/free lunch;85.0;0.0
+469;469;FBUMG;Rural;Non-public;5LQ;Experimental;18.0;Male;Qualifies for reduced/free lunch;81.0;1.0
+470;470;FBUMG;Rural;Non-public;5LQ;Experimental;18.0;Male;Does not qualify;88.0;0.0
+471;471;FBUMG;Rural;Non-public;5LQ;Experimental;18.0;Male;Does not qualify;81.0;0.0
+472;472;FBUMG;Rural;Non-public;5LQ;Experimental;;Male;Does not qualify;82.0;1.0
+473;473;FBUMG;Rural;Non-public;5LQ;Experimental;18.0;Male;Qualifies for reduced/free lunch;79.0;0.0
+474;474;FBUMG;Rural;Non-public;5LQ;Experimental;;Male;Does not qualify;83.0;0.0
+475;475;FBUMG;Rural;Non-public;5LQ;Experimental;18.0;Male;Does not qualify;83.0;0.0
+476;476;FBUMG;Rural;Non-public;5LQ;Experimental;18.0;Male;Qualifies for reduced/free lunch;83.0;1.0
+477;477;FBUMG;Rural;Non-public;5LQ;Experimental;18.0;Male;Does not qualify;80.0;0.0
+478;478;FBUMG;Rural;Non-public;5LQ;Experimental;18.0;Male;Does not qualify;81.0;1.0
+479;479;FBUMG;Rural;Non-public;5LQ;Experimental;18.0;Male;Does not qualify;82.0;0.0
+480;480;FBUMG;Rural;Non-public;5LQ;Experimental;;Male;Does not qualify;86.0;1.0
+481;481;FBUMG;Rural;Non-public;5LQ;Experimental;18.0;Male;Does not qualify;83.0;0.0
+482;482;FBUMG;Rural;Non-public;5LQ;Experimental;18.0;Female;Qualifies for reduced/free lunch;73.0;0.0
+483;483;FBUMG;Rural;Non-public;5LQ;Experimental;18.0;Male;Does not qualify;76.0;0.0
+484;484;FBUMG;Rural;Non-public;5LQ;Experimental;18.0;Male;Does not qualify;87.0;1.0
+485;485;FBUMG;Rural;Non-public;JGD;Experimental;;Male;Does not qualify;79.0;0.0
+486;486;FBUMG;Rural;Non-public;JGD;Experimental;14.0;Female;Does not qualify;76.0;0.0
+487;487;FBUMG;Rural;Non-public;JGD;Experimental;14.0;Male;Does not qualify;68.0;0.0
+488;488;FBUMG;Rural;Non-public;JGD;Experimental;14.0;Male;Qualifies for reduced/free lunch;69.0;1.0
+489;489;FBUMG;Rural;Non-public;JGD;Experimental;14.0;Female;Does not qualify;76.0;0.0
+490;490;FBUMG;Rural;Non-public;JGD;Experimental;14.0;Male;Qualifies for reduced/free lunch;73.0;0.0
+491;491;FBUMG;Rural;Non-public;JGD;Experimental;14.0;Male;Qualifies for reduced/free lunch;78.0;1.0
+492;492;FBUMG;Rural;Non-public;JGD;Experimental;14.0;Male;Does not qualify;77.0;0.0
+493;493;FBUMG;Rural;Non-public;JGD;Experimental;14.0;Female;Does not qualify;77.0;1.0
+494;494;FBUMG;Rural;Non-public;JGD;Experimental;14.0;Female;Does not qualify;74.0;0.0
+495;495;FBUMG;Rural;Non-public;JGD;Experimental;14.0;Male;Does not qualify;72.0;1.0
+496;496;FBUMG;Rural;Non-public;JGD;Experimental;14.0;Male;Does not qualify;74.0;1.0
+497;497;FBUMG;Rural;Non-public;JGD;Experimental;14.0;Female;Does not qualify;80.0;0.0
+498;498;FBUMG;Rural;Non-public;JGD;Experimental;14.0;Female;Does not qualify;75.0;0.0
+499;499;GJJHK;Suburban;Public;HCB;Standard;22.0;Female;Does not qualify;61.0;1.0
+500;500;GJJHK;Suburban;Public;HCB;Standard;22.0;Male;Qualifies for reduced/free lunch;49.0;0.0
+501;501;GJJHK;Suburban;Public;HCB;Standard;22.0;Male;Qualifies for reduced/free lunch;60.0;1.0
+502;502;GJJHK;Suburban;Public;HCB;Standard;22.0;Female;Qualifies for reduced/free lunch;61.0;0.0
+503;503;GJJHK;Suburban;Public;HCB;Standard;22.0;Female;Does not qualify;58.0;1.0
+504;504;GJJHK;Suburban;Public;HCB;Standard;22.0;Male;Qualifies for reduced/free lunch;55.0;1.0
+505;505;GJJHK;Suburban;Public;HCB;Standard;22.0;Female;Qualifies for reduced/free lunch;58.0;1.0
+506;506;GJJHK;Suburban;Public;HCB;Standard;22.0;Female;Qualifies for reduced/free lunch;57.0;0.0
+507;507;GJJHK;Suburban;Public;HCB;Standard;22.0;Female;Qualifies for reduced/free lunch;61.0;0.0
+508;508;GJJHK;Suburban;Public;HCB;Standard;22.0;Female;Qualifies for reduced/free lunch;55.0;1.0
+509;509;GJJHK;Suburban;Public;HCB;Standard;22.0;Female;Qualifies for reduced/free lunch;59.0;0.0
+510;510;GJJHK;Suburban;Public;HCB;Standard;22.0;Male;Qualifies for reduced/free lunch;61.0;0.0
+511;511;GJJHK;Suburban;Public;HCB;Standard;22.0;Female;Qualifies for reduced/free lunch;61.0;0.0
+512;512;GJJHK;Suburban;Public;HCB;Standard;22.0;Female;Qualifies for reduced/free lunch;59.0;0.0
+513;513;GJJHK;Suburban;Public;HCB;Standard;22.0;Female;Qualifies for reduced/free lunch;57.0;1.0
+514;514;GJJHK;Suburban;Public;HCB;Standard;22.0;Male;Qualifies for reduced/free lunch;50.0;1.0
+515;515;GJJHK;Suburban;Public;HCB;Standard;22.0;Female;Qualifies for reduced/free lunch;57.0;1.0
+516;516;GJJHK;Suburban;Public;HCB;Standard;22.0;Female;Qualifies for reduced/free lunch;56.0;1.0
+517;517;GJJHK;Suburban;Public;HCB;Standard;22.0;Female;Qualifies for reduced/free lunch;58.0;0.0
+518;518;GJJHK;Suburban;Public;HCB;Standard;22.0;Female;Qualifies for reduced/free lunch;55.0;1.0
+519;519;GJJHK;Suburban;Public;HCB;Standard;22.0;Male;Qualifies for reduced/free lunch;56.0;1.0
+520;520;GJJHK;Suburban;Public;HCB;Standard;22.0;Male;Qualifies for reduced/free lunch;64.0;1.0
+521;521;GJJHK;Suburban;Public;NOR;Experimental;27.0;Female;Qualifies for reduced/free lunch;75.0;1.0
+522;522;GJJHK;Suburban;Public;NOR;Experimental;27.0;Female;Qualifies for reduced/free lunch;76.0;0.0
+523;523;GJJHK;Suburban;Public;NOR;Experimental;27.0;Male;Qualifies for reduced/free lunch;79.0;0.0
+524;524;GJJHK;Suburban;Public;NOR;Experimental;27.0;Male;Qualifies for reduced/free lunch;82.0;0.0
+525;525;GJJHK;Suburban;Public;NOR;Experimental;27.0;Female;Qualifies for reduced/free lunch;76.0;1.0
+526;526;GJJHK;Suburban;Public;NOR;Experimental;27.0;Male;Qualifies for reduced/free lunch;78.0;1.0
+527;527;GJJHK;Suburban;Public;NOR;Experimental;27.0;Male;Qualifies for reduced/free lunch;79.0;1.0
+528;528;GJJHK;Suburban;Public;NOR;Experimental;27.0;Male;Qualifies for reduced/free lunch;75.0;0.0
+529;529;GJJHK;Suburban;Public;NOR;Experimental;27.0;Male;Qualifies for reduced/free lunch;82.0;0.0
+530;530;GJJHK;Suburban;Public;NOR;Experimental;27.0;Male;Qualifies for reduced/free lunch;74.0;0.0
+531;531;GJJHK;Suburban;Public;NOR;Experimental;27.0;Male;Does not qualify;79.0;0.0
+532;532;GJJHK;Suburban;Public;NOR;Experimental;27.0;Male;Qualifies for reduced/free lunch;72.0;0.0
+533;533;GJJHK;Suburban;Public;NOR;Experimental;27.0;Male;Qualifies for reduced/free lunch;79.0;0.0
+534;534;GJJHK;Suburban;Public;NOR;Experimental;27.0;Male;Qualifies for reduced/free lunch;75.0;0.0
+535;535;GJJHK;Suburban;Public;NOR;Experimental;27.0;Male;Qualifies for reduced/free lunch;79.0;0.0
+536;536;GJJHK;Suburban;Public;NOR;Experimental;27.0;Male;Does not qualify;80.0;1.0
+537;537;GJJHK;Suburban;Public;NOR;Experimental;27.0;Male;Qualifies for reduced/free lunch;81.0;0.0
+538;538;GJJHK;Suburban;Public;NOR;Experimental;27.0;Male;Qualifies for reduced/free lunch;85.0;0.0
+539;539;GJJHK;Suburban;Public;NOR;Experimental;27.0;Male;Qualifies for reduced/free lunch;78.0;0.0
+540;540;GJJHK;Suburban;Public;NOR;Experimental;27.0;Male;Qualifies for reduced/free lunch;79.0;1.0
+541;541;GJJHK;Suburban;Public;NOR;Experimental;27.0;Male;Qualifies for reduced/free lunch;77.0;1.0
+542;542;GJJHK;Suburban;Public;NOR;Experimental;27.0;Male;Qualifies for reduced/free lunch;73.0;1.0
+543;543;GJJHK;Suburban;Public;NOR;Experimental;27.0;Male;Does not qualify;84.0;1.0
+544;544;GJJHK;Suburban;Public;NOR;Experimental;27.0;Male;Does not qualify;83.0;1.0
+545;545;GJJHK;Suburban;Public;NOR;Experimental;27.0;Male;Does not qualify;81.0;0.0
+546;546;GJJHK;Suburban;Public;NOR;Experimental;27.0;Male;Qualifies for reduced/free lunch;74.0;1.0
+547;547;GJJHK;Suburban;Public;NOR;Experimental;27.0;Male;Qualifies for reduced/free lunch;77.0;1.0
+548;548;GJJHK;Suburban;Public;X78;Standard;21.0;Male;Qualifies for reduced/free lunch;64.0;0.0
+549;549;GJJHK;Suburban;Public;X78;Standard;21.0;Male;Does not qualify;64.0;0.0
+550;550;GJJHK;Suburban;Public;X78;Standard;21.0;Male;Qualifies for reduced/free lunch;65.0;0.0
+551;551;GJJHK;Suburban;Public;X78;Standard;21.0;Male;Qualifies for reduced/free lunch;69.0;0.0
+552;552;GJJHK;Suburban;Public;X78;Standard;21.0;Male;Qualifies for reduced/free lunch;61.0;1.0
+553;553;GJJHK;Suburban;Public;X78;Standard;21.0;Male;Qualifies for reduced/free lunch;64.0;1.0
+554;554;GJJHK;Suburban;Public;X78;Standard;21.0;Male;Qualifies for reduced/free lunch;63.0;0.0
+555;555;GJJHK;Suburban;Public;X78;Standard;21.0;Male;Qualifies for reduced/free lunch;65.0;1.0
+556;556;GJJHK;Suburban;Public;X78;Standard;21.0;Male;Does not qualify;72.0;0.0
+557;557;GJJHK;Suburban;Public;X78;Standard;21.0;Male;Qualifies for reduced/free lunch;72.0;1.0
+558;558;GJJHK;Suburban;Public;X78;Standard;21.0;Male;Qualifies for reduced/free lunch;60.0;1.0
+559;559;GJJHK;Suburban;Public;X78;Standard;21.0;Male;Does not qualify;70.0;1.0
+560;560;GJJHK;Suburban;Public;X78;Standard;21.0;Male;Qualifies for reduced/free lunch;65.0;1.0
+561;561;GJJHK;Suburban;Public;X78;Standard;21.0;Male;Does not qualify;74.0;0.0
+562;562;GJJHK;Suburban;Public;X78;Standard;21.0;Male;Qualifies for reduced/free lunch;69.0;0.0
+563;563;GJJHK;Suburban;Public;X78;Standard;21.0;Male;Qualifies for reduced/free lunch;63.0;1.0
+564;564;GJJHK;Suburban;Public;X78;Standard;21.0;Male;Qualifies for reduced/free lunch;69.0;0.0
+565;565;GJJHK;Suburban;Public;X78;Standard;21.0;Male;Qualifies for reduced/free lunch;69.0;1.0
+566;566;GJJHK;Suburban;Public;X78;Standard;21.0;Male;Qualifies for reduced/free lunch;62.0;1.0
+567;567;GJJHK;Suburban;Public;X78;Standard;21.0;Male;Qualifies for reduced/free lunch;65.0;1.0
+568;568;GJJHK;Suburban;Public;X78;Standard;21.0;Male;Does not qualify;62.0;0.0
+569;569;GJJHK;Suburban;Public;YUC;Standard;21.0;Male;Qualifies for reduced/free lunch;57.0;1.0
+570;570;GJJHK;Suburban;Public;YUC;Standard;21.0;Male;Qualifies for reduced/free lunch;57.0;0.0
+571;571;GJJHK;Suburban;Public;YUC;Standard;21.0;Male;Qualifies for reduced/free lunch;49.0;1.0
+572;572;GJJHK;Suburban;Public;YUC;Standard;21.0;Male;Qualifies for reduced/free lunch;54.0;0.0
+573;573;GJJHK;Suburban;Public;YUC;Standard;21.0;Male;Qualifies for reduced/free lunch;55.0;0.0
+574;574;GJJHK;Suburban;Public;YUC;Standard;21.0;Male;Qualifies for reduced/free lunch;54.0;1.0
+575;575;GJJHK;Suburban;Public;YUC;Standard;21.0;Male;Qualifies for reduced/free lunch;59.0;1.0
+576;576;GJJHK;Suburban;Public;YUC;Standard;21.0;Male;Qualifies for reduced/free lunch;58.0;1.0
+577;577;GJJHK;Suburban;Public;YUC;Standard;21.0;Male;Does not qualify;62.0;1.0
+578;578;GJJHK;Suburban;Public;YUC;Standard;21.0;Male;Qualifies for reduced/free lunch;55.0;0.0
+579;579;GJJHK;Suburban;Public;YUC;Standard;21.0;Male;Qualifies for reduced/free lunch;59.0;0.0
+580;580;GJJHK;Suburban;Public;YUC;Standard;21.0;Male;Qualifies for reduced/free lunch;59.0;0.0
+581;581;GJJHK;Suburban;Public;YUC;Standard;21.0;Male;Qualifies for reduced/free lunch;54.0;0.0
+582;582;GJJHK;Suburban;Public;YUC;Standard;21.0;Male;Qualifies for reduced/free lunch;53.0;0.0
+583;583;GJJHK;Suburban;Public;YUC;Standard;21.0;Male;Does not qualify;60.0;1.0
+584;584;GJJHK;Suburban;Public;YUC;Standard;21.0;Male;Qualifies for reduced/free lunch;59.0;0.0
+585;585;GJJHK;Suburban;Public;YUC;Standard;21.0;Male;Qualifies for reduced/free lunch;51.0;1.0
+586;586;GJJHK;Suburban;Public;YUC;Standard;21.0;Male;Qualifies for reduced/free lunch;55.0;1.0
+587;587;GJJHK;Suburban;Public;YUC;Standard;21.0;Male;Qualifies for reduced/free lunch;53.0;1.0
+588;588;GJJHK;Suburban;Public;YUC;Standard;21.0;Male;Qualifies for reduced/free lunch;51.0;1.0
+589;589;GJJHK;Suburban;Public;YUC;Standard;21.0;Male;Qualifies for reduced/free lunch;57.0;0.0
+590;590;GJJHK;Suburban;Public;ZDT;Standard;27.0;Male;Qualifies for reduced/free lunch;67.0;1.0
+591;591;GJJHK;Suburban;Public;ZDT;Standard;27.0;Male;Qualifies for reduced/free lunch;60.0;1.0
+592;592;GJJHK;Suburban;Public;ZDT;Standard;27.0;Male;Qualifies for reduced/free lunch;63.0;1.0
+593;593;GJJHK;Suburban;Public;ZDT;Standard;27.0;Male;Qualifies for reduced/free lunch;59.0;1.0
+594;594;GJJHK;Suburban;Public;ZDT;Standard;27.0;Male;Qualifies for reduced/free lunch;70.0;1.0
+595;595;GJJHK;Suburban;Public;ZDT;Standard;27.0;Male;Does not qualify;65.0;0.0
+596;596;GJJHK;Suburban;Public;ZDT;Standard;27.0;Male;Qualifies for reduced/free lunch;66.0;0.0
+597;597;GJJHK;Suburban;Public;ZDT;Standard;27.0;Male;Qualifies for reduced/free lunch;59.0;1.0
+598;598;GJJHK;Suburban;Public;ZDT;Standard;27.0;Male;Qualifies for reduced/free lunch;69.0;0.0
+599;599;GJJHK;Suburban;Public;ZDT;Standard;27.0;Male;Qualifies for reduced/free lunch;62.0;1.0
+600;600;GJJHK;Suburban;Public;ZDT;Standard;27.0;Male;Qualifies for reduced/free lunch;63.0;0.0
+601;601;GJJHK;Suburban;Public;ZDT;Standard;27.0;Male;Qualifies for reduced/free lunch;64.0;1.0
+602;602;GJJHK;Suburban;Public;ZDT;Standard;27.0;Male;Qualifies for reduced/free lunch;63.0;0.0
+603;603;GJJHK;Suburban;Public;ZDT;Standard;27.0;Male;Qualifies for reduced/free lunch;67.0;0.0
+604;604;GJJHK;Suburban;Public;ZDT;Standard;27.0;Male;Qualifies for reduced/free lunch;64.0;1.0
+605;605;GJJHK;Suburban;Public;ZDT;Standard;27.0;Male;Does not qualify;66.0;1.0
+606;606;GJJHK;Suburban;Public;ZDT;Standard;27.0;Male;Qualifies for reduced/free lunch;63.0;0.0
+607;607;GJJHK;Suburban;Public;ZDT;Standard;27.0;Female;Qualifies for reduced/free lunch;63.0;0.0
+608;608;GJJHK;Suburban;Public;ZDT;Standard;27.0;Male;Qualifies for reduced/free lunch;61.0;1.0
+609;609;GJJHK;Suburban;Public;ZDT;Standard;27.0;Female;Does not qualify;69.0;0.0
+610;610;GJJHK;Suburban;Public;ZDT;Standard;27.0;Female;Qualifies for reduced/free lunch;63.0;1.0
+611;611;GJJHK;Suburban;Public;ZDT;Standard;27.0;Female;Qualifies for reduced/free lunch;65.0;1.0
+612;612;GJJHK;Suburban;Public;ZDT;Standard;27.0;Male;Qualifies for reduced/free lunch;68.0;1.0
+613;613;GJJHK;Suburban;Public;ZDT;Standard;27.0;Male;Qualifies for reduced/free lunch;65.0;1.0
+614;614;GJJHK;Suburban;Public;ZDT;Standard;27.0;Male;Qualifies for reduced/free lunch;61.0;0.0
+615;615;GJJHK;Suburban;Public;ZDT;Standard;27.0;Male;Qualifies for reduced/free lunch;66.0;1.0
+616;616;GJJHK;Suburban;Public;ZDT;Standard;27.0;Male;Qualifies for reduced/free lunch;64.0;0.0
+617;617;GOKXL;Rural;Public;ENO;Experimental;22.0;Male;Qualifies for reduced/free lunch;72.0;0.0
+618;618;GOKXL;Rural;Public;ENO;Experimental;22.0;Male;Qualifies for reduced/free lunch;70.0;0.0
+619;619;GOKXL;Rural;Public;ENO;Experimental;22.0;Male;Qualifies for reduced/free lunch;70.0;1.0
+620;620;GOKXL;Rural;Public;ENO;Experimental;22.0;Male;Does not qualify;72.0;0.0
+621;621;GOKXL;Rural;Public;ENO;Experimental;22.0;Male;Does not qualify;70.0;0.0
+622;622;GOKXL;Rural;Public;ENO;Experimental;22.0;Male;Qualifies for reduced/free lunch;71.0;1.0
+623;623;GOKXL;Rural;Public;ENO;Experimental;22.0;Male;Qualifies for reduced/free lunch;68.0;0.0
+624;624;GOKXL;Rural;Public;ENO;Experimental;22.0;Male;Does not qualify;74.0;0.0
+625;625;GOKXL;Rural;Public;ENO;Experimental;22.0;Male;Qualifies for reduced/free lunch;65.0;1.0
+626;626;GOKXL;Rural;Public;ENO;Experimental;22.0;Male;Qualifies for reduced/free lunch;72.0;0.0
+627;627;GOKXL;Rural;Public;ENO;Experimental;22.0;Male;Qualifies for reduced/free lunch;72.0;1.0
+628;628;GOKXL;Rural;Public;ENO;Experimental;22.0;Male;Qualifies for reduced/free lunch;62.0;1.0
+629;629;GOKXL;Rural;Public;ENO;Experimental;22.0;Male;Does not qualify;72.0;1.0
+630;630;GOKXL;Rural;Public;ENO;Experimental;22.0;Male;Qualifies for reduced/free lunch;77.0;0.0
+631;631;GOKXL;Rural;Public;ENO;Experimental;22.0;Male;Qualifies for reduced/free lunch;69.0;0.0
+632;632;GOKXL;Rural;Public;ENO;Experimental;22.0;Male;Qualifies for reduced/free lunch;69.0;0.0
+633;633;GOKXL;Rural;Public;ENO;Experimental;22.0;Female;Qualifies for reduced/free lunch;75.0;0.0
+634;634;GOKXL;Rural;Public;ENO;Experimental;22.0;Male;Does not qualify;70.0;0.0
+635;635;GOKXL;Rural;Public;ENO;Experimental;22.0;Male;Qualifies for reduced/free lunch;69.0;1.0
+636;636;GOKXL;Rural;Public;ENO;Experimental;22.0;Male;Qualifies for reduced/free lunch;69.0;0.0
+637;637;GOKXL;Rural;Public;ENO;Experimental;22.0;Male;Qualifies for reduced/free lunch;65.0;0.0
+638;638;GOKXL;Rural;Public;ENO;Experimental;22.0;Male;Qualifies for reduced/free lunch;67.0;0.0
+639;639;GOKXL;Rural;Public;TSA;Experimental;23.0;Male;Qualifies for reduced/free lunch;70.0;0.0
+640;640;GOKXL;Rural;Public;TSA;Experimental;23.0;Male;Qualifies for reduced/free lunch;72.0;1.0
+641;641;GOKXL;Rural;Public;TSA;Experimental;23.0;Male;Qualifies for reduced/free lunch;71.0;1.0
+642;642;GOKXL;Rural;Public;TSA;Experimental;23.0;Male;Qualifies for reduced/free lunch;68.0;0.0
+643;643;GOKXL;Rural;Public;TSA;Experimental;23.0;Male;Does not qualify;68.0;0.0
+644;644;GOKXL;Rural;Public;TSA;Experimental;23.0;Male;Qualifies for reduced/free lunch;70.0;0.0
+645;645;GOKXL;Rural;Public;TSA;Experimental;23.0;Male;Qualifies for reduced/free lunch;71.0;0.0
+646;646;GOKXL;Rural;Public;TSA;Experimental;23.0;Male;Qualifies for reduced/free lunch;69.0;0.0
+647;647;GOKXL;Rural;Public;TSA;Experimental;23.0;Male;Qualifies for reduced/free lunch;71.0;1.0
+648;648;GOKXL;Rural;Public;TSA;Experimental;23.0;Male;Qualifies for reduced/free lunch;74.0;1.0
+649;649;GOKXL;Rural;Public;TSA;Experimental;23.0;Male;Does not qualify;68.0;0.0
+650;650;GOKXL;Rural;Public;TSA;Experimental;23.0;Male;Qualifies for reduced/free lunch;68.0;0.0
+651;651;GOKXL;Rural;Public;TSA;Experimental;23.0;Male;Qualifies for reduced/free lunch;66.0;1.0
+652;652;GOKXL;Rural;Public;TSA;Experimental;23.0;Male;Qualifies for reduced/free lunch;72.0;1.0
+653;653;GOKXL;Rural;Public;TSA;Experimental;23.0;Male;Qualifies for reduced/free lunch;63.0;1.0
+654;654;GOKXL;Rural;Public;TSA;Experimental;23.0;Male;Qualifies for reduced/free lunch;74.0;1.0
+655;655;GOKXL;Rural;Public;TSA;Experimental;23.0;Male;Qualifies for reduced/free lunch;70.0;0.0
+656;656;GOKXL;Rural;Public;TSA;Experimental;23.0;Male;Qualifies for reduced/free lunch;61.0;0.0
+657;657;GOKXL;Rural;Public;TSA;Experimental;23.0;Female;Qualifies for reduced/free lunch;69.0;0.0
+658;658;GOKXL;Rural;Public;TSA;Experimental;23.0;Male;Does not qualify;67.0;1.0
+659;659;GOKXL;Rural;Public;TSA;Experimental;23.0;Male;Qualifies for reduced/free lunch;70.0;1.0
+660;660;GOKXL;Rural;Public;TSA;Experimental;23.0;Male;Qualifies for reduced/free lunch;75.0;0.0
+661;661;GOKXL;Rural;Public;TSA;Experimental;23.0;Male;Qualifies for reduced/free lunch;69.0;0.0
+662;662;GOKXL;Rural;Public;VA6;Standard;19.0;Female;Qualifies for reduced/free lunch;56.0;1.0
+663;663;GOKXL;Rural;Public;VA6;Standard;19.0;Male;Does not qualify;57.0;1.0
+664;664;GOKXL;Rural;Public;VA6;Standard;19.0;Female;Qualifies for reduced/free lunch;52.0;0.0
+665;665;GOKXL;Rural;Public;VA6;Standard;19.0;Male;Does not qualify;61.0;1.0
+666;666;GOKXL;Rural;Public;VA6;Standard;19.0;Male;Qualifies for reduced/free lunch;57.0;1.0
+667;667;GOKXL;Rural;Public;VA6;Standard;19.0;Male;Qualifies for reduced/free lunch;56.0;0.0
+668;668;GOKXL;Rural;Public;VA6;Standard;19.0;Male;Qualifies for reduced/free lunch;53.0;1.0
+669;669;GOKXL;Rural;Public;VA6;Standard;19.0;Male;Qualifies for reduced/free lunch;53.0;1.0
+670;670;GOKXL;Rural;Public;VA6;Standard;19.0;Male;Qualifies for reduced/free lunch;53.0;1.0
+671;671;GOKXL;Rural;Public;VA6;Standard;19.0;Male;Qualifies for reduced/free lunch;53.0;1.0
+672;672;GOKXL;Rural;Public;VA6;Standard;19.0;Male;Does not qualify;53.0;0.0
+673;673;GOKXL;Rural;Public;VA6;Standard;19.0;Male;Qualifies for reduced/free lunch;57.0;1.0
+674;674;GOKXL;Rural;Public;VA6;Standard;19.0;Male;Qualifies for reduced/free lunch;50.0;0.0
+675;675;GOKXL;Rural;Public;VA6;Standard;19.0;Male;Qualifies for reduced/free lunch;48.0;1.0
+676;676;GOKXL;Rural;Public;VA6;Standard;19.0;Male;Qualifies for reduced/free lunch;48.0;0.0
+677;677;GOKXL;Rural;Public;VA6;Standard;19.0;Male;Qualifies for reduced/free lunch;53.0;1.0
+678;678;GOKXL;Rural;Public;VA6;Standard;19.0;Male;Does not qualify;57.0;0.0
+679;679;GOKXL;Rural;Public;VA6;Standard;19.0;Male;Qualifies for reduced/free lunch;53.0;1.0
+680;680;GOKXL;Rural;Public;VA6;Standard;19.0;Male;Qualifies for reduced/free lunch;51.0;0.0
+681;681;GOOBU;Urban;Public;18K;Standard;31.0;Male;Qualifies for reduced/free lunch;58.0;1.0
+682;682;GOOBU;Urban;Public;18K;Standard;31.0;Male;Qualifies for reduced/free lunch;57.0;1.0
+683;683;GOOBU;Urban;Public;18K;Standard;31.0;Male;Qualifies for reduced/free lunch;53.0;1.0
+684;684;GOOBU;Urban;Public;18K;Standard;31.0;Male;Qualifies for reduced/free lunch;57.0;0.0
+685;685;GOOBU;Urban;Public;18K;Standard;31.0;Male;Qualifies for reduced/free lunch;59.0;1.0
+686;686;GOOBU;Urban;Public;18K;Standard;31.0;Male;Qualifies for reduced/free lunch;54.0;0.0
+687;687;GOOBU;Urban;Public;18K;Standard;31.0;Male;Qualifies for reduced/free lunch;51.0;1.0
+688;688;GOOBU;Urban;Public;18K;Standard;31.0;Male;Qualifies for reduced/free lunch;55.0;1.0
+689;689;GOOBU;Urban;Public;18K;Standard;31.0;Male;Qualifies for reduced/free lunch;56.0;1.0
+690;690;GOOBU;Urban;Public;18K;Standard;31.0;Male;Qualifies for reduced/free lunch;58.0;1.0
+691;691;GOOBU;Urban;Public;18K;Standard;31.0;Male;Qualifies for reduced/free lunch;56.0;1.0
+692;692;GOOBU;Urban;Public;18K;Standard;31.0;Male;Qualifies for reduced/free lunch;53.0;0.0
+693;693;GOOBU;Urban;Public;18K;Standard;31.0;Male;Qualifies for reduced/free lunch;57.0;1.0
+694;694;GOOBU;Urban;Public;18K;Standard;31.0;Male;Does not qualify;59.0;0.0
+695;695;GOOBU;Urban;Public;18K;Standard;31.0;Male;Qualifies for reduced/free lunch;55.0;0.0
+696;696;GOOBU;Urban;Public;18K;Standard;31.0;Male;Qualifies for reduced/free lunch;55.0;0.0
+697;697;GOOBU;Urban;Public;18K;Standard;31.0;Male;Qualifies for reduced/free lunch;54.0;1.0
+698;698;GOOBU;Urban;Public;18K;Standard;31.0;Male;Qualifies for reduced/free lunch;58.0;0.0
+699;699;GOOBU;Urban;Public;18K;Standard;31.0;Male;Qualifies for reduced/free lunch;51.0;1.0
+700;700;GOOBU;Urban;Public;18K;Standard;31.0;Male;Qualifies for reduced/free lunch;52.0;1.0
+701;701;GOOBU;Urban;Public;18K;Standard;31.0;Male;Qualifies for reduced/free lunch;60.0;1.0
+702;702;GOOBU;Urban;Public;18K;Standard;31.0;Male;Qualifies for reduced/free lunch;59.0;0.0
+703;703;GOOBU;Urban;Public;18K;Standard;31.0;Male;Qualifies for reduced/free lunch;53.0;0.0
+704;704;GOOBU;Urban;Public;18K;Standard;31.0;Male;Qualifies for reduced/free lunch;57.0;1.0
+705;705;GOOBU;Urban;Public;18K;Standard;31.0;Male;Qualifies for reduced/free lunch;51.0;0.0
+706;706;GOOBU;Urban;Public;18K;Standard;31.0;Male;Does not qualify;59.0;1.0
+707;707;GOOBU;Urban;Public;18K;Standard;31.0;Male;Qualifies for reduced/free lunch;57.0;1.0
+708;708;GOOBU;Urban;Public;18K;Standard;31.0;Male;Does not qualify;62.0;0.0
+709;709;GOOBU;Urban;Public;18K;Standard;31.0;Male;Qualifies for reduced/free lunch;58.0;1.0
+710;710;GOOBU;Urban;Public;18K;Standard;31.0;Male;Qualifies for reduced/free lunch;62.0;0.0
+711;711;GOOBU;Urban;Public;18K;Standard;31.0;Male;Qualifies for reduced/free lunch;51.0;1.0
+712;712;GOOBU;Urban;Public;CXC;Standard;24.0;Male;Qualifies for reduced/free lunch;39.0;1.0
+713;713;GOOBU;Urban;Public;CXC;Standard;24.0;Male;Does not qualify;43.0;1.0
+714;714;GOOBU;Urban;Public;CXC;Standard;24.0;Male;Qualifies for reduced/free lunch;45.0;1.0
+715;715;GOOBU;Urban;Public;CXC;Standard;24.0;Male;Does not qualify;45.0;1.0
+716;716;GOOBU;Urban;Public;CXC;Standard;24.0;Male;Does not qualify;47.0;0.0
+717;717;GOOBU;Urban;Public;CXC;Standard;24.0;Male;Qualifies for reduced/free lunch;42.0;1.0
+718;718;GOOBU;Urban;Public;CXC;Standard;24.0;Male;Qualifies for reduced/free lunch;44.0;0.0
+719;719;GOOBU;Urban;Public;CXC;Standard;24.0;Male;Qualifies for reduced/free lunch;46.0;1.0
+720;720;GOOBU;Urban;Public;CXC;Standard;24.0;Male;Qualifies for reduced/free lunch;43.0;1.0
+721;721;GOOBU;Urban;Public;CXC;Standard;24.0;Male;Qualifies for reduced/free lunch;43.0;1.0
+722;722;GOOBU;Urban;Public;CXC;Standard;24.0;Male;Qualifies for reduced/free lunch;43.0;0.0
+723;723;GOOBU;Urban;Public;CXC;Standard;24.0;Male;Qualifies for reduced/free lunch;45.0;1.0
+724;724;GOOBU;Urban;Public;CXC;Standard;24.0;Male;Qualifies for reduced/free lunch;42.0;1.0
+725;725;GOOBU;Urban;Public;CXC;Standard;24.0;Male;Qualifies for reduced/free lunch;43.0;1.0
+726;726;GOOBU;Urban;Public;CXC;Standard;24.0;Male;Qualifies for reduced/free lunch;48.0;1.0
+727;727;GOOBU;Urban;Public;CXC;Standard;24.0;Male;Qualifies for reduced/free lunch;41.0;1.0
+728;728;GOOBU;Urban;Public;CXC;Standard;24.0;Male;Qualifies for reduced/free lunch;36.0;1.0
+729;729;GOOBU;Urban;Public;CXC;Standard;24.0;Male;Qualifies for reduced/free lunch;40.0;1.0
+730;730;GOOBU;Urban;Public;CXC;Standard;24.0;Male;Qualifies for reduced/free lunch;45.0;0.0
+731;731;GOOBU;Urban;Public;CXC;Standard;24.0;Male;Qualifies for reduced/free lunch;44.0;1.0
+732;732;GOOBU;Urban;Public;CXC;Standard;24.0;Male;Does not qualify;52.0;1.0
+733;733;GOOBU;Urban;Public;CXC;Standard;24.0;Male;Does not qualify;48.0;1.0
+734;734;GOOBU;Urban;Public;CXC;Standard;24.0;Male;Qualifies for reduced/free lunch;41.0;1.0
+735;735;GOOBU;Urban;Public;CXC;Standard;24.0;Male;Qualifies for reduced/free lunch;46.0;1.0
+736;736;GOOBU;Urban;Public;HKF;Standard;28.0;Male;Qualifies for reduced/free lunch;43.0;1.0
+737;737;GOOBU;Urban;Public;HKF;Standard;;Male;Qualifies for reduced/free lunch;41.0;1.0
+738;738;GOOBU;Urban;Public;HKF;Standard;28.0;Male;Qualifies for reduced/free lunch;44.0;1.0
+739;739;GOOBU;Urban;Public;HKF;Standard;;Male;Qualifies for reduced/free lunch;45.0;1.0
+740;740;GOOBU;Urban;Public;HKF;Standard;28.0;Male;Qualifies for reduced/free lunch;32.0;0.0
+741;741;GOOBU;Urban;Public;HKF;Standard;28.0;Male;Qualifies for reduced/free lunch;43.0;0.0
+742;742;GOOBU;Urban;Public;HKF;Standard;28.0;Male;Qualifies for reduced/free lunch;38.0;1.0
+743;743;GOOBU;Urban;Public;HKF;Standard;28.0;Male;Qualifies for reduced/free lunch;43.0;1.0
+744;744;GOOBU;Urban;Public;HKF;Standard;28.0;Male;Qualifies for reduced/free lunch;45.0;1.0
+745;745;GOOBU;Urban;Public;HKF;Standard;28.0;Male;Qualifies for reduced/free lunch;38.0;1.0
+746;746;GOOBU;Urban;Public;HKF;Standard;;Male;Qualifies for reduced/free lunch;35.0;0.0
+747;747;GOOBU;Urban;Public;HKF;Standard;28.0;Male;Qualifies for reduced/free lunch;39.0;0.0
+748;748;GOOBU;Urban;Public;HKF;Standard;28.0;Male;Qualifies for reduced/free lunch;42.0;1.0
+749;749;GOOBU;Urban;Public;HKF;Standard;28.0;Male;Qualifies for reduced/free lunch;39.0;0.0
+750;750;GOOBU;Urban;Public;HKF;Standard;28.0;Male;Qualifies for reduced/free lunch;44.0;0.0
+751;751;GOOBU;Urban;Public;HKF;Standard;28.0;Male;Qualifies for reduced/free lunch;34.0;1.0
+752;752;GOOBU;Urban;Public;HKF;Standard;28.0;Male;Qualifies for reduced/free lunch;42.0;0.0
+753;753;GOOBU;Urban;Public;HKF;Standard;;Male;Qualifies for reduced/free lunch;41.0;0.0
+754;754;GOOBU;Urban;Public;HKF;Standard;28.0;Male;Qualifies for reduced/free lunch;44.0;0.0
+755;755;GOOBU;Urban;Public;HKF;Standard;;Male;Qualifies for reduced/free lunch;39.0;1.0
+756;756;GOOBU;Urban;Public;HKF;Standard;28.0;Male;Qualifies for reduced/free lunch;43.0;0.0
+757;757;GOOBU;Urban;Public;HKF;Standard;28.0;Male;Qualifies for reduced/free lunch;41.0;1.0
+758;758;GOOBU;Urban;Public;HKF;Standard;28.0;Male;Qualifies for reduced/free lunch;42.0;1.0
+759;759;GOOBU;Urban;Public;HKF;Standard;28.0;Male;Qualifies for reduced/free lunch;45.0;0.0
+760;760;GOOBU;Urban;Public;HKF;Standard;28.0;Male;Qualifies for reduced/free lunch;43.0;0.0
+761;761;GOOBU;Urban;Public;HKF;Standard;28.0;Male;Qualifies for reduced/free lunch;40.0;0.0
+762;762;GOOBU;Urban;Public;HKF;Standard;;Male;Qualifies for reduced/free lunch;44.0;0.0
+763;763;GOOBU;Urban;Public;HKF;Standard;28.0;Male;Qualifies for reduced/free lunch;40.0;0.0
+764;764;GOOBU;Urban;Public;PBA;Standard;24.0;Male;Qualifies for reduced/free lunch;49.0;0.0
+765;765;GOOBU;Urban;Public;PBA;Standard;24.0;Male;Qualifies for reduced/free lunch;50.0;0.0
+766;766;GOOBU;Urban;Public;PBA;Standard;24.0;Male;Qualifies for reduced/free lunch;45.0;0.0
+767;767;GOOBU;Urban;Public;PBA;Standard;24.0;Male;Qualifies for reduced/free lunch;44.0;1.0
+768;768;GOOBU;Urban;Public;PBA;Standard;;Male;Qualifies for reduced/free lunch;51.0;1.0
+769;769;GOOBU;Urban;Public;PBA;Standard;24.0;Male;Qualifies for reduced/free lunch;51.0;1.0
+770;770;GOOBU;Urban;Public;PBA;Standard;24.0;Male;Qualifies for reduced/free lunch;50.0;1.0
+771;771;GOOBU;Urban;Public;PBA;Standard;24.0;Male;Qualifies for reduced/free lunch;49.0;1.0
+772;772;GOOBU;Urban;Public;PBA;Standard;24.0;Male;Qualifies for reduced/free lunch;54.0;1.0
+773;773;GOOBU;Urban;Public;PBA;Standard;24.0;Male;Does not qualify;52.0;0.0
+774;774;GOOBU;Urban;Public;PBA;Standard;24.0;Male;Qualifies for reduced/free lunch;46.0;1.0
+775;775;GOOBU;Urban;Public;PBA;Standard;24.0;Male;Qualifies for reduced/free lunch;49.0;1.0
+776;776;GOOBU;Urban;Public;PBA;Standard;24.0;Male;Qualifies for reduced/free lunch;50.0;0.0
+777;777;GOOBU;Urban;Public;PBA;Standard;24.0;Male;Qualifies for reduced/free lunch;48.0;1.0
+778;778;GOOBU;Urban;Public;PBA;Standard;24.0;Male;Qualifies for reduced/free lunch;54.0;0.0
+779;779;GOOBU;Urban;Public;PBA;Standard;24.0;Male;Qualifies for reduced/free lunch;48.0;1.0
+780;780;GOOBU;Urban;Public;PBA;Standard;24.0;Male;Qualifies for reduced/free lunch;54.0;0.0
+781;781;GOOBU;Urban;Public;PBA;Standard;24.0;Male;Does not qualify;54.0;0.0
+782;782;GOOBU;Urban;Public;PBA;Standard;;Male;Qualifies for reduced/free lunch;51.0;1.0
+783;783;GOOBU;Urban;Public;PBA;Standard;24.0;Male;Qualifies for reduced/free lunch;48.0;0.0
+784;784;GOOBU;Urban;Public;PBA;Standard;24.0;Male;Does not qualify;55.0;1.0
+785;785;GOOBU;Urban;Public;PBA;Standard;24.0;Male;Qualifies for reduced/free lunch;53.0;1.0
+786;786;GOOBU;Urban;Public;PBA;Standard;;Male;Qualifies for reduced/free lunch;51.0;1.0
+787;787;GOOBU;Urban;Public;PBA;Standard;24.0;Male;Qualifies for reduced/free lunch;54.0;1.0
+788;788;GOOBU;Urban;Public;U6J;Standard;25.0;Male;Qualifies for reduced/free lunch;52.0;0.0
+789;789;GOOBU;Urban;Public;U6J;Standard;25.0;Male;Qualifies for reduced/free lunch;52.0;1.0
+790;790;GOOBU;Urban;Public;U6J;Standard;25.0;Male;Qualifies for reduced/free lunch;53.0;0.0
+791;791;GOOBU;Urban;Public;U6J;Standard;;Male;Qualifies for reduced/free lunch;50.0;1.0
+792;792;GOOBU;Urban;Public;U6J;Standard;25.0;Male;Qualifies for reduced/free lunch;51.0;1.0
+793;793;GOOBU;Urban;Public;U6J;Standard;25.0;Male;Qualifies for reduced/free lunch;47.0;1.0
+794;794;GOOBU;Urban;Public;U6J;Standard;;Male;Qualifies for reduced/free lunch;47.0;1.0
+795;795;GOOBU;Urban;Public;U6J;Standard;25.0;Male;Qualifies for reduced/free lunch;47.0;0.0
+796;796;GOOBU;Urban;Public;U6J;Standard;25.0;Male;Qualifies for reduced/free lunch;48.0;0.0
+797;797;GOOBU;Urban;Public;U6J;Standard;25.0;Male;Qualifies for reduced/free lunch;46.0;0.0
+798;798;GOOBU;Urban;Public;U6J;Standard;25.0;Male;Qualifies for reduced/free lunch;52.0;0.0
+799;799;GOOBU;Urban;Public;U6J;Standard;25.0;Male;Qualifies for reduced/free lunch;44.0;0.0
+800;800;GOOBU;Urban;Public;U6J;Standard;25.0;Male;Qualifies for reduced/free lunch;52.0;0.0
+801;801;GOOBU;Urban;Public;U6J;Standard;;Male;Qualifies for reduced/free lunch;48.0;1.0
+802;802;GOOBU;Urban;Public;U6J;Standard;25.0;Male;Qualifies for reduced/free lunch;51.0;1.0
+803;803;GOOBU;Urban;Public;U6J;Standard;25.0;Male;Qualifies for reduced/free lunch;52.0;0.0
+804;804;GOOBU;Urban;Public;U6J;Standard;25.0;Male;Qualifies for reduced/free lunch;44.0;0.0
+805;805;GOOBU;Urban;Public;U6J;Standard;25.0;Male;Qualifies for reduced/free lunch;47.0;0.0
+806;806;GOOBU;Urban;Public;U6J;Standard;;Male;Qualifies for reduced/free lunch;48.0;1.0
+807;807;GOOBU;Urban;Public;U6J;Standard;25.0;Male;Qualifies for reduced/free lunch;46.0;0.0
+808;808;GOOBU;Urban;Public;U6J;Standard;25.0;Male;Qualifies for reduced/free lunch;50.0;1.0
+809;809;GOOBU;Urban;Public;U6J;Standard;25.0;Male;Qualifies for reduced/free lunch;53.0;1.0
+810;810;GOOBU;Urban;Public;U6J;Standard;;Male;Qualifies for reduced/free lunch;48.0;1.0
+811;811;GOOBU;Urban;Public;U6J;Standard;25.0;Male;Qualifies for reduced/free lunch;48.0;1.0
+812;812;GOOBU;Urban;Public;U6J;Standard;25.0;Male;Qualifies for reduced/free lunch;47.0;1.0
+813;813;GOOBU;Urban;Public;W8A;Experimental;26.0;Male;Qualifies for reduced/free lunch;55.0;1.0
+814;814;GOOBU;Urban;Public;W8A;Experimental;;Male;Qualifies for reduced/free lunch;54.0;1.0
+815;815;GOOBU;Urban;Public;W8A;Experimental;26.0;Male;Does not qualify;59.0;1.0
+816;816;GOOBU;Urban;Public;W8A;Experimental;26.0;Male;Qualifies for reduced/free lunch;61.0;0.0
+817;817;GOOBU;Urban;Public;W8A;Experimental;;Male;Qualifies for reduced/free lunch;57.0;0.0
+818;818;GOOBU;Urban;Public;W8A;Experimental;26.0;Male;Qualifies for reduced/free lunch;54.0;1.0
+819;819;GOOBU;Urban;Public;W8A;Experimental;26.0;Male;Qualifies for reduced/free lunch;56.0;1.0
+820;820;GOOBU;Urban;Public;W8A;Experimental;26.0;Male;Qualifies for reduced/free lunch;55.0;0.0
+821;821;GOOBU;Urban;Public;W8A;Experimental;26.0;Male;Qualifies for reduced/free lunch;57.0;0.0
+822;822;GOOBU;Urban;Public;W8A;Experimental;26.0;Male;Does not qualify;64.0;0.0
+823;823;GOOBU;Urban;Public;W8A;Experimental;26.0;Male;Qualifies for reduced/free lunch;57.0;1.0
+824;824;GOOBU;Urban;Public;W8A;Experimental;26.0;Male;Qualifies for reduced/free lunch;60.0;1.0
+825;825;GOOBU;Urban;Public;W8A;Experimental;26.0;Male;Qualifies for reduced/free lunch;55.0;0.0
+826;826;GOOBU;Urban;Public;W8A;Experimental;26.0;Male;Qualifies for reduced/free lunch;59.0;1.0
+827;827;GOOBU;Urban;Public;W8A;Experimental;26.0;Male;Qualifies for reduced/free lunch;56.0;0.0
+828;828;GOOBU;Urban;Public;W8A;Experimental;;Male;Qualifies for reduced/free lunch;56.0;0.0
+829;829;GOOBU;Urban;Public;W8A;Experimental;26.0;Male;Qualifies for reduced/free lunch;54.0;0.0
+830;830;GOOBU;Urban;Public;W8A;Experimental;;Male;Qualifies for reduced/free lunch;53.0;1.0
+831;831;GOOBU;Urban;Public;W8A;Experimental;26.0;Male;Qualifies for reduced/free lunch;50.0;1.0
+832;832;GOOBU;Urban;Public;W8A;Experimental;26.0;Male;Qualifies for reduced/free lunch;55.0;1.0
+833;833;GOOBU;Urban;Public;W8A;Experimental;26.0;Male;Qualifies for reduced/free lunch;60.0;0.0
+834;834;GOOBU;Urban;Public;W8A;Experimental;26.0;Male;Qualifies for reduced/free lunch;59.0;1.0
+835;835;GOOBU;Urban;Public;W8A;Experimental;;Male;Qualifies for reduced/free lunch;51.0;0.0
+836;836;GOOBU;Urban;Public;W8A;Experimental;26.0;Male;Qualifies for reduced/free lunch;58.0;1.0
+837;837;GOOBU;Urban;Public;W8A;Experimental;26.0;Male;Qualifies for reduced/free lunch;58.0;0.0
+838;838;GOOBU;Urban;Public;W8A;Experimental;;Male;Qualifies for reduced/free lunch;56.0;0.0
+839;839;IDGFP;Urban;Non-public;05H;Standard;22.0;Male;Does not qualify;82.0;1.0
+840;840;IDGFP;Urban;Non-public;05H;Standard;22.0;Male;Does not qualify;85.0;1.0
+841;841;IDGFP;Urban;Non-public;05H;Standard;22.0;Male;Does not qualify;76.0;0.0
+842;842;IDGFP;Urban;Non-public;05H;Standard;22.0;Male;Does not qualify;80.0;1.0
+843;843;IDGFP;Urban;Non-public;05H;Standard;;Male;Does not qualify;85.0;1.0
+844;844;IDGFP;Urban;Non-public;05H;Standard;22.0;Male;Does not qualify;86.0;1.0
+845;845;IDGFP;Urban;Non-public;05H;Standard;22.0;Male;Does not qualify;82.0;0.0
+846;846;IDGFP;Urban;Non-public;05H;Standard;22.0;Male;Does not qualify;82.0;0.0
+847;847;IDGFP;Urban;Non-public;05H;Standard;22.0;Male;Does not qualify;85.0;1.0
+848;848;IDGFP;Urban;Non-public;05H;Standard;22.0;Male;Does not qualify;85.0;0.0
+849;849;IDGFP;Urban;Non-public;05H;Standard;;Male;Does not qualify;87.0;1.0
+850;850;IDGFP;Urban;Non-public;05H;Standard;22.0;Male;Does not qualify;88.0;0.0
+851;851;IDGFP;Urban;Non-public;05H;Standard;22.0;Male;Does not qualify;86.0;0.0
+852;852;IDGFP;Urban;Non-public;05H;Standard;22.0;Male;Does not qualify;85.0;0.0
+853;853;IDGFP;Urban;Non-public;05H;Standard;22.0;Male;Does not qualify;84.0;0.0
+854;854;IDGFP;Urban;Non-public;05H;Standard;22.0;Male;Does not qualify;85.0;1.0
+855;855;IDGFP;Urban;Non-public;05H;Standard;22.0;Male;Does not qualify;85.0;0.0
+856;856;IDGFP;Urban;Non-public;05H;Standard;22.0;Male;Does not qualify;80.0;1.0
+857;857;IDGFP;Urban;Non-public;05H;Standard;22.0;Male;Does not qualify;80.0;1.0
+858;858;IDGFP;Urban;Non-public;05H;Standard;22.0;Male;Does not qualify;85.0;0.0
+859;859;IDGFP;Urban;Non-public;05H;Standard;22.0;Male;Does not qualify;81.0;0.0
+860;860;IDGFP;Urban;Non-public;05H;Standard;22.0;Male;Does not qualify;80.0;1.0
+861;861;IDGFP;Urban;Non-public;98D;Experimental;21.0;Male;Does not qualify;93.0;1.0
+862;862;IDGFP;Urban;Non-public;98D;Experimental;21.0;Male;Does not qualify;90.0;0.0
+863;863;IDGFP;Urban;Non-public;98D;Experimental;21.0;Male;Does not qualify;92.0;1.0
+864;864;IDGFP;Urban;Non-public;98D;Experimental;21.0;Male;Does not qualify;97.0;1.0
+865;865;IDGFP;Urban;Non-public;98D;Experimental;21.0;Male;Does not qualify;93.0;0.0
+866;866;IDGFP;Urban;Non-public;98D;Experimental;21.0;Male;Does not qualify;87.0;0.0
+867;867;IDGFP;Urban;Non-public;98D;Experimental;21.0;Male;Does not qualify;95.0;0.0
+868;868;IDGFP;Urban;Non-public;98D;Experimental;21.0;Male;Does not qualify;91.0;1.0
+869;869;IDGFP;Urban;Non-public;98D;Experimental;21.0;Male;Does not qualify;91.0;1.0
+870;870;IDGFP;Urban;Non-public;98D;Experimental;21.0;Male;Does not qualify;99.0;0.0
+871;871;IDGFP;Urban;Non-public;98D;Experimental;21.0;Male;Does not qualify;92.0;1.0
+872;872;IDGFP;Urban;Non-public;98D;Experimental;21.0;Male;Does not qualify;91.0;0.0
+873;873;IDGFP;Urban;Non-public;98D;Experimental;21.0;Male;Does not qualify;87.0;0.0
+874;874;IDGFP;Urban;Non-public;98D;Experimental;21.0;Male;Does not qualify;88.0;0.0
+875;875;IDGFP;Urban;Non-public;98D;Experimental;;Male;Does not qualify;88.0;0.0
+876;876;IDGFP;Urban;Non-public;98D;Experimental;21.0;Male;Does not qualify;95.0;0.0
+877;877;IDGFP;Urban;Non-public;98D;Experimental;21.0;Male;Does not qualify;89.0;1.0
+878;878;IDGFP;Urban;Non-public;98D;Experimental;21.0;Male;Does not qualify;94.0;1.0
+879;879;IDGFP;Urban;Non-public;98D;Experimental;21.0;Male;Does not qualify;95.0;1.0
+880;880;IDGFP;Urban;Non-public;98D;Experimental;;Male;Does not qualify;90.0;1.0
+881;881;IDGFP;Urban;Non-public;98D;Experimental;21.0;Male;Does not qualify;96.0;0.0
+882;882;IDGFP;Urban;Non-public;G2L;Standard;17.0;Male;Does not qualify;88.0;1.0
+883;883;IDGFP;Urban;Non-public;G2L;Standard;17.0;Male;Does not qualify;88.0;1.0
+884;884;IDGFP;Urban;Non-public;G2L;Standard;;Male;Does not qualify;79.0;1.0
+885;885;IDGFP;Urban;Non-public;G2L;Standard;17.0;Male;Does not qualify;84.0;1.0
+886;886;IDGFP;Urban;Non-public;G2L;Standard;17.0;Male;Does not qualify;87.0;1.0
+887;887;IDGFP;Urban;Non-public;G2L;Standard;17.0;Male;Does not qualify;86.0;1.0
+888;888;IDGFP;Urban;Non-public;G2L;Standard;17.0;Male;Does not qualify;83.0;1.0
+889;889;IDGFP;Urban;Non-public;G2L;Standard;17.0;Male;Does not qualify;83.0;1.0
+890;890;IDGFP;Urban;Non-public;G2L;Standard;;Male;Does not qualify;83.0;1.0
+891;891;IDGFP;Urban;Non-public;G2L;Standard;17.0;Male;Does not qualify;82.0;0.0
+892;892;IDGFP;Urban;Non-public;G2L;Standard;;Male;Does not qualify;80.0;1.0
+893;893;IDGFP;Urban;Non-public;G2L;Standard;17.0;Male;Does not qualify;81.0;1.0
+894;894;IDGFP;Urban;Non-public;G2L;Standard;17.0;Male;Does not qualify;83.0;1.0
+895;895;IDGFP;Urban;Non-public;G2L;Standard;17.0;Male;Does not qualify;86.0;1.0
+896;896;IDGFP;Urban;Non-public;G2L;Standard;17.0;Male;Does not qualify;87.0;1.0
+897;897;IDGFP;Urban;Non-public;G2L;Standard;17.0;Male;Does not qualify;79.0;1.0
+898;898;IDGFP;Urban;Non-public;G2L;Standard;;Male;Does not qualify;79.0;1.0
+899;899;IDGFP;Urban;Non-public;P2A;Experimental;17.0;Male;Does not qualify;98.0;1.0
+900;900;IDGFP;Urban;Non-public;P2A;Experimental;17.0;Male;Does not qualify;96.0;1.0
+901;901;IDGFP;Urban;Non-public;P2A;Experimental;17.0;Male;Does not qualify;99.0;0.0
+902;902;IDGFP;Urban;Non-public;P2A;Experimental;17.0;Male;Does not qualify;100.0;1.0
+903;903;IDGFP;Urban;Non-public;P2A;Experimental;;Male;Does not qualify;100.0;0.0
+904;904;IDGFP;Urban;Non-public;P2A;Experimental;17.0;Male;Does not qualify;98.0;0.0
+905;905;IDGFP;Urban;Non-public;P2A;Experimental;17.0;Male;Does not qualify;100.0;1.0
+906;906;IDGFP;Urban;Non-public;P2A;Experimental;;Male;Does not qualify;95.0;0.0
+907;907;IDGFP;Urban;Non-public;P2A;Experimental;17.0;Male;Does not qualify;100.0;0.0
+908;908;IDGFP;Urban;Non-public;P2A;Experimental;17.0;Male;Does not qualify;100.0;0.0
+909;909;IDGFP;Urban;Non-public;P2A;Experimental;17.0;Male;Does not qualify;100.0;1.0
+910;910;IDGFP;Urban;Non-public;P2A;Experimental;17.0;Male;Does not qualify;98.0;1.0
+911;911;IDGFP;Urban;Non-public;P2A;Experimental;17.0;Male;Does not qualify;100.0;1.0
+912;912;IDGFP;Urban;Non-public;P2A;Experimental;17.0;Male;Does not qualify;96.0;0.0
+913;913;IDGFP;Urban;Non-public;P2A;Experimental;17.0;Male;Does not qualify;95.0;1.0
+914;914;IDGFP;Urban;Non-public;P2A;Experimental;17.0;Male;Does not qualify;98.0;1.0
+915;915;IDGFP;Urban;Non-public;P2A;Experimental;17.0;Male;Does not qualify;100.0;0.0
+916;916;IDGFP;Urban;Non-public;XZM;Standard;17.0;Male;Does not qualify;75.0;0.0
+917;917;IDGFP;Urban;Non-public;XZM;Standard;17.0;Male;Does not qualify;81.0;1.0
+918;918;IDGFP;Urban;Non-public;XZM;Standard;17.0;Male;Does not qualify;81.0;1.0
+919;919;IDGFP;Urban;Non-public;XZM;Standard;17.0;Male;Does not qualify;82.0;0.0
+920;920;IDGFP;Urban;Non-public;XZM;Standard;17.0;Male;Does not qualify;79.0;0.0
+921;921;IDGFP;Urban;Non-public;XZM;Standard;17.0;Male;Does not qualify;75.0;1.0
+922;922;IDGFP;Urban;Non-public;XZM;Standard;17.0;Male;Does not qualify;81.0;1.0
+923;923;IDGFP;Urban;Non-public;XZM;Standard;17.0;Male;Does not qualify;76.0;0.0
+924;924;IDGFP;Urban;Non-public;XZM;Standard;17.0;Male;Does not qualify;79.0;0.0
+925;925;IDGFP;Urban;Non-public;XZM;Standard;17.0;Male;Does not qualify;81.0;1.0
+926;926;IDGFP;Urban;Non-public;XZM;Standard;17.0;Male;Does not qualify;80.0;1.0
+927;927;IDGFP;Urban;Non-public;XZM;Standard;17.0;Male;Does not qualify;81.0;0.0
+928;928;IDGFP;Urban;Non-public;XZM;Standard;17.0;Male;Does not qualify;76.0;0.0
+929;929;IDGFP;Urban;Non-public;XZM;Standard;17.0;Male;Does not qualify;77.0;0.0
+930;930;IDGFP;Urban;Non-public;XZM;Standard;17.0;Male;Does not qualify;86.0;1.0
+931;931;IDGFP;Urban;Non-public;XZM;Standard;17.0;Male;Does not qualify;77.0;0.0
+932;932;IDGFP;Urban;Non-public;XZM;Standard;17.0;Male;Does not qualify;74.0;1.0
+933;933;KFZMY;Urban;Non-public;1VD;Experimental;27.0;Male;Qualifies for reduced/free lunch;59.0;1.0
+934;934;KFZMY;Urban;Non-public;1VD;Experimental;27.0;Male;Qualifies for reduced/free lunch;53.0;1.0
+935;935;KFZMY;Urban;Non-public;1VD;Experimental;27.0;Male;Qualifies for reduced/free lunch;59.0;1.0
+936;936;KFZMY;Urban;Non-public;1VD;Experimental;27.0;Male;Qualifies for reduced/free lunch;55.0;0.0
+937;937;KFZMY;Urban;Non-public;1VD;Experimental;27.0;Male;Qualifies for reduced/free lunch;57.0;1.0
+938;938;KFZMY;Urban;Non-public;1VD;Experimental;27.0;Male;Qualifies for reduced/free lunch;57.0;0.0
+939;939;KFZMY;Urban;Non-public;1VD;Experimental;27.0;Male;Qualifies for reduced/free lunch;52.0;0.0
+940;940;KFZMY;Urban;Non-public;1VD;Experimental;27.0;Male;Does not qualify;67.0;0.0
+941;941;KFZMY;Urban;Non-public;1VD;Experimental;27.0;Male;Does not qualify;61.0;1.0
+942;942;KFZMY;Urban;Non-public;1VD;Experimental;27.0;Male;Qualifies for reduced/free lunch;57.0;0.0
+943;943;KFZMY;Urban;Non-public;1VD;Experimental;27.0;Male;Qualifies for reduced/free lunch;51.0;0.0
+944;944;KFZMY;Urban;Non-public;1VD;Experimental;27.0;Male;Qualifies for reduced/free lunch;58.0;1.0
+945;945;KFZMY;Urban;Non-public;1VD;Experimental;27.0;Male;Qualifies for reduced/free lunch;55.0;1.0
+946;946;KFZMY;Urban;Non-public;1VD;Experimental;27.0;Male;Does not qualify;62.0;0.0
+947;947;KFZMY;Urban;Non-public;1VD;Experimental;27.0;Male;Qualifies for reduced/free lunch;62.0;0.0
+948;948;KFZMY;Urban;Non-public;1VD;Experimental;27.0;Male;Qualifies for reduced/free lunch;57.0;1.0
+949;949;KFZMY;Urban;Non-public;1VD;Experimental;27.0;Male;Qualifies for reduced/free lunch;56.0;1.0
+950;950;KFZMY;Urban;Non-public;1VD;Experimental;27.0;Male;Qualifies for reduced/free lunch;50.0;0.0
+951;951;KFZMY;Urban;Non-public;1VD;Experimental;27.0;Male;Qualifies for reduced/free lunch;56.0;0.0
+952;952;KFZMY;Urban;Non-public;1VD;Experimental;27.0;Male;Qualifies for reduced/free lunch;55.0;0.0
+953;953;KFZMY;Urban;Non-public;1VD;Experimental;27.0;Male;Qualifies for reduced/free lunch;56.0;1.0
+954;954;KFZMY;Urban;Non-public;1VD;Experimental;27.0;Male;Qualifies for reduced/free lunch;57.0;0.0
+955;955;KFZMY;Urban;Non-public;1VD;Experimental;27.0;Male;Does not qualify;67.0;0.0
+956;956;KFZMY;Urban;Non-public;1VD;Experimental;27.0;Male;Qualifies for reduced/free lunch;58.0;0.0
+957;957;KFZMY;Urban;Non-public;1VD;Experimental;27.0;Male;Qualifies for reduced/free lunch;62.0;1.0
+958;958;KFZMY;Urban;Non-public;1VD;Experimental;27.0;Male;Qualifies for reduced/free lunch;61.0;0.0
+959;959;KFZMY;Urban;Non-public;1VD;Experimental;27.0;Male;Qualifies for reduced/free lunch;55.0;0.0
+960;960;KFZMY;Urban;Non-public;21Q;Standard;25.0;Male;Does not qualify;56.0;0.0
+961;961;KFZMY;Urban;Non-public;21Q;Standard;25.0;Male;Qualifies for reduced/free lunch;56.0;1.0
+962;962;KFZMY;Urban;Non-public;21Q;Standard;25.0;Male;Qualifies for reduced/free lunch;49.0;1.0
+963;963;KFZMY;Urban;Non-public;21Q;Standard;25.0;Male;Qualifies for reduced/free lunch;47.0;0.0
+964;964;KFZMY;Urban;Non-public;21Q;Standard;25.0;Male;Qualifies for reduced/free lunch;51.0;1.0
+965;965;KFZMY;Urban;Non-public;21Q;Standard;25.0;Male;Qualifies for reduced/free lunch;56.0;0.0
+966;966;KFZMY;Urban;Non-public;21Q;Standard;25.0;Male;Qualifies for reduced/free lunch;55.0;0.0
+967;967;KFZMY;Urban;Non-public;21Q;Standard;25.0;Male;Does not qualify;54.0;0.0
+968;968;KFZMY;Urban;Non-public;21Q;Standard;25.0;Male;Qualifies for reduced/free lunch;54.0;0.0
+969;969;KFZMY;Urban;Non-public;21Q;Standard;25.0;Male;Qualifies for reduced/free lunch;56.0;1.0
+970;970;KFZMY;Urban;Non-public;21Q;Standard;25.0;Male;Does not qualify;54.0;0.0
+971;971;KFZMY;Urban;Non-public;21Q;Standard;25.0;Male;Does not qualify;52.0;1.0
+972;972;KFZMY;Urban;Non-public;21Q;Standard;25.0;Male;Qualifies for reduced/free lunch;47.0;1.0
+973;973;KFZMY;Urban;Non-public;21Q;Standard;25.0;Male;Qualifies for reduced/free lunch;49.0;0.0
+974;974;KFZMY;Urban;Non-public;21Q;Standard;25.0;Male;Qualifies for reduced/free lunch;49.0;0.0
+975;975;KFZMY;Urban;Non-public;21Q;Standard;25.0;Male;Does not qualify;51.0;0.0
+976;976;KFZMY;Urban;Non-public;21Q;Standard;25.0;Male;Qualifies for reduced/free lunch;48.0;0.0
+977;977;KFZMY;Urban;Non-public;21Q;Standard;25.0;Male;Qualifies for reduced/free lunch;50.0;1.0
+978;978;KFZMY;Urban;Non-public;21Q;Standard;25.0;Male;Qualifies for reduced/free lunch;54.0;1.0
+979;979;KFZMY;Urban;Non-public;21Q;Standard;25.0;Male;Does not qualify;52.0;0.0
+980;980;KFZMY;Urban;Non-public;21Q;Standard;25.0;Male;Qualifies for reduced/free lunch;48.0;0.0
+981;981;KFZMY;Urban;Non-public;21Q;Standard;25.0;Male;Qualifies for reduced/free lunch;53.0;1.0
+982;982;KFZMY;Urban;Non-public;21Q;Standard;25.0;Male;Qualifies for reduced/free lunch;44.0;1.0
+983;983;KFZMY;Urban;Non-public;21Q;Standard;25.0;Male;Qualifies for reduced/free lunch;51.0;1.0
+984;984;KFZMY;Urban;Non-public;21Q;Standard;25.0;Male;Qualifies for reduced/free lunch;47.0;0.0
+985;985;KZKKE;Rural;Public;2BR;Standard;20.0;Male;Qualifies for reduced/free lunch;58.0;0.0
+986;986;KZKKE;Rural;Public;2BR;Standard;20.0;Male;Qualifies for reduced/free lunch;60.0;1.0
+987;987;KZKKE;Rural;Public;2BR;Standard;20.0;Male;Qualifies for reduced/free lunch;59.0;0.0
+988;988;KZKKE;Rural;Public;2BR;Standard;20.0;Male;Qualifies for reduced/free lunch;55.0;1.0
+989;989;KZKKE;Rural;Public;2BR;Standard;20.0;Male;Qualifies for reduced/free lunch;59.0;0.0
+990;990;KZKKE;Rural;Public;2BR;Standard;20.0;Male;Qualifies for reduced/free lunch;62.0;0.0
+991;991;KZKKE;Rural;Public;2BR;Standard;20.0;Male;Qualifies for reduced/free lunch;62.0;1.0
+992;992;KZKKE;Rural;Public;2BR;Standard;20.0;Male;Qualifies for reduced/free lunch;62.0;1.0
+993;993;KZKKE;Rural;Public;2BR;Standard;20.0;Male;Qualifies for reduced/free lunch;56.0;1.0
+994;994;KZKKE;Rural;Public;2BR;Standard;20.0;Male;Qualifies for reduced/free lunch;61.0;1.0
+995;995;KZKKE;Rural;Public;2BR;Standard;20.0;Male;Qualifies for reduced/free lunch;55.0;0.0
+996;996;KZKKE;Rural;Public;2BR;Standard;20.0;Male;Qualifies for reduced/free lunch;54.0;1.0
+997;997;KZKKE;Rural;Public;2BR;Standard;20.0;Male;Qualifies for reduced/free lunch;54.0;0.0
+998;998;KZKKE;Rural;Public;2BR;Standard;20.0;Male;Qualifies for reduced/free lunch;53.0;1.0
+999;999;KZKKE;Rural;Public;2BR;Standard;20.0;Male;Qualifies for reduced/free lunch;55.0;1.0
+1000;1000;KZKKE;Rural;Public;2BR;Standard;20.0;Male;Qualifies for reduced/free lunch;57.0;1.0
+1001;1001;KZKKE;Rural;Public;2BR;Standard;20.0;Male;Qualifies for reduced/free lunch;59.0;0.0
+1002;1002;KZKKE;Rural;Public;2BR;Standard;20.0;Male;Qualifies for reduced/free lunch;54.0;1.0
+1003;1003;KZKKE;Rural;Public;2BR;Standard;20.0;Male;Qualifies for reduced/free lunch;62.0;0.0
+1004;1004;KZKKE;Rural;Public;2BR;Standard;20.0;Male;Qualifies for reduced/free lunch;56.0;1.0
+1005;1005;KZKKE;Rural;Public;3D0;Standard;22.0;Male;Qualifies for reduced/free lunch;40.0;0.0
+1006;1006;KZKKE;Rural;Public;3D0;Standard;22.0;Male;Qualifies for reduced/free lunch;43.0;0.0
+1007;1007;KZKKE;Rural;Public;3D0;Standard;22.0;Male;Qualifies for reduced/free lunch;42.0;1.0
+1008;1008;KZKKE;Rural;Public;3D0;Standard;22.0;Male;Qualifies for reduced/free lunch;42.0;1.0
+1009;1009;KZKKE;Rural;Public;3D0;Standard;22.0;Male;Qualifies for reduced/free lunch;42.0;1.0
+1010;1010;KZKKE;Rural;Public;3D0;Standard;22.0;Male;Qualifies for reduced/free lunch;36.0;1.0
+1011;1011;KZKKE;Rural;Public;3D0;Standard;22.0;Male;Qualifies for reduced/free lunch;41.0;1.0
+1012;1012;KZKKE;Rural;Public;3D0;Standard;22.0;Male;Qualifies for reduced/free lunch;37.0;1.0
+1013;1013;KZKKE;Rural;Public;3D0;Standard;22.0;Male;Qualifies for reduced/free lunch;39.0;0.0
+1014;1014;KZKKE;Rural;Public;3D0;Standard;22.0;Male;Qualifies for reduced/free lunch;41.0;1.0
+1015;1015;KZKKE;Rural;Public;3D0;Standard;22.0;Male;Qualifies for reduced/free lunch;40.0;0.0
+1016;1016;KZKKE;Rural;Public;3D0;Standard;22.0;Male;Qualifies for reduced/free lunch;40.0;1.0
+1017;1017;KZKKE;Rural;Public;3D0;Standard;22.0;Male;Qualifies for reduced/free lunch;39.0;0.0
+1018;1018;KZKKE;Rural;Public;3D0;Standard;22.0;Male;Qualifies for reduced/free lunch;43.0;1.0
+1019;1019;KZKKE;Rural;Public;3D0;Standard;22.0;Male;Qualifies for reduced/free lunch;42.0;1.0
+1020;1020;KZKKE;Rural;Public;3D0;Standard;22.0;Male;Qualifies for reduced/free lunch;41.0;1.0
+1021;1021;KZKKE;Rural;Public;3D0;Standard;22.0;Male;Qualifies for reduced/free lunch;40.0;1.0
+1022;1022;KZKKE;Rural;Public;3D0;Standard;22.0;Male;Qualifies for reduced/free lunch;43.0;1.0
+1023;1023;KZKKE;Rural;Public;3D0;Standard;22.0;Male;Qualifies for reduced/free lunch;37.0;1.0
+1024;1024;KZKKE;Rural;Public;3D0;Standard;22.0;Male;Qualifies for reduced/free lunch;38.0;1.0
+1025;1025;KZKKE;Rural;Public;3D0;Standard;22.0;Male;Qualifies for reduced/free lunch;43.0;1.0
+1026;1026;KZKKE;Rural;Public;3D0;Standard;22.0;Male;Qualifies for reduced/free lunch;42.0;0.0
+1027;1027;KZKKE;Rural;Public;5JK;Standard;24.0;Male;Qualifies for reduced/free lunch;42.0;1.0
+1028;1028;KZKKE;Rural;Public;5JK;Standard;;Male;Qualifies for reduced/free lunch;44.0;1.0
+1029;1029;KZKKE;Rural;Public;5JK;Standard;24.0;Male;Qualifies for reduced/free lunch;43.0;1.0
+1030;1030;KZKKE;Rural;Public;5JK;Standard;24.0;Male;Qualifies for reduced/free lunch;42.0;1.0
+1031;1031;KZKKE;Rural;Public;5JK;Standard;24.0;Male;Qualifies for reduced/free lunch;39.0;0.0
+1032;1032;KZKKE;Rural;Public;5JK;Standard;24.0;Male;Qualifies for reduced/free lunch;44.0;1.0
+1033;1033;KZKKE;Rural;Public;5JK;Standard;24.0;Male;Qualifies for reduced/free lunch;45.0;0.0
+1034;1034;KZKKE;Rural;Public;5JK;Standard;;Male;Qualifies for reduced/free lunch;44.0;1.0
+1035;1035;KZKKE;Rural;Public;5JK;Standard;24.0;Male;Qualifies for reduced/free lunch;46.0;1.0
+1036;1036;KZKKE;Rural;Public;5JK;Standard;24.0;Male;Qualifies for reduced/free lunch;43.0;1.0
+1037;1037;KZKKE;Rural;Public;5JK;Standard;24.0;Male;Qualifies for reduced/free lunch;43.0;1.0
+1038;1038;KZKKE;Rural;Public;5JK;Standard;24.0;Male;Qualifies for reduced/free lunch;43.0;1.0
+1039;1039;KZKKE;Rural;Public;5JK;Standard;;Male;Qualifies for reduced/free lunch;45.0;0.0
+1040;1040;KZKKE;Rural;Public;5JK;Standard;24.0;Male;Qualifies for reduced/free lunch;39.0;1.0
+1041;1041;KZKKE;Rural;Public;5JK;Standard;24.0;Male;Qualifies for reduced/free lunch;42.0;1.0
+1042;1042;KZKKE;Rural;Public;5JK;Standard;;Male;Qualifies for reduced/free lunch;45.0;0.0
+1043;1043;KZKKE;Rural;Public;5JK;Standard;24.0;Male;Qualifies for reduced/free lunch;47.0;1.0
+1044;1044;KZKKE;Rural;Public;5JK;Standard;24.0;Male;Qualifies for reduced/free lunch;45.0;1.0
+1045;1045;KZKKE;Rural;Public;5JK;Standard;24.0;Male;Qualifies for reduced/free lunch;49.0;1.0
+1046;1046;KZKKE;Rural;Public;5JK;Standard;24.0;Male;Qualifies for reduced/free lunch;45.0;1.0
+1047;1047;KZKKE;Rural;Public;5JK;Standard;24.0;Male;Qualifies for reduced/free lunch;44.0;0.0
+1048;1048;KZKKE;Rural;Public;5JK;Standard;24.0;Male;Qualifies for reduced/free lunch;49.0;0.0
+1049;1049;KZKKE;Rural;Public;5JK;Standard;24.0;Male;Qualifies for reduced/free lunch;43.0;0.0
+1050;1050;KZKKE;Rural;Public;5JK;Standard;24.0;Male;Qualifies for reduced/free lunch;45.0;1.0
+1051;1051;KZKKE;Rural;Public;O6A;Standard;22.0;Male;Qualifies for reduced/free lunch;54.0;0.0
+1052;1052;KZKKE;Rural;Public;O6A;Standard;22.0;Male;Qualifies for reduced/free lunch;49.0;1.0
+1053;1053;KZKKE;Rural;Public;O6A;Standard;22.0;Male;Qualifies for reduced/free lunch;56.0;0.0
+1054;1054;KZKKE;Rural;Public;O6A;Standard;22.0;Male;Qualifies for reduced/free lunch;59.0;1.0
+1055;1055;KZKKE;Rural;Public;O6A;Standard;22.0;Male;Qualifies for reduced/free lunch;55.0;0.0
+1056;1056;KZKKE;Rural;Public;O6A;Standard;22.0;Male;Qualifies for reduced/free lunch;57.0;0.0
+1057;1057;KZKKE;Rural;Public;O6A;Standard;22.0;Male;Qualifies for reduced/free lunch;59.0;0.0
+1058;1058;KZKKE;Rural;Public;O6A;Standard;22.0;Male;Qualifies for reduced/free lunch;55.0;0.0
+1059;1059;KZKKE;Rural;Public;O6A;Standard;22.0;Male;Qualifies for reduced/free lunch;50.0;1.0
+1060;1060;KZKKE;Rural;Public;O6A;Standard;22.0;Male;Qualifies for reduced/free lunch;54.0;1.0
+1061;1061;KZKKE;Rural;Public;O6A;Standard;22.0;Male;Qualifies for reduced/free lunch;52.0;1.0
+1062;1062;KZKKE;Rural;Public;O6A;Standard;22.0;Male;Qualifies for reduced/free lunch;54.0;0.0
+1063;1063;KZKKE;Rural;Public;O6A;Standard;22.0;Male;Qualifies for reduced/free lunch;52.0;0.0
+1064;1064;KZKKE;Rural;Public;O6A;Standard;22.0;Male;Qualifies for reduced/free lunch;53.0;0.0
+1065;1065;KZKKE;Rural;Public;O6A;Standard;22.0;Male;Qualifies for reduced/free lunch;55.0;1.0
+1066;1066;KZKKE;Rural;Public;O6A;Standard;22.0;Male;Qualifies for reduced/free lunch;60.0;0.0
+1067;1067;KZKKE;Rural;Public;O6A;Standard;22.0;Male;Qualifies for reduced/free lunch;50.0;1.0
+1068;1068;KZKKE;Rural;Public;O6A;Standard;22.0;Male;Qualifies for reduced/free lunch;57.0;1.0
+1069;1069;KZKKE;Rural;Public;O6A;Standard;22.0;Male;Qualifies for reduced/free lunch;52.0;1.0
+1070;1070;KZKKE;Rural;Public;O6A;Standard;22.0;Male;Qualifies for reduced/free lunch;56.0;1.0
+1071;1071;KZKKE;Rural;Public;O6A;Standard;22.0;Male;Qualifies for reduced/free lunch;59.0;1.0
+1072;1072;KZKKE;Rural;Public;O6A;Standard;22.0;Male;Qualifies for reduced/free lunch;62.0;0.0
+1073;1073;KZKKE;Rural;Public;QTU;Standard;23.0;Male;Qualifies for reduced/free lunch;40.0;0.0
+1074;1074;KZKKE;Rural;Public;QTU;Standard;23.0;Male;Qualifies for reduced/free lunch;47.0;1.0
+1075;1075;KZKKE;Rural;Public;QTU;Standard;23.0;Male;Qualifies for reduced/free lunch;51.0;0.0
+1076;1076;KZKKE;Rural;Public;QTU;Standard;23.0;Male;Qualifies for reduced/free lunch;49.0;0.0
+1077;1077;KZKKE;Rural;Public;QTU;Standard;23.0;Male;Qualifies for reduced/free lunch;46.0;1.0
+1078;1078;KZKKE;Rural;Public;QTU;Standard;23.0;Male;Qualifies for reduced/free lunch;46.0;0.0
+1079;1079;KZKKE;Rural;Public;QTU;Standard;23.0;Male;Qualifies for reduced/free lunch;44.0;0.0
+1080;1080;KZKKE;Rural;Public;QTU;Standard;23.0;Male;Qualifies for reduced/free lunch;46.0;0.0
+1081;1081;KZKKE;Rural;Public;QTU;Standard;23.0;Male;Qualifies for reduced/free lunch;38.0;1.0
+1082;1082;KZKKE;Rural;Public;QTU;Standard;23.0;Male;Qualifies for reduced/free lunch;45.0;1.0
+1083;1083;KZKKE;Rural;Public;QTU;Standard;23.0;Male;Qualifies for reduced/free lunch;46.0;1.0
+1084;1084;KZKKE;Rural;Public;QTU;Standard;23.0;Male;Qualifies for reduced/free lunch;41.0;0.0
+1085;1085;KZKKE;Rural;Public;QTU;Standard;23.0;Male;Qualifies for reduced/free lunch;45.0;0.0
+1086;1086;KZKKE;Rural;Public;QTU;Standard;23.0;Male;Qualifies for reduced/free lunch;42.0;1.0
+1087;1087;KZKKE;Rural;Public;QTU;Standard;23.0;Male;Qualifies for reduced/free lunch;40.0;1.0
+1088;1088;KZKKE;Rural;Public;QTU;Standard;23.0;Male;Qualifies for reduced/free lunch;45.0;0.0
+1089;1089;KZKKE;Rural;Public;QTU;Standard;23.0;Male;Qualifies for reduced/free lunch;37.0;1.0
+1090;1090;KZKKE;Rural;Public;QTU;Standard;23.0;Male;Qualifies for reduced/free lunch;44.0;1.0
+1091;1091;KZKKE;Rural;Public;QTU;Standard;23.0;Male;Qualifies for reduced/free lunch;41.0;1.0
+1092;1092;KZKKE;Rural;Public;QTU;Standard;23.0;Male;Qualifies for reduced/free lunch;43.0;1.0
+1093;1093;KZKKE;Rural;Public;QTU;Standard;23.0;Male;Qualifies for reduced/free lunch;47.0;1.0
+1094;1094;KZKKE;Rural;Public;QTU;Standard;23.0;Male;Qualifies for reduced/free lunch;41.0;0.0
+1095;1095;KZKKE;Rural;Public;QTU;Standard;23.0;Male;Qualifies for reduced/free lunch;45.0;1.0
+1096;1096;LAYPA;Rural;Public;AJ1;Standard;21.0;Male;Does not qualify;76.0;1.0
+1097;1097;LAYPA;Rural;Public;AJ1;Standard;21.0;Male;Does not qualify;69.0;0.0
+1098;1098;LAYPA;Rural;Public;AJ1;Standard;21.0;Male;Does not qualify;70.0;0.0
+1099;1099;LAYPA;Rural;Public;AJ1;Standard;21.0;Male;Does not qualify;79.0;0.0
+1100;1100;LAYPA;Rural;Public;AJ1;Standard;21.0;Male;Does not qualify;70.0;1.0
+1101;1101;LAYPA;Rural;Public;AJ1;Standard;21.0;Male;Does not qualify;69.0;0.0
+1102;1102;LAYPA;Rural;Public;AJ1;Standard;21.0;Male;Does not qualify;71.0;1.0
+1103;1103;LAYPA;Rural;Public;AJ1;Standard;21.0;Male;Does not qualify;74.0;1.0
+1104;1104;LAYPA;Rural;Public;AJ1;Standard;21.0;Male;Does not qualify;68.0;1.0
+1105;1105;LAYPA;Rural;Public;AJ1;Standard;21.0;Male;Does not qualify;74.0;0.0
+1106;1106;LAYPA;Rural;Public;AJ1;Standard;21.0;Male;Does not qualify;70.0;0.0
+1107;1107;LAYPA;Rural;Public;AJ1;Standard;21.0;Male;Does not qualify;70.0;1.0
+1108;1108;LAYPA;Rural;Public;AJ1;Standard;21.0;Male;Does not qualify;67.0;1.0
+1109;1109;LAYPA;Rural;Public;AJ1;Standard;21.0;Male;Does not qualify;70.0;1.0
+1110;1110;LAYPA;Rural;Public;AJ1;Standard;21.0;Male;Does not qualify;71.0;0.0
+1111;1111;LAYPA;Rural;Public;AJ1;Standard;21.0;Male;Does not qualify;71.0;0.0
+1112;1112;LAYPA;Rural;Public;AJ1;Standard;21.0;Male;Does not qualify;74.0;1.0
+1113;1113;LAYPA;Rural;Public;AJ1;Standard;21.0;Male;Does not qualify;72.0;1.0
+1114;1114;LAYPA;Rural;Public;AJ1;Standard;21.0;Male;Does not qualify;72.0;1.0
+1115;1115;LAYPA;Rural;Public;AJ1;Standard;21.0;Male;Does not qualify;73.0;0.0
+1116;1116;LAYPA;Rural;Public;AJ1;Standard;21.0;Male;Does not qualify;73.0;0.0
+1117;1117;LAYPA;Rural;Public;J8J;Standard;19.0;Male;Does not qualify;71.0;0.0
+1118;1118;LAYPA;Rural;Public;J8J;Standard;19.0;Male;Does not qualify;71.0;0.0
+1119;1119;LAYPA;Rural;Public;J8J;Standard;19.0;Male;Does not qualify;71.0;0.0
+1120;1120;LAYPA;Rural;Public;J8J;Standard;19.0;Male;Does not qualify;72.0;1.0
+1121;1121;LAYPA;Rural;Public;J8J;Standard;19.0;Male;Does not qualify;72.0;0.0
+1122;1122;LAYPA;Rural;Public;J8J;Standard;19.0;Male;Does not qualify;70.0;0.0
+1123;1123;LAYPA;Rural;Public;J8J;Standard;19.0;Male;Does not qualify;75.0;0.0
+1124;1124;LAYPA;Rural;Public;J8J;Standard;19.0;Male;Does not qualify;67.0;1.0
+1125;1125;LAYPA;Rural;Public;J8J;Standard;19.0;Male;Does not qualify;70.0;1.0
+1126;1126;LAYPA;Rural;Public;J8J;Standard;19.0;Male;Does not qualify;72.0;1.0
+1127;1127;LAYPA;Rural;Public;J8J;Standard;19.0;Male;Does not qualify;73.0;1.0
+1128;1128;LAYPA;Rural;Public;J8J;Standard;19.0;Male;Does not qualify;71.0;0.0
+1129;1129;LAYPA;Rural;Public;J8J;Standard;19.0;Male;Does not qualify;63.0;0.0
+1130;1130;LAYPA;Rural;Public;J8J;Standard;19.0;Male;Does not qualify;71.0;0.0
+1131;1131;LAYPA;Rural;Public;J8J;Standard;19.0;Male;Does not qualify;69.0;1.0
+1132;1132;LAYPA;Rural;Public;J8J;Standard;19.0;Male;Does not qualify;65.0;1.0
+1133;1133;LAYPA;Rural;Public;J8J;Standard;19.0;Male;Does not qualify;70.0;1.0
+1134;1134;LAYPA;Rural;Public;J8J;Standard;19.0;Male;Does not qualify;66.0;1.0
+1135;1135;LAYPA;Rural;Public;J8J;Standard;19.0;Male;Does not qualify;70.0;1.0
+1136;1136;LAYPA;Rural;Public;RA5;Experimental;17.0;Male;Does not qualify;82.0;1.0
+1137;1137;LAYPA;Rural;Public;RA5;Experimental;17.0;Male;Does not qualify;82.0;0.0
+1138;1138;LAYPA;Rural;Public;RA5;Experimental;17.0;Male;Does not qualify;83.0;1.0
+1139;1139;LAYPA;Rural;Public;RA5;Experimental;17.0;Male;Does not qualify;84.0;1.0
+1140;1140;LAYPA;Rural;Public;RA5;Experimental;17.0;Male;Does not qualify;74.0;0.0
+1141;1141;LAYPA;Rural;Public;RA5;Experimental;17.0;Male;Does not qualify;80.0;0.0
+1142;1142;LAYPA;Rural;Public;RA5;Experimental;17.0;Male;Does not qualify;72.0;0.0
+1143;1143;LAYPA;Rural;Public;RA5;Experimental;17.0;Male;Does not qualify;78.0;1.0
+1144;1144;LAYPA;Rural;Public;RA5;Experimental;17.0;Male;Does not qualify;81.0;1.0
+1145;1145;LAYPA;Rural;Public;RA5;Experimental;17.0;Male;Does not qualify;80.0;1.0
+1146;1146;LAYPA;Rural;Public;RA5;Experimental;17.0;Male;Does not qualify;80.0;0.0
+1147;1147;LAYPA;Rural;Public;RA5;Experimental;17.0;Male;Does not qualify;79.0;0.0
+1148;1148;LAYPA;Rural;Public;RA5;Experimental;17.0;Male;Does not qualify;79.0;0.0
+1149;1149;LAYPA;Rural;Public;RA5;Experimental;17.0;Male;Does not qualify;83.0;0.0
+1150;1150;LAYPA;Rural;Public;RA5;Experimental;17.0;Male;Does not qualify;80.0;1.0
+1151;1151;LAYPA;Rural;Public;RA5;Experimental;17.0;Male;Does not qualify;83.0;0.0
+1152;1152;LAYPA;Rural;Public;RA5;Experimental;17.0;Male;Does not qualify;78.0;0.0
+1153;1153;OJOBU;Rural;Public;5SZ;Experimental;17.0;Male;Qualifies for reduced/free lunch;71.0;1.0
+1154;1154;OJOBU;Rural;Public;5SZ;Experimental;17.0;Male;Does not qualify;77.0;0.0
+1155;1155;OJOBU;Rural;Public;5SZ;Experimental;17.0;Male;Does not qualify;77.0;0.0
+1156;1156;OJOBU;Rural;Public;5SZ;Experimental;17.0;Male;Does not qualify;79.0;0.0
+1157;1157;OJOBU;Rural;Public;5SZ;Experimental;17.0;Male;Does not qualify;78.0;0.0
+1158;1158;OJOBU;Rural;Public;5SZ;Experimental;17.0;Male;Does not qualify;78.0;1.0
+1159;1159;OJOBU;Rural;Public;5SZ;Experimental;17.0;Male;Qualifies for reduced/free lunch;72.0;0.0
+1160;1160;OJOBU;Rural;Public;5SZ;Experimental;17.0;Male;Does not qualify;80.0;1.0
+1161;1161;OJOBU;Rural;Public;5SZ;Experimental;17.0;Male;Does not qualify;84.0;0.0
+1162;1162;OJOBU;Rural;Public;5SZ;Experimental;17.0;Male;Does not qualify;78.0;1.0
+1163;1163;OJOBU;Rural;Public;5SZ;Experimental;17.0;Male;Does not qualify;78.0;1.0
+1164;1164;OJOBU;Rural;Public;5SZ;Experimental;17.0;Male;Does not qualify;78.0;0.0
+1165;1165;OJOBU;Rural;Public;5SZ;Experimental;17.0;Male;Does not qualify;81.0;1.0
+1166;1166;OJOBU;Rural;Public;5SZ;Experimental;17.0;Male;Does not qualify;77.0;0.0
+1167;1167;OJOBU;Rural;Public;5SZ;Experimental;17.0;Male;Does not qualify;82.0;0.0
+1168;1168;OJOBU;Rural;Public;5SZ;Experimental;17.0;Male;Does not qualify;82.0;1.0
+1169;1169;OJOBU;Rural;Public;5SZ;Experimental;17.0;Male;Does not qualify;81.0;0.0
+1170;1170;OJOBU;Rural;Public;6U9;Standard;22.0;Male;Does not qualify;60.0;0.0
+1171;1171;OJOBU;Rural;Public;6U9;Standard;22.0;Male;Does not qualify;62.0;1.0
+1172;1172;OJOBU;Rural;Public;6U9;Standard;22.0;Male;Does not qualify;58.0;0.0
+1173;1173;OJOBU;Rural;Public;6U9;Standard;22.0;Male;Qualifies for reduced/free lunch;51.0;1.0
+1174;1174;OJOBU;Rural;Public;6U9;Standard;22.0;Male;Does not qualify;59.0;1.0
+1175;1175;OJOBU;Rural;Public;6U9;Standard;22.0;Male;Does not qualify;58.0;0.0
+1176;1176;OJOBU;Rural;Public;6U9;Standard;22.0;Male;Does not qualify;60.0;0.0
+1177;1177;OJOBU;Rural;Public;6U9;Standard;22.0;Male;Does not qualify;56.0;0.0
+1178;1178;OJOBU;Rural;Public;6U9;Standard;22.0;Male;Does not qualify;60.0;0.0
+1179;1179;OJOBU;Rural;Public;6U9;Standard;22.0;Male;Does not qualify;56.0;0.0
+1180;1180;OJOBU;Rural;Public;6U9;Standard;22.0;Male;Does not qualify;62.0;0.0
+1181;1181;OJOBU;Rural;Public;6U9;Standard;22.0;Male;Does not qualify;55.0;0.0
+1182;1182;OJOBU;Rural;Public;6U9;Standard;22.0;Male;Does not qualify;50.0;0.0
+1183;1183;OJOBU;Rural;Public;6U9;Standard;22.0;Male;Qualifies for reduced/free lunch;53.0;0.0
+1184;1184;OJOBU;Rural;Public;6U9;Standard;22.0;Male;Does not qualify;59.0;0.0
+1185;1185;OJOBU;Rural;Public;6U9;Standard;22.0;Male;Does not qualify;58.0;1.0
+1186;1186;OJOBU;Rural;Public;6U9;Standard;22.0;Male;Does not qualify;57.0;0.0
+1187;1187;OJOBU;Rural;Public;6U9;Standard;22.0;Male;Does not qualify;60.0;0.0
+1188;1188;OJOBU;Rural;Public;6U9;Standard;22.0;Male;Does not qualify;56.0;0.0
+1189;1189;OJOBU;Rural;Public;6U9;Standard;22.0;Male;Does not qualify;58.0;1.0
+1190;1190;OJOBU;Rural;Public;6U9;Standard;22.0;Male;Does not qualify;68.0;1.0
+1191;1191;OJOBU;Rural;Public;6U9;Standard;22.0;Male;Does not qualify;54.0;1.0
+1192;1192;OJOBU;Rural;Public;FS3;Standard;19.0;Male;Does not qualify;70.0;0.0
+1193;1193;OJOBU;Rural;Public;FS3;Standard;19.0;Male;Does not qualify;68.0;0.0
+1194;1194;OJOBU;Rural;Public;FS3;Standard;19.0;Male;Does not qualify;68.0;1.0
+1195;1195;OJOBU;Rural;Public;FS3;Standard;19.0;Male;Does not qualify;71.0;1.0
+1196;1196;OJOBU;Rural;Public;FS3;Standard;19.0;Male;Does not qualify;76.0;1.0
+1197;1197;OJOBU;Rural;Public;FS3;Standard;19.0;Male;Does not qualify;74.0;1.0
+1198;1198;OJOBU;Rural;Public;FS3;Standard;19.0;Male;Does not qualify;71.0;1.0
+1199;1199;OJOBU;Rural;Public;FS3;Standard;19.0;Male;Does not qualify;66.0;1.0
+1200;1200;OJOBU;Rural;Public;FS3;Standard;19.0;Male;Does not qualify;68.0;0.0
+1201;1201;OJOBU;Rural;Public;FS3;Standard;19.0;Male;Does not qualify;72.0;1.0
+1202;1202;OJOBU;Rural;Public;FS3;Standard;19.0;Male;Does not qualify;73.0;0.0
+1203;1203;OJOBU;Rural;Public;FS3;Standard;19.0;Male;Does not qualify;72.0;1.0
+1204;1204;OJOBU;Rural;Public;FS3;Standard;19.0;Male;Qualifies for reduced/free lunch;73.0;0.0
+1205;1205;OJOBU;Rural;Public;FS3;Standard;19.0;Male;Qualifies for reduced/free lunch;72.0;1.0
+1206;1206;OJOBU;Rural;Public;FS3;Standard;19.0;Male;Does not qualify;75.0;1.0
+1207;1207;OJOBU;Rural;Public;FS3;Standard;19.0;Male;Does not qualify;71.0;0.0
+1208;1208;OJOBU;Rural;Public;FS3;Standard;19.0;Male;Qualifies for reduced/free lunch;68.0;0.0
+1209;1209;OJOBU;Rural;Public;FS3;Standard;19.0;Male;Does not qualify;68.0;0.0
+1210;1210;OJOBU;Rural;Public;FS3;Standard;19.0;Male;Does not qualify;68.0;0.0
+1211;1211;OJOBU;Rural;Public;XJ8;Standard;23.0;Male;Does not qualify;66.0;0.0
+1212;1212;OJOBU;Rural;Public;XJ8;Standard;23.0;Male;Does not qualify;69.0;1.0
+1213;1213;OJOBU;Rural;Public;XJ8;Standard;23.0;Male;Qualifies for reduced/free lunch;62.0;0.0
+1214;1214;OJOBU;Rural;Public;XJ8;Standard;23.0;Male;Does not qualify;70.0;0.0
+1215;1215;OJOBU;Rural;Public;XJ8;Standard;23.0;Male;Does not qualify;73.0;0.0
+1216;1216;OJOBU;Rural;Public;XJ8;Standard;23.0;Male;Qualifies for reduced/free lunch;62.0;0.0
+1217;1217;OJOBU;Rural;Public;XJ8;Standard;23.0;Male;Does not qualify;67.0;1.0
+1218;1218;OJOBU;Rural;Public;XJ8;Standard;23.0;Male;Does not qualify;67.0;1.0
+1219;1219;OJOBU;Rural;Public;XJ8;Standard;23.0;Male;Qualifies for reduced/free lunch;63.0;0.0
+1220;1220;OJOBU;Rural;Public;XJ8;Standard;23.0;Male;Does not qualify;62.0;0.0
+1221;1221;OJOBU;Rural;Public;XJ8;Standard;23.0;Male;Does not qualify;71.0;1.0
+1222;1222;OJOBU;Rural;Public;XJ8;Standard;23.0;Male;Qualifies for reduced/free lunch;66.0;1.0
+1223;1223;OJOBU;Rural;Public;XJ8;Standard;23.0;Male;Does not qualify;68.0;0.0
+1224;1224;OJOBU;Rural;Public;XJ8;Standard;23.0;Male;Does not qualify;67.0;0.0
+1225;1225;OJOBU;Rural;Public;XJ8;Standard;23.0;Male;Does not qualify;67.0;0.0
+1226;1226;OJOBU;Rural;Public;XJ8;Standard;23.0;Male;Does not qualify;69.0;0.0
+1227;1227;OJOBU;Rural;Public;XJ8;Standard;23.0;Male;Does not qualify;65.0;0.0
+1228;1228;OJOBU;Rural;Public;XJ8;Standard;23.0;Male;Does not qualify;74.0;1.0
+1229;1229;OJOBU;Rural;Public;XJ8;Standard;23.0;Male;Does not qualify;68.0;1.0
+1230;1230;OJOBU;Rural;Public;XJ8;Standard;23.0;Male;Does not qualify;66.0;1.0
+1231;1231;OJOBU;Rural;Public;XJ8;Standard;23.0;Male;Does not qualify;68.0;1.0
+1232;1232;OJOBU;Rural;Public;XJ8;Standard;23.0;Male;Does not qualify;74.0;1.0
+1233;1233;OJOBU;Rural;Public;XJ8;Standard;23.0;Male;Does not qualify;62.0;0.0
+1234;1234;QOQTS;Urban;Public;0N7;Experimental;28.0;Male;Does not qualify;57.0;0.0
+1235;1235;QOQTS;Urban;Public;0N7;Experimental;28.0;Male;Does not qualify;61.0;1.0
+1236;1236;QOQTS;Urban;Public;0N7;Experimental;28.0;Male;Does not qualify;57.0;1.0
+1237;1237;QOQTS;Urban;Public;0N7;Experimental;28.0;Male;Does not qualify;58.0;0.0
+1238;1238;QOQTS;Urban;Public;0N7;Experimental;28.0;Male;Does not qualify;64.0;0.0
+1239;1239;QOQTS;Urban;Public;0N7;Experimental;28.0;Male;Qualifies for reduced/free lunch;66.0;1.0
+1240;1240;QOQTS;Urban;Public;0N7;Experimental;28.0;Male;Does not qualify;68.0;0.0
+1241;1241;QOQTS;Urban;Public;0N7;Experimental;28.0;Male;Does not qualify;60.0;0.0
+1242;1242;QOQTS;Urban;Public;0N7;Experimental;28.0;Male;Does not qualify;61.0;0.0
+1243;1243;QOQTS;Urban;Public;0N7;Experimental;28.0;Male;Qualifies for reduced/free lunch;56.0;0.0
+1244;1244;QOQTS;Urban;Public;0N7;Experimental;28.0;Male;Does not qualify;60.0;0.0
+1245;1245;QOQTS;Urban;Public;0N7;Experimental;28.0;Male;Does not qualify;59.0;0.0
+1246;1246;QOQTS;Urban;Public;0N7;Experimental;28.0;Male;Does not qualify;60.0;0.0
+1247;1247;QOQTS;Urban;Public;0N7;Experimental;28.0;Male;Does not qualify;60.0;1.0
+1248;1248;QOQTS;Urban;Public;0N7;Experimental;28.0;Male;Does not qualify;60.0;0.0
+1249;1249;QOQTS;Urban;Public;0N7;Experimental;28.0;Male;Does not qualify;59.0;0.0
+1250;1250;QOQTS;Urban;Public;0N7;Experimental;28.0;Male;Does not qualify;59.0;1.0
+1251;1251;QOQTS;Urban;Public;0N7;Experimental;28.0;Male;Does not qualify;63.0;0.0
+1252;1252;QOQTS;Urban;Public;0N7;Experimental;28.0;Male;Does not qualify;63.0;0.0
+1253;1253;QOQTS;Urban;Public;0N7;Experimental;28.0;Male;Does not qualify;61.0;1.0
+1254;1254;QOQTS;Urban;Public;0N7;Experimental;28.0;Male;Does not qualify;63.0;0.0
+1255;1255;QOQTS;Urban;Public;0N7;Experimental;28.0;Male;Does not qualify;68.0;0.0
+1256;1256;QOQTS;Urban;Public;0N7;Experimental;28.0;Male;Does not qualify;59.0;1.0
+1257;1257;QOQTS;Urban;Public;0N7;Experimental;28.0;Male;Qualifies for reduced/free lunch;57.0;0.0
+1258;1258;QOQTS;Urban;Public;0N7;Experimental;28.0;Male;Does not qualify;61.0;1.0
+1259;1259;QOQTS;Urban;Public;0N7;Experimental;28.0;Male;Does not qualify;59.0;1.0
+1260;1260;QOQTS;Urban;Public;0N7;Experimental;28.0;Male;Does not qualify;59.0;1.0
+1261;1261;QOQTS;Urban;Public;0N7;Experimental;28.0;Male;Does not qualify;64.0;1.0
+1262;1262;QOQTS;Urban;Public;3XJ;Standard;24.0;Male;Does not qualify;59.0;1.0
+1263;1263;QOQTS;Urban;Public;3XJ;Standard;24.0;Male;Does not qualify;61.0;1.0
+1264;1264;QOQTS;Urban;Public;3XJ;Standard;24.0;Male;Does not qualify;60.0;0.0
+1265;1265;QOQTS;Urban;Public;3XJ;Standard;24.0;Male;Does not qualify;61.0;1.0
+1266;1266;QOQTS;Urban;Public;3XJ;Standard;24.0;Male;Does not qualify;60.0;0.0
+1267;1267;QOQTS;Urban;Public;3XJ;Standard;24.0;Male;Does not qualify;63.0;0.0
+1268;1268;QOQTS;Urban;Public;3XJ;Standard;24.0;Male;Does not qualify;59.0;1.0
+1269;1269;QOQTS;Urban;Public;3XJ;Standard;24.0;Male;Does not qualify;54.0;0.0
+1270;1270;QOQTS;Urban;Public;3XJ;Standard;24.0;Male;Does not qualify;54.0;0.0
+1271;1271;QOQTS;Urban;Public;3XJ;Standard;24.0;Male;Does not qualify;61.0;0.0
+1272;1272;QOQTS;Urban;Public;3XJ;Standard;24.0;Male;Does not qualify;64.0;1.0
+1273;1273;QOQTS;Urban;Public;3XJ;Standard;24.0;Male;Does not qualify;59.0;1.0
+1274;1274;QOQTS;Urban;Public;3XJ;Standard;24.0;Male;Does not qualify;57.0;1.0
+1275;1275;QOQTS;Urban;Public;3XJ;Standard;24.0;Male;Does not qualify;64.0;0.0
+1276;1276;QOQTS;Urban;Public;3XJ;Standard;24.0;Male;Does not qualify;58.0;0.0
+1277;1277;QOQTS;Urban;Public;3XJ;Standard;24.0;Male;Does not qualify;61.0;1.0
+1278;1278;QOQTS;Urban;Public;3XJ;Standard;24.0;Male;Does not qualify;56.0;0.0
+1279;1279;QOQTS;Urban;Public;3XJ;Standard;24.0;Male;Does not qualify;58.0;0.0
+1280;1280;QOQTS;Urban;Public;3XJ;Standard;24.0;Male;Does not qualify;61.0;0.0
+1281;1281;QOQTS;Urban;Public;3XJ;Standard;24.0;Male;Does not qualify;55.0;1.0
+1282;1282;QOQTS;Urban;Public;3XJ;Standard;24.0;Male;Does not qualify;59.0;0.0
+1283;1283;QOQTS;Urban;Public;3XJ;Standard;24.0;Male;Does not qualify;56.0;0.0
+1284;1284;QOQTS;Urban;Public;3XJ;Standard;24.0;Male;Does not qualify;58.0;0.0
+1285;1285;QOQTS;Urban;Public;3XJ;Standard;24.0;Male;Does not qualify;58.0;0.0
+1286;1286;QOQTS;Urban;Public;RK7;Standard;22.0;Male;Does not qualify;58.0;1.0
+1287;1287;QOQTS;Urban;Public;RK7;Standard;22.0;Male;Does not qualify;58.0;1.0
+1288;1288;QOQTS;Urban;Public;RK7;Standard;22.0;Male;Does not qualify;61.0;1.0
+1289;1289;QOQTS;Urban;Public;RK7;Standard;22.0;Male;Does not qualify;63.0;0.0
+1290;1290;QOQTS;Urban;Public;RK7;Standard;22.0;Male;Does not qualify;55.0;0.0
+1291;1291;QOQTS;Urban;Public;RK7;Standard;22.0;Male;Does not qualify;61.0;0.0
+1292;1292;QOQTS;Urban;Public;RK7;Standard;22.0;Male;Does not qualify;61.0;0.0
+1293;1293;QOQTS;Urban;Public;RK7;Standard;22.0;Male;Does not qualify;61.0;0.0
+1294;1294;QOQTS;Urban;Public;RK7;Standard;22.0;Male;Does not qualify;56.0;1.0
+1295;1295;QOQTS;Urban;Public;RK7;Standard;22.0;Male;Does not qualify;60.0;0.0
+1296;1296;QOQTS;Urban;Public;RK7;Standard;22.0;Male;Does not qualify;60.0;0.0
+1297;1297;QOQTS;Urban;Public;RK7;Standard;22.0;Male;Does not qualify;57.0;0.0
+1298;1298;QOQTS;Urban;Public;RK7;Standard;22.0;Male;Does not qualify;62.0;1.0
+1299;1299;QOQTS;Urban;Public;RK7;Standard;22.0;Male;Does not qualify;59.0;1.0
+1300;1300;QOQTS;Urban;Public;RK7;Standard;22.0;Male;Does not qualify;63.0;1.0
+1301;1301;QOQTS;Urban;Public;RK7;Standard;22.0;Male;Does not qualify;61.0;0.0
+1302;1302;QOQTS;Urban;Public;RK7;Standard;22.0;Male;Does not qualify;63.0;1.0
+1303;1303;QOQTS;Urban;Public;RK7;Standard;22.0;Male;Does not qualify;66.0;1.0
+1304;1304;QOQTS;Urban;Public;RK7;Standard;22.0;Male;Does not qualify;51.0;1.0
+1305;1305;QOQTS;Urban;Public;RK7;Standard;22.0;Male;Does not qualify;64.0;0.0
+1306;1306;QOQTS;Urban;Public;RK7;Standard;22.0;Male;Does not qualify;60.0;0.0
+1307;1307;QOQTS;Urban;Public;RK7;Standard;22.0;Male;Does not qualify;60.0;0.0
+1308;1308;QOQTS;Urban;Public;SUR;Standard;28.0;Male;Does not qualify;66.0;0.0
+1309;1309;QOQTS;Urban;Public;SUR;Standard;28.0;Male;Does not qualify;66.0;1.0
+1310;1310;QOQTS;Urban;Public;SUR;Standard;28.0;Male;Does not qualify;58.0;0.0
+1311;1311;QOQTS;Urban;Public;SUR;Standard;28.0;Male;Does not qualify;64.0;1.0
+1312;1312;QOQTS;Urban;Public;SUR;Standard;28.0;Male;Qualifies for reduced/free lunch;62.0;1.0
+1313;1313;QOQTS;Urban;Public;SUR;Standard;28.0;Male;Does not qualify;64.0;1.0
+1314;1314;QOQTS;Urban;Public;SUR;Standard;28.0;Male;Does not qualify;69.0;1.0
+1315;1315;QOQTS;Urban;Public;SUR;Standard;28.0;Male;Does not qualify;65.0;0.0
+1316;1316;QOQTS;Urban;Public;SUR;Standard;28.0;Male;Does not qualify;63.0;0.0
+1317;1317;QOQTS;Urban;Public;SUR;Standard;28.0;Male;Does not qualify;62.0;1.0
+1318;1318;QOQTS;Urban;Public;SUR;Standard;28.0;Male;Does not qualify;64.0;0.0
+1319;1319;QOQTS;Urban;Public;SUR;Standard;28.0;Male;Does not qualify;69.0;0.0
+1320;1320;QOQTS;Urban;Public;SUR;Standard;28.0;Male;Does not qualify;65.0;1.0
+1321;1321;QOQTS;Urban;Public;SUR;Standard;28.0;Male;Does not qualify;62.0;1.0
+1322;1322;QOQTS;Urban;Public;SUR;Standard;28.0;Male;Does not qualify;62.0;1.0
+1323;1323;QOQTS;Urban;Public;SUR;Standard;28.0;Male;Does not qualify;62.0;0.0
+1324;1324;QOQTS;Urban;Public;SUR;Standard;28.0;Male;Does not qualify;60.0;1.0
+1325;1325;QOQTS;Urban;Public;SUR;Standard;28.0;Male;Does not qualify;62.0;1.0
+1326;1326;QOQTS;Urban;Public;SUR;Standard;28.0;Male;Qualifies for reduced/free lunch;57.0;1.0
+1327;1327;QOQTS;Urban;Public;SUR;Standard;28.0;Male;Does not qualify;64.0;1.0
+1328;1328;QOQTS;Urban;Public;SUR;Standard;28.0;Male;Does not qualify;62.0;1.0
+1329;1329;QOQTS;Urban;Public;SUR;Standard;28.0;Male;Does not qualify;56.0;0.0
+1330;1330;QOQTS;Urban;Public;SUR;Standard;28.0;Male;Does not qualify;59.0;1.0
+1331;1331;QOQTS;Urban;Public;SUR;Standard;28.0;Male;Does not qualify;61.0;1.0
+1332;1332;QOQTS;Urban;Public;SUR;Standard;28.0;Male;Does not qualify;62.0;1.0
+1333;1333;QOQTS;Urban;Public;SUR;Standard;28.0;Male;Does not qualify;58.0;0.0
+1334;1334;QOQTS;Urban;Public;SUR;Standard;28.0;Male;Does not qualify;61.0;1.0
+1335;1335;QOQTS;Urban;Public;SUR;Standard;28.0;Male;Does not qualify;65.0;0.0
+1336;1336;QOQTS;Urban;Public;X2O;Experimental;25.0;Male;Does not qualify;71.0;1.0
+1337;1337;QOQTS;Urban;Public;X2O;Experimental;25.0;Male;Qualifies for reduced/free lunch;78.0;0.0
+1338;1338;QOQTS;Urban;Public;X2O;Experimental;25.0;Male;Does not qualify;76.0;1.0
+1339;1339;QOQTS;Urban;Public;X2O;Experimental;25.0;Male;Does not qualify;80.0;0.0
+1340;1340;QOQTS;Urban;Public;X2O;Experimental;25.0;Male;Does not qualify;76.0;1.0
+1341;1341;QOQTS;Urban;Public;X2O;Experimental;25.0;Male;Does not qualify;75.0;1.0
+1342;1342;QOQTS;Urban;Public;X2O;Experimental;25.0;Male;Does not qualify;85.0;1.0
+1343;1343;QOQTS;Urban;Public;X2O;Experimental;25.0;Male;Does not qualify;78.0;0.0
+1344;1344;QOQTS;Urban;Public;X2O;Experimental;25.0;Male;Does not qualify;78.0;0.0
+1345;1345;QOQTS;Urban;Public;X2O;Experimental;25.0;Male;Does not qualify;81.0;1.0
+1346;1346;QOQTS;Urban;Public;X2O;Experimental;25.0;Male;Does not qualify;78.0;1.0
+1347;1347;QOQTS;Urban;Public;X2O;Experimental;25.0;Male;Does not qualify;77.0;1.0
+1348;1348;QOQTS;Urban;Public;X2O;Experimental;25.0;Male;Does not qualify;76.0;1.0
+1349;1349;QOQTS;Urban;Public;X2O;Experimental;25.0;Male;Does not qualify;76.0;1.0
+1350;1350;QOQTS;Urban;Public;X2O;Experimental;25.0;Male;Does not qualify;79.0;0.0
+1351;1351;QOQTS;Urban;Public;X2O;Experimental;25.0;Male;Does not qualify;78.0;1.0
+1352;1352;QOQTS;Urban;Public;X2O;Experimental;25.0;Male;Does not qualify;79.0;0.0
+1353;1353;QOQTS;Urban;Public;X2O;Experimental;25.0;Male;Does not qualify;79.0;0.0
+1354;1354;QOQTS;Urban;Public;X2O;Experimental;25.0;Male;Qualifies for reduced/free lunch;73.0;1.0
+1355;1355;QOQTS;Urban;Public;X2O;Experimental;25.0;Male;Does not qualify;76.0;0.0
+1356;1356;QOQTS;Urban;Public;X2O;Experimental;25.0;Male;Does not qualify;74.0;1.0
+1357;1357;QOQTS;Urban;Public;X2O;Experimental;25.0;Male;Does not qualify;76.0;1.0
+1358;1358;QOQTS;Urban;Public;X2O;Experimental;25.0;Male;Does not qualify;79.0;0.0
+1359;1359;QOQTS;Urban;Public;X2O;Experimental;25.0;Male;Does not qualify;81.0;1.0
+1360;1360;QOQTS;Urban;Public;X2O;Experimental;25.0;Male;Does not qualify;81.0;0.0
+1361;1361;QOQTS;Urban;Public;XZ4;Standard;22.0;Male;Does not qualify;73.0;0.0
+1362;1362;QOQTS;Urban;Public;XZ4;Standard;22.0;Male;Does not qualify;68.0;0.0
+1363;1363;QOQTS;Urban;Public;XZ4;Standard;22.0;Male;Does not qualify;63.0;1.0
+1364;1364;QOQTS;Urban;Public;XZ4;Standard;22.0;Male;Does not qualify;66.0;1.0
+1365;1365;QOQTS;Urban;Public;XZ4;Standard;22.0;Male;Does not qualify;65.0;0.0
+1366;1366;QOQTS;Urban;Public;XZ4;Standard;22.0;Male;Does not qualify;70.0;1.0
+1367;1367;QOQTS;Urban;Public;XZ4;Standard;22.0;Male;Does not qualify;66.0;0.0
+1368;1368;QOQTS;Urban;Public;XZ4;Standard;22.0;Male;Qualifies for reduced/free lunch;64.0;0.0
+1369;1369;QOQTS;Urban;Public;XZ4;Standard;22.0;Male;Does not qualify;69.0;1.0
+1370;1370;QOQTS;Urban;Public;XZ4;Standard;22.0;Male;Does not qualify;67.0;0.0
+1371;1371;QOQTS;Urban;Public;XZ4;Standard;22.0;Male;Does not qualify;69.0;1.0
+1372;1372;QOQTS;Urban;Public;XZ4;Standard;22.0;Male;Does not qualify;74.0;0.0
+1373;1373;QOQTS;Urban;Public;XZ4;Standard;22.0;Male;Does not qualify;71.0;1.0
+1374;1374;QOQTS;Urban;Public;XZ4;Standard;22.0;Female;Does not qualify;70.0;1.0
+1375;1375;QOQTS;Urban;Public;XZ4;Standard;22.0;Female;Does not qualify;69.0;0.0
+1376;1376;QOQTS;Urban;Public;XZ4;Standard;22.0;Male;Qualifies for reduced/free lunch;66.0;1.0
+1377;1377;QOQTS;Urban;Public;XZ4;Standard;22.0;Female;Does not qualify;73.0;0.0
+1378;1378;QOQTS;Urban;Public;XZ4;Standard;22.0;Male;Does not qualify;70.0;1.0
+1379;1379;QOQTS;Urban;Public;XZ4;Standard;22.0;Female;Does not qualify;68.0;0.0
+1380;1380;QOQTS;Urban;Public;XZ4;Standard;22.0;Male;Does not qualify;68.0;0.0
+1381;1381;QOQTS;Urban;Public;XZ4;Standard;22.0;Male;Does not qualify;68.0;1.0
+1382;1382;QOQTS;Urban;Public;XZ4;Standard;22.0;Female;Does not qualify;71.0;0.0
+1383;1383;UAGPU;Suburban;Public;1SZ;Standard;22.0;Male;Does not qualify;70.0;1.0
+1384;1384;UAGPU;Suburban;Public;1SZ;Standard;22.0;Male;Does not qualify;64.0;0.0
+1385;1385;UAGPU;Suburban;Public;1SZ;Standard;22.0;Female;Does not qualify;68.0;0.0
+1386;1386;UAGPU;Suburban;Public;1SZ;Standard;22.0;Male;Does not qualify;67.0;1.0
+1387;1387;UAGPU;Suburban;Public;1SZ;Standard;22.0;Male;Does not qualify;73.0;0.0
+1388;1388;UAGPU;Suburban;Public;1SZ;Standard;22.0;Male;Does not qualify;67.0;1.0
+1389;1389;UAGPU;Suburban;Public;1SZ;Standard;22.0;Male;Does not qualify;69.0;1.0
+1390;1390;UAGPU;Suburban;Public;1SZ;Standard;22.0;Male;Does not qualify;69.0;1.0
+1391;1391;UAGPU;Suburban;Public;1SZ;Standard;22.0;Male;Does not qualify;64.0;0.0
+1392;1392;UAGPU;Suburban;Public;1SZ;Standard;22.0;Female;Does not qualify;71.0;0.0
+1393;1393;UAGPU;Suburban;Public;1SZ;Standard;22.0;Female;Does not qualify;65.0;1.0
+1394;1394;UAGPU;Suburban;Public;1SZ;Standard;22.0;Female;Does not qualify;68.0;0.0
+1395;1395;UAGPU;Suburban;Public;1SZ;Standard;22.0;Female;Does not qualify;65.0;1.0
+1396;1396;UAGPU;Suburban;Public;1SZ;Standard;;Female;Does not qualify;67.0;1.0
+1397;1397;UAGPU;Suburban;Public;1SZ;Standard;22.0;Male;Does not qualify;65.0;1.0
+1398;1398;UAGPU;Suburban;Public;1SZ;Standard;22.0;Male;Does not qualify;69.0;0.0
+1399;1399;UAGPU;Suburban;Public;1SZ;Standard;22.0;Female;Does not qualify;66.0;1.0
+1400;1400;UAGPU;Suburban;Public;1SZ;Standard;;Female;Does not qualify;75.0;1.0
+1401;1401;UAGPU;Suburban;Public;1SZ;Standard;22.0;Male;Does not qualify;70.0;1.0
+1402;1402;UAGPU;Suburban;Public;1SZ;Standard;22.0;Female;Does not qualify;70.0;1.0
+1403;1403;UAGPU;Suburban;Public;1SZ;Standard;22.0;Female;Does not qualify;69.0;0.0
+1404;1404;UAGPU;Suburban;Public;1SZ;Standard;;Male;Does not qualify;70.0;0.0
+1405;1405;UAGPU;Suburban;Public;62L;Standard;23.0;Female;Does not qualify;81.0;0.0
+1406;1406;UAGPU;Suburban;Public;62L;Standard;23.0;Male;Does not qualify;68.0;1.0
+1407;1407;UAGPU;Suburban;Public;62L;Standard;23.0;Female;Does not qualify;78.0;0.0
+1408;1408;UAGPU;Suburban;Public;62L;Standard;23.0;Female;Qualifies for reduced/free lunch;70.0;0.0
+1409;1409;UAGPU;Suburban;Public;62L;Standard;;Male;Does not qualify;73.0;1.0
+1410;1410;UAGPU;Suburban;Public;62L;Standard;23.0;Female;Does not qualify;76.0;0.0
+1411;1411;UAGPU;Suburban;Public;62L;Standard;23.0;Female;Does not qualify;74.0;0.0
+1412;1412;UAGPU;Suburban;Public;62L;Standard;23.0;Male;Does not qualify;79.0;1.0
+1413;1413;UAGPU;Suburban;Public;62L;Standard;23.0;Male;Does not qualify;73.0;0.0
+1414;1414;UAGPU;Suburban;Public;62L;Standard;;Female;Does not qualify;76.0;0.0
+1415;1415;UAGPU;Suburban;Public;62L;Standard;23.0;Female;Does not qualify;72.0;0.0
+1416;1416;UAGPU;Suburban;Public;62L;Standard;23.0;Female;Does not qualify;83.0;0.0
+1417;1417;UAGPU;Suburban;Public;62L;Standard;23.0;Male;Does not qualify;74.0;1.0
+1418;1418;UAGPU;Suburban;Public;62L;Standard;23.0;Male;Does not qualify;72.0;0.0
+1419;1419;UAGPU;Suburban;Public;62L;Standard;23.0;Male;Does not qualify;77.0;1.0
+1420;1420;UAGPU;Suburban;Public;62L;Standard;;Female;Does not qualify;75.0;0.0
+1421;1421;UAGPU;Suburban;Public;62L;Standard;23.0;Female;Does not qualify;73.0;0.0
+1422;1422;UAGPU;Suburban;Public;62L;Standard;23.0;Female;Does not qualify;72.0;0.0
+1423;1423;UAGPU;Suburban;Public;62L;Standard;23.0;Female;Does not qualify;79.0;0.0
+1424;1424;UAGPU;Suburban;Public;62L;Standard;23.0;Female;Does not qualify;68.0;0.0
+1425;1425;UAGPU;Suburban;Public;62L;Standard;23.0;Male;Does not qualify;74.0;1.0
+1426;1426;UAGPU;Suburban;Public;62L;Standard;;Female;Does not qualify;71.0;0.0
+1427;1427;UAGPU;Suburban;Public;62L;Standard;23.0;Male;Does not qualify;75.0;0.0
+1428;1428;UAGPU;Suburban;Public;NWZ;Standard;21.0;Male;Does not qualify;68.0;1.0
+1429;1429;UAGPU;Suburban;Public;NWZ;Standard;21.0;Male;Does not qualify;69.0;0.0
+1430;1430;UAGPU;Suburban;Public;NWZ;Standard;21.0;Male;Does not qualify;67.0;0.0
+1431;1431;UAGPU;Suburban;Public;NWZ;Standard;21.0;Male;Does not qualify;68.0;1.0
+1432;1432;UAGPU;Suburban;Public;NWZ;Standard;21.0;Male;Does not qualify;72.0;0.0
+1433;1433;UAGPU;Suburban;Public;NWZ;Standard;21.0;Male;Does not qualify;69.0;1.0
+1434;1434;UAGPU;Suburban;Public;NWZ;Standard;21.0;Male;Does not qualify;66.0;0.0
+1435;1435;UAGPU;Suburban;Public;NWZ;Standard;21.0;Male;Does not qualify;68.0;0.0
+1436;1436;UAGPU;Suburban;Public;NWZ;Standard;21.0;Male;Does not qualify;69.0;1.0
+1437;1437;UAGPU;Suburban;Public;NWZ;Standard;21.0;Male;Does not qualify;67.0;0.0
+1438;1438;UAGPU;Suburban;Public;NWZ;Standard;21.0;Male;Does not qualify;69.0;0.0
+1439;1439;UAGPU;Suburban;Public;NWZ;Standard;21.0;Male;Does not qualify;72.0;0.0
+1440;1440;UAGPU;Suburban;Public;NWZ;Standard;21.0;Male;Does not qualify;67.0;0.0
+1441;1441;UAGPU;Suburban;Public;NWZ;Standard;21.0;Male;Does not qualify;71.0;0.0
+1442;1442;UAGPU;Suburban;Public;NWZ;Standard;21.0;Male;Does not qualify;68.0;0.0
+1443;1443;UAGPU;Suburban;Public;NWZ;Standard;21.0;Male;Does not qualify;66.0;0.0
+1444;1444;UAGPU;Suburban;Public;NWZ;Standard;21.0;Male;Does not qualify;69.0;1.0
+1445;1445;UAGPU;Suburban;Public;NWZ;Standard;21.0;Male;Does not qualify;67.0;1.0
+1446;1446;UAGPU;Suburban;Public;NWZ;Standard;21.0;Male;Does not qualify;67.0;1.0
+1447;1447;UAGPU;Suburban;Public;NWZ;Standard;21.0;Male;Does not qualify;66.0;0.0
+1448;1448;UAGPU;Suburban;Public;NWZ;Standard;21.0;Male;Qualifies for reduced/free lunch;62.0;1.0
+1449;1449;UAGPU;Suburban;Public;S98;Standard;21.0;Male;Does not qualify;79.0;1.0
+1450;1450;UAGPU;Suburban;Public;S98;Standard;21.0;Male;Does not qualify;77.0;1.0
+1451;1451;UAGPU;Suburban;Public;S98;Standard;21.0;Male;Does not qualify;79.0;1.0
+1452;1452;UAGPU;Suburban;Public;S98;Standard;21.0;Male;Does not qualify;78.0;0.0
+1453;1453;UAGPU;Suburban;Public;S98;Standard;21.0;Male;Does not qualify;77.0;0.0
+1454;1454;UAGPU;Suburban;Public;S98;Standard;21.0;Male;Does not qualify;71.0;0.0
+1455;1455;UAGPU;Suburban;Public;S98;Standard;21.0;Male;Does not qualify;81.0;0.0
+1456;1456;UAGPU;Suburban;Public;S98;Standard;21.0;Male;Does not qualify;77.0;0.0
+1457;1457;UAGPU;Suburban;Public;S98;Standard;21.0;Male;Does not qualify;79.0;1.0
+1458;1458;UAGPU;Suburban;Public;S98;Standard;21.0;Male;Does not qualify;71.0;1.0
+1459;1459;UAGPU;Suburban;Public;S98;Standard;21.0;Male;Does not qualify;77.0;0.0
+1460;1460;UAGPU;Suburban;Public;S98;Standard;21.0;Male;Does not qualify;75.0;0.0
+1461;1461;UAGPU;Suburban;Public;S98;Standard;21.0;Male;Does not qualify;73.0;0.0
+1462;1462;UAGPU;Suburban;Public;S98;Standard;21.0;Male;Does not qualify;75.0;1.0
+1463;1463;UAGPU;Suburban;Public;S98;Standard;21.0;Male;Does not qualify;76.0;0.0
+1464;1464;UAGPU;Suburban;Public;S98;Standard;21.0;Male;Does not qualify;73.0;1.0
+1465;1465;UAGPU;Suburban;Public;S98;Standard;21.0;Male;Does not qualify;79.0;0.0
+1466;1466;UAGPU;Suburban;Public;S98;Standard;21.0;Male;Does not qualify;79.0;1.0
+1467;1467;UAGPU;Suburban;Public;S98;Standard;21.0;Male;Does not qualify;81.0;1.0
+1468;1468;UAGPU;Suburban;Public;S98;Standard;21.0;Male;Does not qualify;77.0;1.0
+1469;1469;UAGPU;Suburban;Public;S98;Standard;21.0;Male;Does not qualify;78.0;0.0
+1470;1470;UKPGS;Suburban;Public;08N;Standard;21.0;Male;Does not qualify;95.0;1.0
+1471;1471;UKPGS;Suburban;Public;08N;Standard;21.0;Male;Does not qualify;93.0;0.0
+1472;1472;UKPGS;Suburban;Public;08N;Standard;21.0;Male;Does not qualify;91.0;1.0
+1473;1473;UKPGS;Suburban;Public;08N;Standard;21.0;Male;Does not qualify;94.0;0.0
+1474;1474;UKPGS;Suburban;Public;08N;Standard;21.0;Male;Does not qualify;94.0;0.0
+1475;1475;UKPGS;Suburban;Public;08N;Standard;21.0;Male;Does not qualify;93.0;1.0
+1476;1476;UKPGS;Suburban;Public;08N;Standard;21.0;Male;Does not qualify;98.0;0.0
+1477;1477;UKPGS;Suburban;Public;08N;Standard;21.0;Male;Does not qualify;94.0;0.0
+1478;1478;UKPGS;Suburban;Public;08N;Standard;21.0;Male;Does not qualify;91.0;1.0
+1479;1479;UKPGS;Suburban;Public;08N;Standard;21.0;Male;Does not qualify;94.0;0.0
+1480;1480;UKPGS;Suburban;Public;08N;Standard;21.0;Male;Does not qualify;94.0;0.0
+1481;1481;UKPGS;Suburban;Public;08N;Standard;21.0;Male;Does not qualify;95.0;0.0
+1482;1482;UKPGS;Suburban;Public;08N;Standard;21.0;Male;Does not qualify;94.0;1.0
+1483;1483;UKPGS;Suburban;Public;08N;Standard;21.0;Male;Does not qualify;99.0;0.0
+1484;1484;UKPGS;Suburban;Public;08N;Standard;21.0;Male;Does not qualify;96.0;1.0
+1485;1485;UKPGS;Suburban;Public;08N;Standard;21.0;Male;Does not qualify;91.0;0.0
+1486;1486;UKPGS;Suburban;Public;08N;Standard;21.0;Male;Does not qualify;91.0;0.0
+1487;1487;UKPGS;Suburban;Public;08N;Standard;21.0;Male;Does not qualify;98.0;1.0
+1488;1488;UKPGS;Suburban;Public;08N;Standard;21.0;Male;Does not qualify;94.0;1.0
+1489;1489;UKPGS;Suburban;Public;08N;Standard;21.0;Male;Does not qualify;89.0;0.0
+1490;1490;UKPGS;Suburban;Public;08N;Standard;21.0;Male;Does not qualify;93.0;1.0
+1491;1491;UKPGS;Suburban;Public;9AW;Standard;25.0;Male;Does not qualify;94.0;0.0
+1492;1492;UKPGS;Suburban;Public;9AW;Standard;25.0;Male;Does not qualify;97.0;1.0
+1493;1493;UKPGS;Suburban;Public;9AW;Standard;25.0;Female;Does not qualify;93.0;1.0
+1494;1494;UKPGS;Suburban;Public;9AW;Standard;25.0;Female;Does not qualify;93.0;1.0
+1495;1495;UKPGS;Suburban;Public;9AW;Standard;25.0;Male;Does not qualify;93.0;0.0
+1496;1496;UKPGS;Suburban;Public;9AW;Standard;25.0;Female;Does not qualify;93.0;0.0
+1497;1497;UKPGS;Suburban;Public;9AW;Standard;25.0;Male;Does not qualify;94.0;1.0
+1498;1498;UKPGS;Suburban;Public;9AW;Standard;25.0;Female;Does not qualify;90.0;1.0
+1499;1499;UKPGS;Suburban;Public;9AW;Standard;25.0;Female;Does not qualify;88.0;1.0
+1500;1500;UKPGS;Suburban;Public;9AW;Standard;25.0;Male;Does not qualify;97.0;0.0
+1501;1501;UKPGS;Suburban;Public;9AW;Standard;25.0;Male;Does not qualify;93.0;0.0
+1502;1502;UKPGS;Suburban;Public;9AW;Standard;25.0;Male;Does not qualify;94.0;1.0
+1503;1503;UKPGS;Suburban;Public;9AW;Standard;25.0;Male;Does not qualify;95.0;1.0
+1504;1504;UKPGS;Suburban;Public;9AW;Standard;25.0;Male;Does not qualify;94.0;0.0
+1505;1505;UKPGS;Suburban;Public;9AW;Standard;25.0;Male;Does not qualify;92.0;0.0
+1506;1506;UKPGS;Suburban;Public;9AW;Standard;25.0;Male;Does not qualify;92.0;0.0
+1507;1507;UKPGS;Suburban;Public;9AW;Standard;25.0;Male;Does not qualify;93.0;0.0
+1508;1508;UKPGS;Suburban;Public;9AW;Standard;25.0;Male;Does not qualify;91.0;1.0
+1509;1509;UKPGS;Suburban;Public;9AW;Standard;25.0;Male;Does not qualify;92.0;1.0
+1510;1510;UKPGS;Suburban;Public;9AW;Standard;25.0;Male;Does not qualify;93.0;0.0
+1511;1511;UKPGS;Suburban;Public;9AW;Standard;25.0;Male;Does not qualify;92.0;1.0
+1512;1512;UKPGS;Suburban;Public;9AW;Standard;25.0;Male;Does not qualify;94.0;0.0
+1513;1513;UKPGS;Suburban;Public;9AW;Standard;25.0;Male;Does not qualify;96.0;1.0
+1514;1514;UKPGS;Suburban;Public;9AW;Standard;25.0;Male;Does not qualify;95.0;0.0
+1515;1515;UKPGS;Suburban;Public;9AW;Standard;25.0;Male;Does not qualify;91.0;0.0
+1516;1516;UKPGS;Suburban;Public;IPU;Experimental;19.0;Male;Does not qualify;89.0;1.0
+1517;1517;UKPGS;Suburban;Public;IPU;Experimental;19.0;Male;Does not qualify;96.0;0.0
+1518;1518;UKPGS;Suburban;Public;IPU;Experimental;19.0;Male;Does not qualify;90.0;1.0
+1519;1519;UKPGS;Suburban;Public;IPU;Experimental;19.0;Male;Does not qualify;95.0;1.0
+1520;1520;UKPGS;Suburban;Public;IPU;Experimental;19.0;Male;Does not qualify;93.0;1.0
+1521;1521;UKPGS;Suburban;Public;IPU;Experimental;19.0;Male;Does not qualify;89.0;0.0
+1522;1522;UKPGS;Suburban;Public;IPU;Experimental;19.0;Male;Does not qualify;92.0;0.0
+1523;1523;UKPGS;Suburban;Public;IPU;Experimental;19.0;Male;Does not qualify;93.0;0.0
+1524;1524;UKPGS;Suburban;Public;IPU;Experimental;19.0;Male;Does not qualify;93.0;1.0
+1525;1525;UKPGS;Suburban;Public;IPU;Experimental;19.0;Male;Does not qualify;91.0;1.0
+1526;1526;UKPGS;Suburban;Public;IPU;Experimental;19.0;Male;Does not qualify;92.0;1.0
+1527;1527;UKPGS;Suburban;Public;IPU;Experimental;19.0;Male;Does not qualify;88.0;1.0
+1528;1528;UKPGS;Suburban;Public;IPU;Experimental;19.0;Male;Does not qualify;93.0;1.0
+1529;1529;UKPGS;Suburban;Public;IPU;Experimental;19.0;Male;Does not qualify;93.0;1.0
+1530;1530;UKPGS;Suburban;Public;IPU;Experimental;19.0;Male;Does not qualify;88.0;0.0
+1531;1531;UKPGS;Suburban;Public;IPU;Experimental;19.0;Male;Does not qualify;91.0;1.0
+1532;1532;UKPGS;Suburban;Public;IPU;Experimental;19.0;Male;Does not qualify;90.0;1.0
+1533;1533;UKPGS;Suburban;Public;IPU;Experimental;19.0;Male;Does not qualify;93.0;1.0
+1534;1534;UKPGS;Suburban;Public;IPU;Experimental;19.0;Male;Does not qualify;90.0;1.0
+1535;1535;UKPGS;Suburban;Public;KXB;Experimental;18.0;Male;Does not qualify;86.0;0.0
+1536;1536;UKPGS;Suburban;Public;KXB;Experimental;18.0;Male;Does not qualify;95.0;0.0
+1537;1537;UKPGS;Suburban;Public;KXB;Experimental;18.0;Male;Does not qualify;88.0;1.0
+1538;1538;UKPGS;Suburban;Public;KXB;Experimental;18.0;Male;Does not qualify;96.0;1.0
+1539;1539;UKPGS;Suburban;Public;KXB;Experimental;18.0;Male;Does not qualify;95.0;0.0
+1540;1540;UKPGS;Suburban;Public;KXB;Experimental;18.0;Male;Does not qualify;90.0;0.0
+1541;1541;UKPGS;Suburban;Public;KXB;Experimental;18.0;Male;Does not qualify;92.0;0.0
+1542;1542;UKPGS;Suburban;Public;KXB;Experimental;18.0;Male;Does not qualify;90.0;0.0
+1543;1543;UKPGS;Suburban;Public;KXB;Experimental;18.0;Male;Does not qualify;85.0;1.0
+1544;1544;UKPGS;Suburban;Public;KXB;Experimental;18.0;Male;Does not qualify;89.0;1.0
+1545;1545;UKPGS;Suburban;Public;KXB;Experimental;18.0;Male;Does not qualify;90.0;1.0
+1546;1546;UKPGS;Suburban;Public;KXB;Experimental;18.0;Male;Does not qualify;85.0;0.0
+1547;1547;UKPGS;Suburban;Public;KXB;Experimental;18.0;Male;Does not qualify;90.0;0.0
+1548;1548;UKPGS;Suburban;Public;KXB;Experimental;18.0;Male;Does not qualify;85.0;0.0
+1549;1549;UKPGS;Suburban;Public;KXB;Experimental;18.0;Male;Does not qualify;91.0;0.0
+1550;1550;UKPGS;Suburban;Public;KXB;Experimental;18.0;Male;Does not qualify;88.0;1.0
+1551;1551;UKPGS;Suburban;Public;KXB;Experimental;18.0;Male;Does not qualify;91.0;0.0
+1552;1552;UKPGS;Suburban;Public;KXB;Experimental;18.0;Male;Does not qualify;93.0;1.0
+1553;1553;UKPGS;Suburban;Public;PGH;Experimental;23.0;Male;Does not qualify;91.0;1.0
+1554;1554;UKPGS;Suburban;Public;PGH;Experimental;23.0;Male;Does not qualify;84.0;0.0
+1555;1555;UKPGS;Suburban;Public;PGH;Experimental;23.0;Male;Does not qualify;90.0;0.0
+1556;1556;UKPGS;Suburban;Public;PGH;Experimental;23.0;Male;Does not qualify;91.0;1.0
+1557;1557;UKPGS;Suburban;Public;PGH;Experimental;23.0;Male;Does not qualify;92.0;0.0
+1558;1558;UKPGS;Suburban;Public;PGH;Experimental;23.0;Male;Does not qualify;86.0;1.0
+1559;1559;UKPGS;Suburban;Public;PGH;Experimental;23.0;Male;Does not qualify;95.0;1.0
+1560;1560;UKPGS;Suburban;Public;PGH;Experimental;23.0;Male;Does not qualify;90.0;0.0
+1561;1561;UKPGS;Suburban;Public;PGH;Experimental;23.0;Male;Does not qualify;85.0;0.0
+1562;1562;UKPGS;Suburban;Public;PGH;Experimental;23.0;Male;Does not qualify;92.0;1.0
+1563;1563;UKPGS;Suburban;Public;PGH;Experimental;23.0;Male;Does not qualify;90.0;1.0
+1564;1564;UKPGS;Suburban;Public;PGH;Experimental;23.0;Male;Does not qualify;93.0;1.0
+1565;1565;UKPGS;Suburban;Public;PGH;Experimental;23.0;Male;Does not qualify;89.0;0.0
+1566;1566;UKPGS;Suburban;Public;PGH;Experimental;23.0;Female;Does not qualify;88.0;0.0
+1567;1567;UKPGS;Suburban;Public;PGH;Experimental;23.0;Male;Does not qualify;92.0;0.0
+1568;1568;UKPGS;Suburban;Public;PGH;Experimental;23.0;Male;Does not qualify;82.0;0.0
+1569;1569;UKPGS;Suburban;Public;PGH;Experimental;23.0;Male;Does not qualify;90.0;0.0
+1570;1570;UKPGS;Suburban;Public;PGH;Experimental;23.0;Female;Does not qualify;90.0;0.0
+1571;1571;UKPGS;Suburban;Public;PGH;Experimental;23.0;Female;Does not qualify;90.0;1.0
+1572;1572;UKPGS;Suburban;Public;PGH;Experimental;23.0;Female;Does not qualify;91.0;0.0
+1573;1573;UKPGS;Suburban;Public;PGH;Experimental;23.0;Female;Does not qualify;86.0;1.0
+1574;1574;UKPGS;Suburban;Public;PGH;Experimental;23.0;Male;Does not qualify;91.0;0.0
+1575;1575;UKPGS;Suburban;Public;PGH;Experimental;23.0;Male;Does not qualify;96.0;0.0
+1576;1576;UKPGS;Suburban;Public;XXE;Standard;22.0;Female;Does not qualify;90.0;1.0
+1577;1577;UKPGS;Suburban;Public;XXE;Standard;22.0;Female;Does not qualify;88.0;0.0
+1578;1578;UKPGS;Suburban;Public;XXE;Standard;22.0;Male;Does not qualify;82.0;1.0
+1579;1579;UKPGS;Suburban;Public;XXE;Standard;22.0;Male;Does not qualify;87.0;1.0
+1580;1580;UKPGS;Suburban;Public;XXE;Standard;22.0;Female;Does not qualify;88.0;1.0
+1581;1581;UKPGS;Suburban;Public;XXE;Standard;22.0;Male;Does not qualify;92.0;0.0
+1582;1582;UKPGS;Suburban;Public;XXE;Standard;22.0;Female;Does not qualify;86.0;1.0
+1583;1583;UKPGS;Suburban;Public;XXE;Standard;22.0;Female;Does not qualify;93.0;1.0
+1584;1584;UKPGS;Suburban;Public;XXE;Standard;22.0;Female;Does not qualify;95.0;1.0
+1585;1585;UKPGS;Suburban;Public;XXE;Standard;22.0;Male;Does not qualify;89.0;0.0
+1586;1586;UKPGS;Suburban;Public;XXE;Standard;22.0;Female;Does not qualify;90.0;1.0
+1587;1587;UKPGS;Suburban;Public;XXE;Standard;22.0;Female;Does not qualify;82.0;0.0
+1588;1588;UKPGS;Suburban;Public;XXE;Standard;22.0;Male;Does not qualify;87.0;0.0
+1589;1589;UKPGS;Suburban;Public;XXE;Standard;22.0;Female;Does not qualify;93.0;0.0
+1590;1590;UKPGS;Suburban;Public;XXE;Standard;22.0;Male;Does not qualify;89.0;0.0
+1591;1591;UKPGS;Suburban;Public;XXE;Standard;22.0;Female;Does not qualify;88.0;0.0
+1592;1592;UKPGS;Suburban;Public;XXE;Standard;22.0;Male;Does not qualify;89.0;1.0
+1593;1593;UKPGS;Suburban;Public;XXE;Standard;22.0;Male;Does not qualify;87.0;1.0
+1594;1594;UKPGS;Suburban;Public;XXE;Standard;22.0;Male;Does not qualify;92.0;1.0
+1595;1595;UKPGS;Suburban;Public;XXE;Standard;22.0;Male;Does not qualify;84.0;0.0
+1596;1596;UKPGS;Suburban;Public;XXE;Standard;22.0;Female;Does not qualify;89.0;1.0
+1597;1597;UKPGS;Suburban;Public;XXE;Standard;22.0;Female;Does not qualify;87.0;1.0
+1598;1598;UUUQX;Suburban;Non-public;6C1;Standard;16.0;Female;Does not qualify;75.0;0.0
+1599;1599;UUUQX;Suburban;Non-public;6C1;Standard;16.0;Female;Does not qualify;69.0;0.0
+1600;1600;UUUQX;Suburban;Non-public;6C1;Standard;16.0;Female;Does not qualify;70.0;0.0
+1601;1601;UUUQX;Suburban;Non-public;6C1;Standard;16.0;Male;Qualifies for reduced/free lunch;67.0;0.0
+1602;1602;UUUQX;Suburban;Non-public;6C1;Standard;16.0;Male;Does not qualify;70.0;1.0
+1603;1603;UUUQX;Suburban;Non-public;6C1;Standard;16.0;Male;Does not qualify;72.0;0.0
+1604;1604;UUUQX;Suburban;Non-public;6C1;Standard;16.0;Male;Does not qualify;75.0;1.0
+1605;1605;UUUQX;Suburban;Non-public;6C1;Standard;16.0;Male;Does not qualify;76.0;1.0
+1606;1606;UUUQX;Suburban;Non-public;6C1;Standard;16.0;Male;Does not qualify;72.0;1.0
+1607;1607;UUUQX;Suburban;Non-public;6C1;Standard;16.0;Male;Qualifies for reduced/free lunch;62.0;0.0
+1608;1608;UUUQX;Suburban;Non-public;6C1;Standard;16.0;Male;Does not qualify;72.0;1.0
+1609;1609;UUUQX;Suburban;Non-public;6C1;Standard;16.0;Male;Does not qualify;78.0;0.0
+1610;1610;UUUQX;Suburban;Non-public;6C1;Standard;16.0;Male;Does not qualify;71.0;1.0
+1611;1611;UUUQX;Suburban;Non-public;6C1;Standard;16.0;Male;Does not qualify;74.0;0.0
+1612;1612;UUUQX;Suburban;Non-public;6C1;Standard;16.0;Male;Does not qualify;73.0;0.0
+1613;1613;UUUQX;Suburban;Non-public;6C1;Standard;16.0;Male;Does not qualify;71.0;0.0
+1614;1614;UUUQX;Suburban;Non-public;AE1;Experimental;17.0;Male;Does not qualify;82.0;0.0
+1615;1615;UUUQX;Suburban;Non-public;AE1;Experimental;17.0;Male;Qualifies for reduced/free lunch;82.0;1.0
+1616;1616;UUUQX;Suburban;Non-public;AE1;Experimental;17.0;Male;Does not qualify;82.0;0.0
+1617;1617;UUUQX;Suburban;Non-public;AE1;Experimental;17.0;Male;Does not qualify;81.0;1.0
+1618;1618;UUUQX;Suburban;Non-public;AE1;Experimental;17.0;Male;Does not qualify;88.0;0.0
+1619;1619;UUUQX;Suburban;Non-public;AE1;Experimental;17.0;Male;Does not qualify;81.0;1.0
+1620;1620;UUUQX;Suburban;Non-public;AE1;Experimental;17.0;Male;Does not qualify;84.0;0.0
+1621;1621;UUUQX;Suburban;Non-public;AE1;Experimental;17.0;Male;Does not qualify;87.0;0.0
+1622;1622;UUUQX;Suburban;Non-public;AE1;Experimental;17.0;Male;Does not qualify;83.0;0.0
+1623;1623;UUUQX;Suburban;Non-public;AE1;Experimental;17.0;Male;Does not qualify;87.0;1.0
+1624;1624;UUUQX;Suburban;Non-public;AE1;Experimental;;Male;Does not qualify;87.0;1.0
+1625;1625;UUUQX;Suburban;Non-public;AE1;Experimental;17.0;Male;Does not qualify;81.0;0.0
+1626;1626;UUUQX;Suburban;Non-public;AE1;Experimental;;Male;Does not qualify;86.0;1.0
+1627;1627;UUUQX;Suburban;Non-public;AE1;Experimental;17.0;Male;Does not qualify;79.0;0.0
+1628;1628;UUUQX;Suburban;Non-public;AE1;Experimental;17.0;Male;Does not qualify;89.0;1.0
+1629;1629;UUUQX;Suburban;Non-public;AE1;Experimental;;Male;Does not qualify;85.0;1.0
+1630;1630;UUUQX;Suburban;Non-public;AE1;Experimental;17.0;Male;Does not qualify;85.0;0.0
+1631;1631;UUUQX;Suburban;Non-public;H7S;Experimental;16.0;Male;Does not qualify;90.0;0.0
+1632;1632;UUUQX;Suburban;Non-public;H7S;Experimental;;Male;Does not qualify;87.0;1.0
+1633;1633;UUUQX;Suburban;Non-public;H7S;Experimental;16.0;Male;Does not qualify;87.0;1.0
+1634;1634;UUUQX;Suburban;Non-public;H7S;Experimental;16.0;Male;Does not qualify;89.0;0.0
+1635;1635;UUUQX;Suburban;Non-public;H7S;Experimental;16.0;Male;Does not qualify;85.0;0.0
+1636;1636;UUUQX;Suburban;Non-public;H7S;Experimental;16.0;Male;Does not qualify;91.0;1.0
+1637;1637;UUUQX;Suburban;Non-public;H7S;Experimental;16.0;Male;Does not qualify;85.0;1.0
+1638;1638;UUUQX;Suburban;Non-public;H7S;Experimental;;Male;Does not qualify;81.0;0.0
+1639;1639;UUUQX;Suburban;Non-public;H7S;Experimental;16.0;Male;Does not qualify;90.0;0.0
+1640;1640;UUUQX;Suburban;Non-public;H7S;Experimental;16.0;Male;Does not qualify;89.0;0.0
+1641;1641;UUUQX;Suburban;Non-public;H7S;Experimental;16.0;Male;Does not qualify;88.0;0.0
+1642;1642;UUUQX;Suburban;Non-public;H7S;Experimental;16.0;Male;Does not qualify;86.0;1.0
+1643;1643;UUUQX;Suburban;Non-public;H7S;Experimental;16.0;Male;Does not qualify;83.0;0.0
+1644;1644;UUUQX;Suburban;Non-public;H7S;Experimental;16.0;Male;Does not qualify;84.0;1.0
+1645;1645;UUUQX;Suburban;Non-public;H7S;Experimental;16.0;Male;Does not qualify;85.0;0.0
+1646;1646;UUUQX;Suburban;Non-public;H7S;Experimental;;Male;Does not qualify;85.0;0.0
+1647;1647;UUUQX;Suburban;Non-public;P8I;Standard;20.0;Male;Does not qualify;80.0;1.0
+1648;1648;UUUQX;Suburban;Non-public;P8I;Standard;20.0;Male;Does not qualify;79.0;1.0
+1649;1649;UUUQX;Suburban;Non-public;P8I;Standard;20.0;Male;Does not qualify;76.0;0.0
+1650;1650;UUUQX;Suburban;Non-public;P8I;Standard;20.0;Male;Does not qualify;78.0;0.0
+1651;1651;UUUQX;Suburban;Non-public;P8I;Standard;20.0;Male;Qualifies for reduced/free lunch;75.0;0.0
+1652;1652;UUUQX;Suburban;Non-public;P8I;Standard;20.0;Male;Does not qualify;79.0;0.0
+1653;1653;UUUQX;Suburban;Non-public;P8I;Standard;20.0;Male;Does not qualify;78.0;1.0
+1654;1654;UUUQX;Suburban;Non-public;P8I;Standard;20.0;Male;Does not qualify;79.0;0.0
+1655;1655;UUUQX;Suburban;Non-public;P8I;Standard;20.0;Male;Does not qualify;82.0;0.0
+1656;1656;UUUQX;Suburban;Non-public;P8I;Standard;20.0;Male;Does not qualify;77.0;0.0
+1657;1657;UUUQX;Suburban;Non-public;P8I;Standard;;Male;Does not qualify;78.0;0.0
+1658;1658;UUUQX;Suburban;Non-public;P8I;Standard;20.0;Male;Does not qualify;80.0;1.0
+1659;1659;UUUQX;Suburban;Non-public;P8I;Standard;20.0;Male;Does not qualify;79.0;1.0
+1660;1660;UUUQX;Suburban;Non-public;P8I;Standard;20.0;Male;Does not qualify;73.0;1.0
+1661;1661;UUUQX;Suburban;Non-public;P8I;Standard;20.0;Male;Does not qualify;71.0;1.0
+1662;1662;UUUQX;Suburban;Non-public;P8I;Standard;20.0;Male;Does not qualify;79.0;1.0
+1663;1663;UUUQX;Suburban;Non-public;P8I;Standard;20.0;Male;Does not qualify;74.0;0.0
+1664;1664;UUUQX;Suburban;Non-public;P8I;Standard;20.0;Male;Does not qualify;77.0;0.0
+1665;1665;UUUQX;Suburban;Non-public;P8I;Standard;20.0;Male;Does not qualify;75.0;0.0
+1666;1666;UUUQX;Suburban;Non-public;P8I;Standard;20.0;Male;Qualifies for reduced/free lunch;73.0;0.0
+1667;1667;UUUQX;Suburban;Non-public;SSP;Standard;15.0;Male;Does not qualify;72.0;0.0
+1668;1668;UUUQX;Suburban;Non-public;SSP;Standard;15.0;Male;Does not qualify;79.0;0.0
+1669;1669;UUUQX;Suburban;Non-public;SSP;Standard;15.0;Male;Does not qualify;76.0;1.0
+1670;1670;UUUQX;Suburban;Non-public;SSP;Standard;15.0;Female;Does not qualify;83.0;0.0
+1671;1671;UUUQX;Suburban;Non-public;SSP;Standard;15.0;Female;Does not qualify;80.0;0.0
+1672;1672;UUUQX;Suburban;Non-public;SSP;Standard;15.0;Male;Does not qualify;75.0;0.0
+1673;1673;UUUQX;Suburban;Non-public;SSP;Standard;15.0;Female;Does not qualify;80.0;1.0
+1674;1674;UUUQX;Suburban;Non-public;SSP;Standard;15.0;Male;Does not qualify;78.0;0.0
+1675;1675;UUUQX;Suburban;Non-public;SSP;Standard;15.0;Male;Does not qualify;78.0;1.0
+1676;1676;UUUQX;Suburban;Non-public;SSP;Standard;15.0;Male;Does not qualify;76.0;1.0
+1677;1677;UUUQX;Suburban;Non-public;SSP;Standard;15.0;Female;Does not qualify;78.0;0.0
+1678;1678;UUUQX;Suburban;Non-public;SSP;Standard;15.0;Female;Does not qualify;73.0;1.0
+1679;1679;UUUQX;Suburban;Non-public;SSP;Standard;15.0;Female;Does not qualify;75.0;1.0
+1680;1680;UUUQX;Suburban;Non-public;SSP;Standard;15.0;Male;Does not qualify;79.0;1.0
+1681;1681;UUUQX;Suburban;Non-public;SSP;Standard;15.0;Male;Does not qualify;73.0;1.0
+1682;1682;VHDHF;Rural;Non-public;CD8;Experimental;20.0;Female;Qualifies for reduced/free lunch;72.0;0.0
+1683;1683;VHDHF;Rural;Non-public;CD8;Experimental;20.0;Female;Qualifies for reduced/free lunch;68.0;0.0
+1684;1684;VHDHF;Rural;Non-public;CD8;Experimental;20.0;Female;Qualifies for reduced/free lunch;68.0;0.0
+1685;1685;VHDHF;Rural;Non-public;CD8;Experimental;20.0;Male;Qualifies for reduced/free lunch;69.0;0.0
+1686;1686;VHDHF;Rural;Non-public;CD8;Experimental;20.0;Female;Qualifies for reduced/free lunch;65.0;1.0
+1687;1687;VHDHF;Rural;Non-public;CD8;Experimental;20.0;Female;Qualifies for reduced/free lunch;73.0;1.0
+1688;1688;VHDHF;Rural;Non-public;CD8;Experimental;20.0;Male;Qualifies for reduced/free lunch;71.0;1.0
+1689;1689;VHDHF;Rural;Non-public;CD8;Experimental;20.0;Female;Qualifies for reduced/free lunch;75.0;0.0
+1690;1690;VHDHF;Rural;Non-public;CD8;Experimental;20.0;Female;Does not qualify;76.0;1.0
+1691;1691;VHDHF;Rural;Non-public;CD8;Experimental;20.0;Female;Qualifies for reduced/free lunch;72.0;0.0
+1692;1692;VHDHF;Rural;Non-public;CD8;Experimental;20.0;Female;Does not qualify;73.0;1.0
+1693;1693;VHDHF;Rural;Non-public;CD8;Experimental;20.0;Female;Qualifies for reduced/free lunch;73.0;1.0
+1694;1694;VHDHF;Rural;Non-public;CD8;Experimental;20.0;Male;Qualifies for reduced/free lunch;70.0;1.0
+1695;1695;VHDHF;Rural;Non-public;CD8;Experimental;20.0;Male;Qualifies for reduced/free lunch;67.0;0.0
+1696;1696;VHDHF;Rural;Non-public;CD8;Experimental;20.0;Female;Qualifies for reduced/free lunch;72.0;0.0
+1697;1697;VHDHF;Rural;Non-public;CD8;Experimental;20.0;Male;Qualifies for reduced/free lunch;73.0;1.0
+1698;1698;VHDHF;Rural;Non-public;CD8;Experimental;20.0;Male;Qualifies for reduced/free lunch;74.0;0.0
+1699;1699;VHDHF;Rural;Non-public;CD8;Experimental;20.0;Male;Qualifies for reduced/free lunch;72.0;0.0
+1700;1700;VHDHF;Rural;Non-public;CD8;Experimental;20.0;Female;Qualifies for reduced/free lunch;73.0;0.0
+1701;1701;VHDHF;Rural;Non-public;CD8;Experimental;20.0;Female;Qualifies for reduced/free lunch;72.0;1.0
+1702;1702;VHDHF;Rural;Non-public;J6X;Standard;16.0;Female;Qualifies for reduced/free lunch;60.0;1.0
+1703;1703;VHDHF;Rural;Non-public;J6X;Standard;16.0;Male;Qualifies for reduced/free lunch;58.0;1.0
+1704;1704;VHDHF;Rural;Non-public;J6X;Standard;16.0;Female;Qualifies for reduced/free lunch;56.0;0.0
+1705;1705;VHDHF;Rural;Non-public;J6X;Standard;16.0;Female;Qualifies for reduced/free lunch;56.0;0.0
+1706;1706;VHDHF;Rural;Non-public;J6X;Standard;16.0;Female;Does not qualify;65.0;0.0
+1707;1707;VHDHF;Rural;Non-public;J6X;Standard;16.0;Male;Qualifies for reduced/free lunch;58.0;0.0
+1708;1708;VHDHF;Rural;Non-public;J6X;Standard;16.0;Male;Qualifies for reduced/free lunch;60.0;1.0
+1709;1709;VHDHF;Rural;Non-public;J6X;Standard;16.0;Male;Qualifies for reduced/free lunch;60.0;1.0
+1710;1710;VHDHF;Rural;Non-public;J6X;Standard;16.0;Male;Qualifies for reduced/free lunch;52.0;1.0
+1711;1711;VHDHF;Rural;Non-public;J6X;Standard;16.0;Male;Does not qualify;58.0;0.0
+1712;1712;VHDHF;Rural;Non-public;J6X;Standard;16.0;Male;Qualifies for reduced/free lunch;62.0;1.0
+1713;1713;VHDHF;Rural;Non-public;J6X;Standard;16.0;Male;Qualifies for reduced/free lunch;54.0;0.0
+1714;1714;VHDHF;Rural;Non-public;J6X;Standard;16.0;Male;Qualifies for reduced/free lunch;56.0;1.0
+1715;1715;VHDHF;Rural;Non-public;J6X;Standard;16.0;Male;Qualifies for reduced/free lunch;58.0;0.0
+1716;1716;VHDHF;Rural;Non-public;J6X;Standard;16.0;Female;Qualifies for reduced/free lunch;57.0;1.0
+1717;1717;VHDHF;Rural;Non-public;J6X;Standard;16.0;Male;Does not qualify;63.0;1.0
+1718;1718;VHDHF;Rural;Non-public;KR1;Experimental;15.0;Male;Qualifies for reduced/free lunch;70.0;0.0
+1719;1719;VHDHF;Rural;Non-public;KR1;Experimental;15.0;Female;Qualifies for reduced/free lunch;70.0;0.0
+1720;1720;VHDHF;Rural;Non-public;KR1;Experimental;15.0;Female;Qualifies for reduced/free lunch;77.0;0.0
+1721;1721;VHDHF;Rural;Non-public;KR1;Experimental;15.0;Female;Qualifies for reduced/free lunch;74.0;1.0
+1722;1722;VHDHF;Rural;Non-public;KR1;Experimental;15.0;Male;Qualifies for reduced/free lunch;67.0;1.0
+1723;1723;VHDHF;Rural;Non-public;KR1;Experimental;15.0;Male;Qualifies for reduced/free lunch;66.0;1.0
+1724;1724;VHDHF;Rural;Non-public;KR1;Experimental;15.0;Male;Qualifies for reduced/free lunch;69.0;0.0
+1725;1725;VHDHF;Rural;Non-public;KR1;Experimental;15.0;Male;Qualifies for reduced/free lunch;70.0;0.0
+1726;1726;VHDHF;Rural;Non-public;KR1;Experimental;15.0;Female;Qualifies for reduced/free lunch;73.0;1.0
+1727;1727;VHDHF;Rural;Non-public;KR1;Experimental;15.0;Male;Does not qualify;72.0;0.0
+1728;1728;VHDHF;Rural;Non-public;KR1;Experimental;15.0;Male;Qualifies for reduced/free lunch;69.0;0.0
+1729;1729;VHDHF;Rural;Non-public;KR1;Experimental;15.0;Male;Qualifies for reduced/free lunch;71.0;0.0
+1730;1730;VHDHF;Rural;Non-public;KR1;Experimental;15.0;Female;Qualifies for reduced/free lunch;68.0;0.0
+1731;1731;VHDHF;Rural;Non-public;KR1;Experimental;15.0;Male;Qualifies for reduced/free lunch;68.0;1.0
+1732;1732;VHDHF;Rural;Non-public;KR1;Experimental;;Female;Qualifies for reduced/free lunch;64.0;1.0
+1733;1733;VKWQH;Rural;Public;341;Standard;18.0;Female;Does not qualify;50.0;0.0
+1734;1734;VKWQH;Rural;Public;341;Standard;18.0;Female;Does not qualify;56.0;1.0
+1735;1735;VKWQH;Rural;Public;341;Standard;18.0;Male;Does not qualify;55.0;0.0
+1736;1736;VKWQH;Rural;Public;341;Standard;18.0;Male;Does not qualify;51.0;0.0
+1737;1737;VKWQH;Rural;Public;341;Standard;18.0;Female;Does not qualify;51.0;0.0
+1738;1738;VKWQH;Rural;Public;341;Standard;;Female;Does not qualify;56.0;0.0
+1739;1739;VKWQH;Rural;Public;341;Standard;18.0;Male;Does not qualify;53.0;0.0
+1740;1740;VKWQH;Rural;Public;341;Standard;18.0;Female;Does not qualify;54.0;0.0
+1741;1741;VKWQH;Rural;Public;341;Standard;18.0;Male;Does not qualify;51.0;1.0
+1742;1742;VKWQH;Rural;Public;341;Standard;18.0;Female;Does not qualify;55.0;0.0
+1743;1743;VKWQH;Rural;Public;341;Standard;18.0;Female;Qualifies for reduced/free lunch;48.0;1.0
+1744;1744;VKWQH;Rural;Public;341;Standard;18.0;Female;Does not qualify;58.0;1.0
+1745;1745;VKWQH;Rural;Public;341;Standard;;Female;Does not qualify;63.0;0.0
+1746;1746;VKWQH;Rural;Public;341;Standard;18.0;Male;Does not qualify;56.0;0.0
+1747;1747;VKWQH;Rural;Public;341;Standard;18.0;Female;Does not qualify;58.0;1.0
+1748;1748;VKWQH;Rural;Public;341;Standard;18.0;Male;Does not qualify;55.0;0.0
+1749;1749;VKWQH;Rural;Public;341;Standard;18.0;Female;Does not qualify;51.0;1.0
+1750;1750;VKWQH;Rural;Public;341;Standard;;Female;Does not qualify;58.0;0.0
+1751;1751;VKWQH;Rural;Public;D33;Standard;21.0;Female;Qualifies for reduced/free lunch;69.0;1.0
+1752;1752;VKWQH;Rural;Public;D33;Standard;21.0;Female;Qualifies for reduced/free lunch;73.0;1.0
+1753;1753;VKWQH;Rural;Public;D33;Standard;21.0;Male;Does not qualify;74.0;0.0
+1754;1754;VKWQH;Rural;Public;D33;Standard;21.0;Female;Does not qualify;78.0;0.0
+1755;1755;VKWQH;Rural;Public;D33;Standard;21.0;Male;Does not qualify;76.0;0.0
+1756;1756;VKWQH;Rural;Public;D33;Standard;21.0;Male;Does not qualify;73.0;1.0
+1757;1757;VKWQH;Rural;Public;D33;Standard;21.0;Male;Does not qualify;79.0;1.0
+1758;1758;VKWQH;Rural;Public;D33;Standard;21.0;Male;Qualifies for reduced/free lunch;71.0;1.0
+1759;1759;VKWQH;Rural;Public;D33;Standard;;Male;Does not qualify;73.0;1.0
+1760;1760;VKWQH;Rural;Public;D33;Standard;21.0;Male;Qualifies for reduced/free lunch;73.0;0.0
+1761;1761;VKWQH;Rural;Public;D33;Standard;21.0;Male;Does not qualify;77.0;1.0
+1762;1762;VKWQH;Rural;Public;D33;Standard;;Female;Does not qualify;77.0;1.0
+1763;1763;VKWQH;Rural;Public;D33;Standard;21.0;Male;Does not qualify;78.0;1.0
+1764;1764;VKWQH;Rural;Public;D33;Standard;21.0;Female;Does not qualify;71.0;1.0
+1765;1765;VKWQH;Rural;Public;D33;Standard;21.0;Female;Does not qualify;75.0;1.0
+1766;1766;VKWQH;Rural;Public;D33;Standard;21.0;Male;Does not qualify;74.0;0.0
+1767;1767;VKWQH;Rural;Public;D33;Standard;21.0;Female;Does not qualify;76.0;0.0
+1768;1768;VKWQH;Rural;Public;D33;Standard;21.0;Female;Does not qualify;76.0;1.0
+1769;1769;VKWQH;Rural;Public;D33;Standard;21.0;Male;Does not qualify;77.0;0.0
+1770;1770;VKWQH;Rural;Public;D33;Standard;21.0;Female;Does not qualify;79.0;1.0
+1771;1771;VKWQH;Rural;Public;D33;Standard;21.0;Male;Does not qualify;75.0;0.0
+1772;1772;VKWQH;Rural;Public;DFQ;Experimental;19.0;Male;Does not qualify;79.0;0.0
+1773;1773;VKWQH;Rural;Public;DFQ;Experimental;19.0;Female;Does not qualify;72.0;1.0
+1774;1774;VKWQH;Rural;Public;DFQ;Experimental;19.0;Female;Does not qualify;74.0;1.0
+1775;1775;VKWQH;Rural;Public;DFQ;Experimental;19.0;Female;Does not qualify;79.0;1.0
+1776;1776;VKWQH;Rural;Public;DFQ;Experimental;19.0;Female;Does not qualify;75.0;1.0
+1777;1777;VKWQH;Rural;Public;DFQ;Experimental;19.0;Male;Does not qualify;80.0;0.0
+1778;1778;VKWQH;Rural;Public;DFQ;Experimental;19.0;Female;Qualifies for reduced/free lunch;74.0;0.0
+1779;1779;VKWQH;Rural;Public;DFQ;Experimental;19.0;Male;Does not qualify;78.0;0.0
+1780;1780;VKWQH;Rural;Public;DFQ;Experimental;19.0;Female;Does not qualify;82.0;0.0
+1781;1781;VKWQH;Rural;Public;DFQ;Experimental;19.0;Male;Does not qualify;73.0;1.0
+1782;1782;VKWQH;Rural;Public;DFQ;Experimental;19.0;Female;Does not qualify;76.0;1.0
+1783;1783;VKWQH;Rural;Public;DFQ;Experimental;19.0;Female;Does not qualify;80.0;0.0
+1784;1784;VKWQH;Rural;Public;DFQ;Experimental;19.0;Male;Does not qualify;79.0;0.0
+1785;1785;VKWQH;Rural;Public;DFQ;Experimental;19.0;Male;Does not qualify;75.0;0.0
+1786;1786;VKWQH;Rural;Public;DFQ;Experimental;19.0;Male;Does not qualify;80.0;0.0
+1787;1787;VKWQH;Rural;Public;DFQ;Experimental;19.0;Male;Does not qualify;73.0;0.0
+1788;1788;VKWQH;Rural;Public;DFQ;Experimental;19.0;Male;Does not qualify;77.0;0.0
+1789;1789;VKWQH;Rural;Public;DFQ;Experimental;19.0;Female;Does not qualify;77.0;1.0
+1790;1790;VKWQH;Rural;Public;DFQ;Experimental;19.0;Male;Does not qualify;73.0;0.0
+1791;1791;VKWQH;Rural;Public;GYM;Standard;20.0;Male;Does not qualify;62.0;0.0
+1792;1792;VKWQH;Rural;Public;GYM;Standard;20.0;Male;Does not qualify;61.0;0.0
+1793;1793;VKWQH;Rural;Public;GYM;Standard;20.0;Male;Does not qualify;62.0;0.0
+1794;1794;VKWQH;Rural;Public;GYM;Standard;20.0;Female;Does not qualify;64.0;0.0
+1795;1795;VKWQH;Rural;Public;GYM;Standard;20.0;Male;Qualifies for reduced/free lunch;51.0;1.0
+1796;1796;VKWQH;Rural;Public;GYM;Standard;20.0;Male;Does not qualify;56.0;1.0
+1797;1797;VKWQH;Rural;Public;GYM;Standard;20.0;Male;Does not qualify;58.0;1.0
+1798;1798;VKWQH;Rural;Public;GYM;Standard;20.0;Male;Does not qualify;61.0;0.0
+1799;1799;VKWQH;Rural;Public;GYM;Standard;20.0;Male;Does not qualify;60.0;1.0
+1800;1800;VKWQH;Rural;Public;GYM;Standard;20.0;Female;Does not qualify;60.0;1.0
+1801;1801;VKWQH;Rural;Public;GYM;Standard;;Female;Does not qualify;60.0;1.0
+1802;1802;VKWQH;Rural;Public;GYM;Standard;20.0;Female;Does not qualify;57.0;1.0
+1803;1803;VKWQH;Rural;Public;GYM;Standard;;Female;Does not qualify;59.0;0.0
+1804;1804;VKWQH;Rural;Public;GYM;Standard;20.0;Female;Qualifies for reduced/free lunch;56.0;0.0
+1805;1805;VKWQH;Rural;Public;GYM;Standard;20.0;Female;Does not qualify;62.0;0.0
+1806;1806;VKWQH;Rural;Public;GYM;Standard;20.0;Female;Does not qualify;64.0;1.0
+1807;1807;VKWQH;Rural;Public;GYM;Standard;;Female;Does not qualify;58.0;1.0
+1808;1808;VKWQH;Rural;Public;GYM;Standard;20.0;Male;Does not qualify;59.0;0.0
+1809;1809;VKWQH;Rural;Public;GYM;Standard;20.0;Male;Does not qualify;64.0;1.0
+1810;1810;VKWQH;Rural;Public;GYM;Standard;;Male;Does not qualify;55.0;0.0
+1811;1811;VKWQH;Rural;Public;IEM;Experimental;22.0;Male;Does not qualify;55.0;0.0
+1812;1812;VKWQH;Rural;Public;IEM;Experimental;22.0;Male;Qualifies for reduced/free lunch;55.0;1.0
+1813;1813;VKWQH;Rural;Public;IEM;Experimental;22.0;Female;Does not qualify;58.0;1.0
+1814;1814;VKWQH;Rural;Public;IEM;Experimental;22.0;Female;Does not qualify;58.0;1.0
+1815;1815;VKWQH;Rural;Public;IEM;Experimental;;Male;Does not qualify;60.0;1.0
+1816;1816;VKWQH;Rural;Public;IEM;Experimental;22.0;Male;Does not qualify;61.0;0.0
+1817;1817;VKWQH;Rural;Public;IEM;Experimental;22.0;Male;Does not qualify;60.0;1.0
+1818;1818;VKWQH;Rural;Public;IEM;Experimental;22.0;Female;Does not qualify;59.0;1.0
+1819;1819;VKWQH;Rural;Public;IEM;Experimental;;Male;Does not qualify;56.0;0.0
+1820;1820;VKWQH;Rural;Public;IEM;Experimental;22.0;Male;Qualifies for reduced/free lunch;56.0;0.0
+1821;1821;VKWQH;Rural;Public;IEM;Experimental;22.0;Female;Does not qualify;59.0;1.0
+1822;1822;VKWQH;Rural;Public;IEM;Experimental;22.0;Male;Does not qualify;57.0;0.0
+1823;1823;VKWQH;Rural;Public;IEM;Experimental;22.0;Male;Does not qualify;63.0;1.0
+1824;1824;VKWQH;Rural;Public;IEM;Experimental;22.0;Male;Does not qualify;59.0;1.0
+1825;1825;VKWQH;Rural;Public;IEM;Experimental;;Female;Does not qualify;57.0;1.0
+1826;1826;VKWQH;Rural;Public;IEM;Experimental;22.0;Male;Does not qualify;61.0;0.0
+1827;1827;VKWQH;Rural;Public;IEM;Experimental;22.0;Female;Does not qualify;58.0;0.0
+1828;1828;VKWQH;Rural;Public;IEM;Experimental;22.0;Female;Does not qualify;60.0;0.0
+1829;1829;VKWQH;Rural;Public;IEM;Experimental;22.0;Male;Does not qualify;52.0;0.0
+1830;1830;VKWQH;Rural;Public;IEM;Experimental;22.0;Female;Does not qualify;61.0;0.0
+1831;1831;VKWQH;Rural;Public;IEM;Experimental;22.0;Female;Does not qualify;62.0;1.0
+1832;1832;VKWQH;Rural;Public;IEM;Experimental;22.0;Female;Does not qualify;57.0;1.0
+1833;1833;VVTVA;Urban;Public;7BL;Standard;29.0;Female;Qualifies for reduced/free lunch;49.0;0.0
+1834;1834;VVTVA;Urban;Public;7BL;Standard;29.0;Female;Qualifies for reduced/free lunch;54.0;0.0
+1835;1835;VVTVA;Urban;Public;7BL;Standard;29.0;Male;Qualifies for reduced/free lunch;47.0;0.0
+1836;1836;VVTVA;Urban;Public;7BL;Standard;29.0;Female;Qualifies for reduced/free lunch;55.0;1.0
+1837;1837;VVTVA;Urban;Public;7BL;Standard;29.0;Female;Qualifies for reduced/free lunch;44.0;0.0
+1838;1838;VVTVA;Urban;Public;7BL;Standard;29.0;Male;Qualifies for reduced/free lunch;51.0;0.0
+1839;1839;VVTVA;Urban;Public;7BL;Standard;29.0;Male;Qualifies for reduced/free lunch;51.0;0.0
+1840;1840;VVTVA;Urban;Public;7BL;Standard;29.0;Female;Qualifies for reduced/free lunch;54.0;1.0
+1841;1841;VVTVA;Urban;Public;7BL;Standard;29.0;Female;Qualifies for reduced/free lunch;52.0;0.0
+1842;1842;VVTVA;Urban;Public;7BL;Standard;29.0;Female;Qualifies for reduced/free lunch;49.0;1.0
+1843;1843;VVTVA;Urban;Public;7BL;Standard;29.0;Female;Qualifies for reduced/free lunch;48.0;0.0
+1844;1844;VVTVA;Urban;Public;7BL;Standard;29.0;Male;Qualifies for reduced/free lunch;53.0;1.0
+1845;1845;VVTVA;Urban;Public;7BL;Standard;29.0;Female;Qualifies for reduced/free lunch;48.0;1.0
+1846;1846;VVTVA;Urban;Public;7BL;Standard;29.0;Female;Qualifies for reduced/free lunch;48.0;1.0
+1847;1847;VVTVA;Urban;Public;7BL;Standard;29.0;Female;Qualifies for reduced/free lunch;50.0;1.0
+1848;1848;VVTVA;Urban;Public;7BL;Standard;29.0;Female;Qualifies for reduced/free lunch;53.0;0.0
+1849;1849;VVTVA;Urban;Public;7BL;Standard;29.0;Female;Qualifies for reduced/free lunch;51.0;0.0
+1850;1850;VVTVA;Urban;Public;7BL;Standard;29.0;Male;Qualifies for reduced/free lunch;49.0;0.0
+1851;1851;VVTVA;Urban;Public;7BL;Standard;29.0;Male;Qualifies for reduced/free lunch;51.0;0.0
+1852;1852;VVTVA;Urban;Public;7BL;Standard;29.0;Female;Qualifies for reduced/free lunch;62.0;0.0
+1853;1853;VVTVA;Urban;Public;7BL;Standard;29.0;Female;Qualifies for reduced/free lunch;49.0;1.0
+1854;1854;VVTVA;Urban;Public;7BL;Standard;29.0;Male;Qualifies for reduced/free lunch;50.0;1.0
+1855;1855;VVTVA;Urban;Public;7BL;Standard;29.0;Female;Qualifies for reduced/free lunch;53.0;0.0
+1856;1856;VVTVA;Urban;Public;7BL;Standard;29.0;Male;Qualifies for reduced/free lunch;46.0;0.0
+1857;1857;VVTVA;Urban;Public;7BL;Standard;29.0;Female;Qualifies for reduced/free lunch;50.0;1.0
+1858;1858;VVTVA;Urban;Public;7BL;Standard;29.0;Male;Qualifies for reduced/free lunch;54.0;0.0
+1859;1859;VVTVA;Urban;Public;7BL;Standard;29.0;Female;Qualifies for reduced/free lunch;47.0;0.0
+1860;1860;VVTVA;Urban;Public;7BL;Standard;29.0;Female;Qualifies for reduced/free lunch;46.0;1.0
+1861;1861;VVTVA;Urban;Public;7BL;Standard;29.0;Female;Qualifies for reduced/free lunch;53.0;1.0
+1862;1862;VVTVA;Urban;Public;A93;Experimental;30.0;Male;Qualifies for reduced/free lunch;49.0;1.0
+1863;1863;VVTVA;Urban;Public;A93;Experimental;30.0;Female;Qualifies for reduced/free lunch;49.0;0.0
+1864;1864;VVTVA;Urban;Public;A93;Experimental;30.0;Female;Qualifies for reduced/free lunch;49.0;0.0
+1865;1865;VVTVA;Urban;Public;A93;Experimental;30.0;Male;Qualifies for reduced/free lunch;51.0;1.0
+1866;1866;VVTVA;Urban;Public;A93;Experimental;30.0;Male;Qualifies for reduced/free lunch;48.0;0.0
+1867;1867;VVTVA;Urban;Public;A93;Experimental;;Male;Qualifies for reduced/free lunch;43.0;1.0
+1868;1868;VVTVA;Urban;Public;A93;Experimental;30.0;Male;Qualifies for reduced/free lunch;45.0;0.0
+1869;1869;VVTVA;Urban;Public;A93;Experimental;30.0;Male;Qualifies for reduced/free lunch;46.0;0.0
+1870;1870;VVTVA;Urban;Public;A93;Experimental;30.0;Female;Qualifies for reduced/free lunch;46.0;0.0
+1871;1871;VVTVA;Urban;Public;A93;Experimental;;Male;Qualifies for reduced/free lunch;45.0;0.0
+1872;1872;VVTVA;Urban;Public;A93;Experimental;30.0;Male;Qualifies for reduced/free lunch;50.0;0.0
+1873;1873;VVTVA;Urban;Public;A93;Experimental;30.0;Female;Qualifies for reduced/free lunch;47.0;1.0
+1874;1874;VVTVA;Urban;Public;A93;Experimental;30.0;Male;Qualifies for reduced/free lunch;47.0;1.0
+1875;1875;VVTVA;Urban;Public;A93;Experimental;;Male;Qualifies for reduced/free lunch;54.0;1.0
+1876;1876;VVTVA;Urban;Public;A93;Experimental;30.0;Male;Qualifies for reduced/free lunch;43.0;1.0
+1877;1877;VVTVA;Urban;Public;A93;Experimental;30.0;Female;Qualifies for reduced/free lunch;49.0;1.0
+1878;1878;VVTVA;Urban;Public;A93;Experimental;30.0;Female;Qualifies for reduced/free lunch;48.0;1.0
+1879;1879;VVTVA;Urban;Public;A93;Experimental;30.0;Male;Qualifies for reduced/free lunch;39.0;0.0
+1880;1880;VVTVA;Urban;Public;A93;Experimental;30.0;Female;Qualifies for reduced/free lunch;47.0;1.0
+1881;1881;VVTVA;Urban;Public;A93;Experimental;30.0;Female;Qualifies for reduced/free lunch;47.0;1.0
+1882;1882;VVTVA;Urban;Public;A93;Experimental;30.0;Female;Qualifies for reduced/free lunch;52.0;0.0
+1883;1883;VVTVA;Urban;Public;A93;Experimental;30.0;Female;Qualifies for reduced/free lunch;49.0;1.0
+1884;1884;VVTVA;Urban;Public;A93;Experimental;30.0;Female;Qualifies for reduced/free lunch;48.0;0.0
+1885;1885;VVTVA;Urban;Public;A93;Experimental;;Male;Qualifies for reduced/free lunch;45.0;0.0
+1886;1886;VVTVA;Urban;Public;A93;Experimental;30.0;Male;Qualifies for reduced/free lunch;53.0;0.0
+1887;1887;VVTVA;Urban;Public;A93;Experimental;30.0;Male;Qualifies for reduced/free lunch;52.0;1.0
+1888;1888;VVTVA;Urban;Public;A93;Experimental;30.0;Female;Qualifies for reduced/free lunch;48.0;0.0
+1889;1889;VVTVA;Urban;Public;A93;Experimental;30.0;Female;Qualifies for reduced/free lunch;49.0;1.0
+1890;1890;VVTVA;Urban;Public;A93;Experimental;30.0;Female;Qualifies for reduced/free lunch;46.0;0.0
+1891;1891;VVTVA;Urban;Public;A93;Experimental;30.0;Female;Qualifies for reduced/free lunch;47.0;0.0
+1892;1892;VVTVA;Urban;Public;TB5;Standard;25.0;Female;Qualifies for reduced/free lunch;51.0;0.0
+1893;1893;VVTVA;Urban;Public;TB5;Standard;25.0;Female;Qualifies for reduced/free lunch;53.0;1.0
+1894;1894;VVTVA;Urban;Public;TB5;Standard;25.0;Female;Qualifies for reduced/free lunch;49.0;0.0
+1895;1895;VVTVA;Urban;Public;TB5;Standard;25.0;Female;Qualifies for reduced/free lunch;52.0;0.0
+1896;1896;VVTVA;Urban;Public;TB5;Standard;25.0;Male;Qualifies for reduced/free lunch;45.0;0.0
+1897;1897;VVTVA;Urban;Public;TB5;Standard;25.0;Male;Qualifies for reduced/free lunch;48.0;1.0
+1898;1898;VVTVA;Urban;Public;TB5;Standard;25.0;Male;Qualifies for reduced/free lunch;48.0;1.0
+1899;1899;VVTVA;Urban;Public;TB5;Standard;25.0;Male;Qualifies for reduced/free lunch;54.0;0.0
+1900;1900;VVTVA;Urban;Public;TB5;Standard;25.0;Female;Qualifies for reduced/free lunch;54.0;1.0
+1901;1901;VVTVA;Urban;Public;TB5;Standard;25.0;Male;Qualifies for reduced/free lunch;45.0;1.0
+1902;1902;VVTVA;Urban;Public;TB5;Standard;25.0;Male;Qualifies for reduced/free lunch;49.0;1.0
+1903;1903;VVTVA;Urban;Public;TB5;Standard;25.0;Male;Qualifies for reduced/free lunch;47.0;0.0
+1904;1904;VVTVA;Urban;Public;TB5;Standard;25.0;Male;Qualifies for reduced/free lunch;51.0;0.0
+1905;1905;VVTVA;Urban;Public;TB5;Standard;25.0;Female;Qualifies for reduced/free lunch;51.0;1.0
+1906;1906;VVTVA;Urban;Public;TB5;Standard;25.0;Male;Qualifies for reduced/free lunch;48.0;1.0
+1907;1907;VVTVA;Urban;Public;TB5;Standard;25.0;Female;Qualifies for reduced/free lunch;50.0;1.0
+1908;1908;VVTVA;Urban;Public;TB5;Standard;25.0;Male;Qualifies for reduced/free lunch;49.0;0.0
+1909;1909;VVTVA;Urban;Public;TB5;Standard;25.0;Female;Qualifies for reduced/free lunch;50.0;0.0
+1910;1910;VVTVA;Urban;Public;TB5;Standard;25.0;Female;Qualifies for reduced/free lunch;50.0;1.0
+1911;1911;VVTVA;Urban;Public;TB5;Standard;25.0;Female;Qualifies for reduced/free lunch;54.0;0.0
+1912;1912;VVTVA;Urban;Public;TB5;Standard;25.0;Female;Qualifies for reduced/free lunch;49.0;0.0
+1913;1913;VVTVA;Urban;Public;TB5;Standard;25.0;Female;Qualifies for reduced/free lunch;49.0;1.0
+1914;1914;VVTVA;Urban;Public;TB5;Standard;25.0;Male;Qualifies for reduced/free lunch;47.0;0.0
+1915;1915;VVTVA;Urban;Public;TB5;Standard;25.0;Male;Qualifies for reduced/free lunch;50.0;0.0
+1916;1916;VVTVA;Urban;Public;TB5;Standard;25.0;Female;Does not qualify;62.0;0.0
+1917;1917;VVTVA;Urban;Public;YTB;Experimental;30.0;Female;Qualifies for reduced/free lunch;47.0;0.0
+1918;1918;VVTVA;Urban;Public;YTB;Experimental;30.0;Male;Qualifies for reduced/free lunch;48.0;1.0
+1919;1919;VVTVA;Urban;Public;YTB;Experimental;30.0;Female;Does not qualify;49.0;1.0
+1920;1920;VVTVA;Urban;Public;YTB;Experimental;30.0;Male;Qualifies for reduced/free lunch;50.0;0.0
+1921;1921;VVTVA;Urban;Public;YTB;Experimental;30.0;Female;Qualifies for reduced/free lunch;47.0;1.0
+1922;1922;VVTVA;Urban;Public;YTB;Experimental;30.0;Male;Qualifies for reduced/free lunch;48.0;0.0
+1923;1923;VVTVA;Urban;Public;YTB;Experimental;30.0;Female;Qualifies for reduced/free lunch;52.0;1.0
+1924;1924;VVTVA;Urban;Public;YTB;Experimental;30.0;Female;Qualifies for reduced/free lunch;50.0;1.0
+1925;1925;VVTVA;Urban;Public;YTB;Experimental;30.0;Female;Qualifies for reduced/free lunch;42.0;1.0
+1926;1926;VVTVA;Urban;Public;YTB;Experimental;30.0;Male;Qualifies for reduced/free lunch;47.0;0.0
+1927;1927;VVTVA;Urban;Public;YTB;Experimental;30.0;Female;Qualifies for reduced/free lunch;47.0;0.0
+1928;1928;VVTVA;Urban;Public;YTB;Experimental;30.0;Male;Qualifies for reduced/free lunch;45.0;1.0
+1929;1929;VVTVA;Urban;Public;YTB;Experimental;30.0;Female;Qualifies for reduced/free lunch;52.0;0.0
+1930;1930;VVTVA;Urban;Public;YTB;Experimental;30.0;Male;Qualifies for reduced/free lunch;53.0;1.0
+1931;1931;VVTVA;Urban;Public;YTB;Experimental;30.0;Male;Qualifies for reduced/free lunch;47.0;1.0
+1932;1932;VVTVA;Urban;Public;YTB;Experimental;30.0;Male;Qualifies for reduced/free lunch;52.0;0.0
+1933;1933;VVTVA;Urban;Public;YTB;Experimental;30.0;Female;Qualifies for reduced/free lunch;48.0;0.0
+1934;1934;VVTVA;Urban;Public;YTB;Experimental;30.0;Male;Qualifies for reduced/free lunch;46.0;0.0
+1935;1935;VVTVA;Urban;Public;YTB;Experimental;30.0;Male;Qualifies for reduced/free lunch;48.0;1.0
+1936;1936;VVTVA;Urban;Public;YTB;Experimental;30.0;Female;Qualifies for reduced/free lunch;48.0;1.0
+1937;1937;VVTVA;Urban;Public;YTB;Experimental;30.0;Male;Qualifies for reduced/free lunch;52.0;1.0
+1938;1938;VVTVA;Urban;Public;YTB;Experimental;30.0;Male;Qualifies for reduced/free lunch;45.0;1.0
+1939;1939;VVTVA;Urban;Public;YTB;Experimental;30.0;Male;Qualifies for reduced/free lunch;44.0;0.0
+1940;1940;VVTVA;Urban;Public;YTB;Experimental;30.0;Male;Qualifies for reduced/free lunch;51.0;1.0
+1941;1941;VVTVA;Urban;Public;YTB;Experimental;30.0;Female;Qualifies for reduced/free lunch;49.0;0.0
+1942;1942;VVTVA;Urban;Public;YTB;Experimental;30.0;Female;Qualifies for reduced/free lunch;44.0;1.0
+1943;1943;VVTVA;Urban;Public;YTB;Experimental;30.0;Female;Qualifies for reduced/free lunch;49.0;0.0
+1944;1944;VVTVA;Urban;Public;YTB;Experimental;30.0;Male;Qualifies for reduced/free lunch;52.0;0.0
+1945;1945;VVTVA;Urban;Public;YTB;Experimental;30.0;Female;Qualifies for reduced/free lunch;49.0;1.0
+1946;1946;VVTVA;Urban;Public;YTB;Experimental;30.0;Female;Qualifies for reduced/free lunch;52.0;0.0
+1947;1947;ZMNYA;Suburban;Public;1UU;Experimental;24.0;Female;Does not qualify;86.0;0.0
+1948;1948;ZMNYA;Suburban;Public;1UU;Experimental;24.0;Female;Does not qualify;83.0;0.0
+1949;1949;ZMNYA;Suburban;Public;1UU;Experimental;24.0;Female;Does not qualify;74.0;1.0
+1950;1950;ZMNYA;Suburban;Public;1UU;Experimental;;Male;Does not qualify;81.0;1.0
+1951;1951;ZMNYA;Suburban;Public;1UU;Experimental;24.0;Male;Does not qualify;85.0;0.0
+1952;1952;ZMNYA;Suburban;Public;1UU;Experimental;24.0;Female;Does not qualify;81.0;1.0
+1953;1953;ZMNYA;Suburban;Public;1UU;Experimental;24.0;Female;Does not qualify;82.0;0.0
+1954;1954;ZMNYA;Suburban;Public;1UU;Experimental;;Female;Does not qualify;82.0;1.0
+1955;1955;ZMNYA;Suburban;Public;1UU;Experimental;24.0;Male;Does not qualify;80.0;0.0
+1956;1956;ZMNYA;Suburban;Public;1UU;Experimental;24.0;Male;Does not qualify;82.0;1.0
+1957;1957;ZMNYA;Suburban;Public;1UU;Experimental;24.0;Male;Does not qualify;74.0;0.0
+1958;1958;ZMNYA;Suburban;Public;1UU;Experimental;;Female;Does not qualify;91.0;1.0
+1959;1959;ZMNYA;Suburban;Public;1UU;Experimental;24.0;Male;Does not qualify;78.0;0.0
+1960;1960;ZMNYA;Suburban;Public;1UU;Experimental;24.0;Female;Does not qualify;81.0;1.0
+1961;1961;ZMNYA;Suburban;Public;1UU;Experimental;;Male;Does not qualify;80.0;0.0
+1962;1962;ZMNYA;Suburban;Public;1UU;Experimental;24.0;Female;Qualifies for reduced/free lunch;82.0;0.0
+1963;1963;ZMNYA;Suburban;Public;1UU;Experimental;24.0;Female;Does not qualify;78.0;1.0
+1964;1964;ZMNYA;Suburban;Public;1UU;Experimental;24.0;Male;Does not qualify;83.0;0.0
+1965;1965;ZMNYA;Suburban;Public;1UU;Experimental;;Male;Qualifies for reduced/free lunch;81.0;0.0
+1966;1966;ZMNYA;Suburban;Public;1UU;Experimental;24.0;Male;Does not qualify;80.0;0.0
+1967;1967;ZMNYA;Suburban;Public;1UU;Experimental;24.0;Male;Does not qualify;80.0;0.0
+1968;1968;ZMNYA;Suburban;Public;1UU;Experimental;24.0;Female;Does not qualify;79.0;1.0
+1969;1969;ZMNYA;Suburban;Public;1UU;Experimental;24.0;Male;Does not qualify;77.0;0.0
+1970;1970;ZMNYA;Suburban;Public;1UU;Experimental;24.0;Male;Does not qualify;83.0;0.0
+1971;1971;ZMNYA;Suburban;Public;4NN;Standard;22.0;Male;Does not qualify;75.0;1.0
+1972;1972;ZMNYA;Suburban;Public;4NN;Standard;;Male;Does not qualify;76.0;1.0
+1973;1973;ZMNYA;Suburban;Public;4NN;Standard;22.0;Male;Qualifies for reduced/free lunch;68.0;0.0
+1974;1974;ZMNYA;Suburban;Public;4NN;Standard;22.0;Male;Does not qualify;78.0;0.0
+1975;1975;ZMNYA;Suburban;Public;4NN;Standard;22.0;Female;Does not qualify;72.0;0.0
+1976;1976;ZMNYA;Suburban;Public;4NN;Standard;22.0;Female;Does not qualify;72.0;1.0
+1977;1977;ZMNYA;Suburban;Public;4NN;Standard;22.0;Female;Does not qualify;81.0;0.0
+1978;1978;ZMNYA;Suburban;Public;4NN;Standard;22.0;Female;Does not qualify;78.0;0.0
+1979;1979;ZMNYA;Suburban;Public;4NN;Standard;22.0;Male;Qualifies for reduced/free lunch;66.0;0.0
+1980;1980;ZMNYA;Suburban;Public;4NN;Standard;22.0;Male;Does not qualify;73.0;0.0
+1981;1981;ZMNYA;Suburban;Public;4NN;Standard;22.0;Male;Does not qualify;68.0;0.0
+1982;1982;ZMNYA;Suburban;Public;4NN;Standard;22.0;Male;Qualifies for reduced/free lunch;69.0;1.0
+1983;1983;ZMNYA;Suburban;Public;4NN;Standard;22.0;Female;Does not qualify;74.0;1.0
+1984;1984;ZMNYA;Suburban;Public;4NN;Standard;22.0;Female;Does not qualify;69.0;0.0
+1985;1985;ZMNYA;Suburban;Public;4NN;Standard;22.0;Female;Does not qualify;77.0;0.0
+1986;1986;ZMNYA;Suburban;Public;4NN;Standard;22.0;Male;Does not qualify;77.0;1.0
+1987;1987;ZMNYA;Suburban;Public;4NN;Standard;22.0;Female;Does not qualify;77.0;1.0
+1988;1988;ZMNYA;Suburban;Public;4NN;Standard;22.0;Male;Does not qualify;80.0;1.0
+1989;1989;ZMNYA;Suburban;Public;4NN;Standard;22.0;Female;Qualifies for reduced/free lunch;69.0;0.0
+1990;1990;ZMNYA;Suburban;Public;4NN;Standard;22.0;Male;Qualifies for reduced/free lunch;71.0;0.0
+1991;1991;ZMNYA;Suburban;Public;4NN;Standard;22.0;Female;Does not qualify;70.0;0.0
+1992;1992;ZMNYA;Suburban;Public;4NN;Standard;22.0;Male;Does not qualify;76.0;0.0
+1993;1993;ZMNYA;Suburban;Public;V77;Experimental;23.0;Female;Does not qualify;94.0;0.0
+1994;1994;ZMNYA;Suburban;Public;V77;Experimental;23.0;Male;Does not qualify;90.0;0.0
+1995;1995;ZMNYA;Suburban;Public;V77;Experimental;23.0;Male;Does not qualify;94.0;0.0
+1996;1996;ZMNYA;Suburban;Public;V77;Experimental;23.0;Female;Does not qualify;89.0;1.0
+1997;1997;ZMNYA;Suburban;Public;V77;Experimental;23.0;Male;Does not qualify;87.0;0.0
+1998;1998;ZMNYA;Suburban;Public;V77;Experimental;23.0;Male;Does not qualify;91.0;1.0
+1999;1999;ZMNYA;Suburban;Public;V77;Experimental;23.0;Male;Does not qualify;89.0;1.0
+2000;2000;ZMNYA;Suburban;Public;V77;Experimental;23.0;Female;Does not qualify;94.0;0.0
+2001;2001;ZMNYA;Suburban;Public;V77;Experimental;23.0;Male;Does not qualify;85.0;1.0
+2002;2002;ZMNYA;Suburban;Public;V77;Experimental;23.0;Female;Does not qualify;85.0;1.0
+2003;2003;ZMNYA;Suburban;Public;V77;Experimental;23.0;Female;Does not qualify;93.0;0.0
+2004;2004;ZMNYA;Suburban;Public;V77;Experimental;23.0;Male;Does not qualify;94.0;1.0
+2005;2005;ZMNYA;Suburban;Public;V77;Experimental;23.0;Male;Does not qualify;90.0;1.0
+2006;2006;ZMNYA;Suburban;Public;V77;Experimental;23.0;Female;Does not qualify;94.0;1.0
+2007;2007;ZMNYA;Suburban;Public;V77;Experimental;23.0;Female;Does not qualify;87.0;1.0
+2008;2008;ZMNYA;Suburban;Public;V77;Experimental;23.0;Female;Does not qualify;94.0;1.0
+2009;2009;ZMNYA;Suburban;Public;V77;Experimental;23.0;Female;Qualifies for reduced/free lunch;92.0;0.0
+2010;2010;ZMNYA;Suburban;Public;V77;Experimental;23.0;Female;Does not qualify;88.0;0.0
+2011;2011;ZMNYA;Suburban;Public;V77;Experimental;23.0;Male;Does not qualify;84.0;0.0
+2012;2012;ZMNYA;Suburban;Public;V77;Experimental;23.0;Male;Does not qualify;86.0;0.0
+2013;2013;ZMNYA;Suburban;Public;V77;Experimental;23.0;Male;Does not qualify;90.0;1.0
+2014;2014;ZMNYA;Suburban;Public;V77;Experimental;23.0;Male;Does not qualify;87.0;1.0
+2015;2015;ZMNYA;Suburban;Public;V77;Experimental;23.0;Male;Does not qualify;95.0;1.0
+2016;2016;ZOWMK;Urban;Public;CII;Standard;27.0;Male;Qualifies for reduced/free lunch;60.0;0.0
+2017;2017;ZOWMK;Urban;Public;CII;Standard;27.0;Female;Qualifies for reduced/free lunch;58.0;0.0
+2018;2018;ZOWMK;Urban;Public;CII;Standard;27.0;Female;Qualifies for reduced/free lunch;56.0;0.0
+2019;2019;ZOWMK;Urban;Public;CII;Standard;27.0;Female;Qualifies for reduced/free lunch;55.0;1.0
+2020;2020;ZOWMK;Urban;Public;CII;Standard;27.0;Female;Qualifies for reduced/free lunch;59.0;0.0
+2021;2021;ZOWMK;Urban;Public;CII;Standard;27.0;Male;Qualifies for reduced/free lunch;59.0;0.0
+2022;2022;ZOWMK;Urban;Public;CII;Standard;27.0;Male;Qualifies for reduced/free lunch;53.0;0.0
+2023;2023;ZOWMK;Urban;Public;CII;Standard;27.0;Female;Qualifies for reduced/free lunch;63.0;1.0
+2024;2024;ZOWMK;Urban;Public;CII;Standard;27.0;Female;Qualifies for reduced/free lunch;60.0;0.0
+2025;2025;ZOWMK;Urban;Public;CII;Standard;27.0;Female;Qualifies for reduced/free lunch;59.0;0.0
+2026;2026;ZOWMK;Urban;Public;CII;Standard;27.0;Male;Qualifies for reduced/free lunch;58.0;0.0
+2027;2027;ZOWMK;Urban;Public;CII;Standard;27.0;Female;Qualifies for reduced/free lunch;59.0;1.0
+2028;2028;ZOWMK;Urban;Public;CII;Standard;27.0;Female;Qualifies for reduced/free lunch;57.0;1.0
+2029;2029;ZOWMK;Urban;Public;CII;Standard;27.0;Male;Qualifies for reduced/free lunch;55.0;0.0
+2030;2030;ZOWMK;Urban;Public;CII;Standard;27.0;Male;Qualifies for reduced/free lunch;59.0;0.0
+2031;2031;ZOWMK;Urban;Public;CII;Standard;27.0;Female;Qualifies for reduced/free lunch;62.0;1.0
+2032;2032;ZOWMK;Urban;Public;CII;Standard;27.0;Male;Qualifies for reduced/free lunch;59.0;0.0
+2033;2033;ZOWMK;Urban;Public;CII;Standard;27.0;Female;Qualifies for reduced/free lunch;63.0;0.0
+2034;2034;ZOWMK;Urban;Public;CII;Standard;27.0;Male;Qualifies for reduced/free lunch;56.0;1.0
+2035;2035;ZOWMK;Urban;Public;CII;Standard;27.0;Female;Qualifies for reduced/free lunch;61.0;1.0
+2036;2036;ZOWMK;Urban;Public;CII;Standard;27.0;Female;Qualifies for reduced/free lunch;61.0;1.0
+2037;2037;ZOWMK;Urban;Public;CII;Standard;27.0;Male;Qualifies for reduced/free lunch;57.0;0.0
+2038;2038;ZOWMK;Urban;Public;CII;Standard;27.0;Female;Qualifies for reduced/free lunch;62.0;1.0
+2039;2039;ZOWMK;Urban;Public;CII;Standard;27.0;Male;Qualifies for reduced/free lunch;54.0;0.0
+2040;2040;ZOWMK;Urban;Public;CII;Standard;27.0;Female;Does not qualify;60.0;1.0
+2041;2041;ZOWMK;Urban;Public;CII;Standard;27.0;Male;Qualifies for reduced/free lunch;55.0;1.0
+2042;2042;ZOWMK;Urban;Public;CII;Standard;27.0;Male;Does not qualify;62.0;1.0
+2043;2043;ZOWMK;Urban;Public;Q0E;Experimental;30.0;Female;Qualifies for reduced/free lunch;55.0;1.0
+2044;2044;ZOWMK;Urban;Public;Q0E;Experimental;30.0;Male;Qualifies for reduced/free lunch;53.0;1.0
+2045;2045;ZOWMK;Urban;Public;Q0E;Experimental;30.0;Female;Qualifies for reduced/free lunch;54.0;0.0
+2046;2046;ZOWMK;Urban;Public;Q0E;Experimental;30.0;Female;Does not qualify;56.0;1.0
+2047;2047;ZOWMK;Urban;Public;Q0E;Experimental;30.0;Male;Qualifies for reduced/free lunch;54.0;1.0
+2048;2048;ZOWMK;Urban;Public;Q0E;Experimental;30.0;Female;Qualifies for reduced/free lunch;53.0;0.0
+2049;2049;ZOWMK;Urban;Public;Q0E;Experimental;30.0;Male;Qualifies for reduced/free lunch;50.0;0.0
+2050;2050;ZOWMK;Urban;Public;Q0E;Experimental;30.0;Female;Qualifies for reduced/free lunch;54.0;1.0
+2051;2051;ZOWMK;Urban;Public;Q0E;Experimental;30.0;Female;Qualifies for reduced/free lunch;55.0;1.0
+2052;2052;ZOWMK;Urban;Public;Q0E;Experimental;30.0;Female;Qualifies for reduced/free lunch;52.0;0.0
+2053;2053;ZOWMK;Urban;Public;Q0E;Experimental;30.0;Male;Qualifies for reduced/free lunch;53.0;1.0
+2054;2054;ZOWMK;Urban;Public;Q0E;Experimental;30.0;Male;Qualifies for reduced/free lunch;52.0;1.0
+2055;2055;ZOWMK;Urban;Public;Q0E;Experimental;30.0;Male;Qualifies for reduced/free lunch;52.0;1.0
+2056;2056;ZOWMK;Urban;Public;Q0E;Experimental;30.0;Female;Qualifies for reduced/free lunch;52.0;0.0
+2057;2057;ZOWMK;Urban;Public;Q0E;Experimental;30.0;Male;Qualifies for reduced/free lunch;48.0;1.0
+2058;2058;ZOWMK;Urban;Public;Q0E;Experimental;30.0;Female;Qualifies for reduced/free lunch;53.0;1.0
+2059;2059;ZOWMK;Urban;Public;Q0E;Experimental;30.0;Female;Qualifies for reduced/free lunch;50.0;0.0
+2060;2060;ZOWMK;Urban;Public;Q0E;Experimental;30.0;Female;Qualifies for reduced/free lunch;55.0;1.0
+2061;2061;ZOWMK;Urban;Public;Q0E;Experimental;30.0;Female;Qualifies for reduced/free lunch;57.0;0.0
+2062;2062;ZOWMK;Urban;Public;Q0E;Experimental;30.0;Female;Qualifies for reduced/free lunch;59.0;0.0
+2063;2063;ZOWMK;Urban;Public;Q0E;Experimental;30.0;Male;Qualifies for reduced/free lunch;54.0;0.0
+2064;2064;ZOWMK;Urban;Public;Q0E;Experimental;30.0;Male;Qualifies for reduced/free lunch;53.0;1.0
+2065;2065;ZOWMK;Urban;Public;Q0E;Experimental;30.0;Female;Qualifies for reduced/free lunch;54.0;1.0
+2066;2066;ZOWMK;Urban;Public;Q0E;Experimental;30.0;Female;Qualifies for reduced/free lunch;49.0;1.0
+2067;2067;ZOWMK;Urban;Public;Q0E;Experimental;30.0;Male;Qualifies for reduced/free lunch;53.0;1.0
+2068;2068;ZOWMK;Urban;Public;Q0E;Experimental;30.0;Female;Does not qualify;55.0;1.0
+2069;2069;ZOWMK;Urban;Public;Q0E;Experimental;30.0;Female;Qualifies for reduced/free lunch;50.0;0.0
+2070;2070;ZOWMK;Urban;Public;Q0E;Experimental;30.0;Female;Qualifies for reduced/free lunch;53.0;1.0
+2071;2071;ZOWMK;Urban;Public;Q0E;Experimental;30.0;Male;Qualifies for reduced/free lunch;56.0;1.0
+2072;2072;ZOWMK;Urban;Public;Q0E;Experimental;30.0;Female;Qualifies for reduced/free lunch;49.0;1.0
+2073;2073;ZOWMK;Urban;Public;QA2;Standard;30.0;Female;Qualifies for reduced/free lunch;49.0;0.0
+2074;2074;ZOWMK;Urban;Public;QA2;Standard;30.0;Female;Does not qualify;52.0;0.0
+2075;2075;ZOWMK;Urban;Public;QA2;Standard;30.0;Female;Qualifies for reduced/free lunch;49.0;1.0
+2076;2076;ZOWMK;Urban;Public;QA2;Standard;30.0;Female;Qualifies for reduced/free lunch;51.0;1.0
+2077;2077;ZOWMK;Urban;Public;QA2;Standard;30.0;Female;Qualifies for reduced/free lunch;50.0;0.0
+2078;2078;ZOWMK;Urban;Public;QA2;Standard;30.0;Male;Qualifies for reduced/free lunch;51.0;0.0
+2079;2079;ZOWMK;Urban;Public;QA2;Standard;30.0;Male;Does not qualify;53.0;1.0
+2080;2080;ZOWMK;Urban;Public;QA2;Standard;30.0;Female;Qualifies for reduced/free lunch;51.0;1.0
+2081;2081;ZOWMK;Urban;Public;QA2;Standard;;Female;Qualifies for reduced/free lunch;53.0;1.0
+2082;2082;ZOWMK;Urban;Public;QA2;Standard;;Female;Qualifies for reduced/free lunch;50.0;1.0
+2083;2083;ZOWMK;Urban;Public;QA2;Standard;;Male;Qualifies for reduced/free lunch;54.0;0.0
+2084;2084;ZOWMK;Urban;Public;QA2;Standard;;Male;Qualifies for reduced/free lunch;50.0;1.0
+2085;2085;ZOWMK;Urban;Public;QA2;Standard;;Female;Qualifies for reduced/free lunch;52.0;0.0
+2086;2086;ZOWMK;Urban;Public;QA2;Standard;;Male;Qualifies for reduced/free lunch;48.0;1.0
+2087;2087;ZOWMK;Urban;Public;QA2;Standard;;Male;Qualifies for reduced/free lunch;53.0;0.0
+2088;2088;ZOWMK;Urban;Public;QA2;Standard;;Female;Qualifies for reduced/free lunch;47.0;0.0
+2089;2089;ZOWMK;Urban;Public;QA2;Standard;;Female;Qualifies for reduced/free lunch;52.0;1.0
+2090;2090;ZOWMK;Urban;Public;QA2;Standard;;Female;Does not qualify;57.0;0.0
+2091;2091;ZOWMK;Urban;Public;QA2;Standard;;Female;Qualifies for reduced/free lunch;55.0;1.0
+2092;2092;ZOWMK;Urban;Public;QA2;Standard;;Female;Qualifies for reduced/free lunch;52.0;0.0
+2093;2093;ZOWMK;Urban;Public;QA2;Standard;;Female;Qualifies for reduced/free lunch;45.0;0.0
+2094;2094;ZOWMK;Urban;Public;QA2;Standard;;Male;Qualifies for reduced/free lunch;46.0;0.0
+2095;2095;ZOWMK;Urban;Public;QA2;Standard;;Male;Qualifies for reduced/free lunch;50.0;1.0
+2096;2096;ZOWMK;Urban;Public;QA2;Standard;;Male;Qualifies for reduced/free lunch;51.0;1.0
+2097;2097;ZOWMK;Urban;Public;QA2;Standard;;Female;Qualifies for reduced/free lunch;55.0;1.0
+2098;2098;ZOWMK;Urban;Public;QA2;Standard;;Female;Qualifies for reduced/free lunch;53.0;0.0
+2099;2099;ZOWMK;Urban;Public;QA2;Standard;;Male;Qualifies for reduced/free lunch;47.0;0.0
+2100;2100;ZOWMK;Urban;Public;QA2;Standard;;Female;Qualifies for reduced/free lunch;50.0;1.0
+2101;2101;ZOWMK;Urban;Public;QA2;Standard;;Male;Qualifies for reduced/free lunch;48.0;1.0
+2102;2102;ZOWMK;Urban;Public;QA2;Standard;;Female;Qualifies for reduced/free lunch;48.0;0.0
+2103;2103;ZOWMK;Urban;Public;ZBH;Standard;30.0;Male;Qualifies for reduced/free lunch;46.0;1.0
+2104;2104;ZOWMK;Urban;Public;ZBH;Standard;30.0;Female;Qualifies for reduced/free lunch;52.0;1.0
+2105;2105;ZOWMK;Urban;Public;ZBH;Standard;30.0;Female;Qualifies for reduced/free lunch;54.0;0.0
+2106;2106;ZOWMK;Urban;Public;ZBH;Standard;30.0;Female;Qualifies for reduced/free lunch;49.0;1.0
+2107;2107;ZOWMK;Urban;Public;ZBH;Standard;30.0;Female;Qualifies for reduced/free lunch;51.0;1.0
+2108;2108;ZOWMK;Urban;Public;ZBH;Standard;30.0;Female;Qualifies for reduced/free lunch;43.0;1.0
+2109;2109;ZOWMK;Urban;Public;ZBH;Standard;30.0;Male;Qualifies for reduced/free lunch;53.0;1.0
+2110;2110;ZOWMK;Urban;Public;ZBH;Standard;30.0;Male;Qualifies for reduced/free lunch;48.0;0.0
+2111;2111;ZOWMK;Urban;Public;ZBH;Standard;30.0;Female;Qualifies for reduced/free lunch;48.0;1.0
+2112;2112;ZOWMK;Urban;Public;ZBH;Standard;30.0;Female;Qualifies for reduced/free lunch;49.0;0.0
+2113;2113;ZOWMK;Urban;Public;ZBH;Standard;30.0;Female;Qualifies for reduced/free lunch;47.0;0.0
+2114;2114;ZOWMK;Urban;Public;ZBH;Standard;30.0;Female;Does not qualify;55.0;1.0
+2115;2115;ZOWMK;Urban;Public;ZBH;Standard;30.0;Female;Qualifies for reduced/free lunch;48.0;0.0
+2116;2116;ZOWMK;Urban;Public;ZBH;Standard;30.0;Male;Qualifies for reduced/free lunch;48.0;0.0
+2117;2117;ZOWMK;Urban;Public;ZBH;Standard;30.0;Male;Qualifies for reduced/free lunch;55.0;1.0
+2118;2118;ZOWMK;Urban;Public;ZBH;Standard;30.0;Male;Does not qualify;53.0;0.0
+2119;2119;ZOWMK;Urban;Public;ZBH;Standard;30.0;Male;Qualifies for reduced/free lunch;49.0;0.0
+2120;2120;ZOWMK;Urban;Public;ZBH;Standard;30.0;Female;Qualifies for reduced/free lunch;50.0;0.0
+2121;2121;ZOWMK;Urban;Public;ZBH;Standard;30.0;Male;Does not qualify;52.0;1.0
+2122;2122;ZOWMK;Urban;Public;ZBH;Standard;30.0;Male;Qualifies for reduced/free lunch;46.0;1.0
+2123;2123;ZOWMK;Urban;Public;ZBH;Standard;30.0;Male;Qualifies for reduced/free lunch;46.0;
+2124;2124;ZOWMK;Urban;Public;ZBH;Standard;30.0;Male;Qualifies for reduced/free lunch;50.0;
+2125;2125;ZOWMK;Urban;Public;ZBH;Standard;30.0;Female;Qualifies for reduced/free lunch;47.0;
+2126;2126;ZOWMK;Urban;Public;ZBH;Standard;30.0;Male;Qualifies for reduced/free lunch;51.0;
+2127;2127;ZOWMK;Urban;Public;ZBH;Standard;30.0;Male;Qualifies for reduced/free lunch;50.0;
+2128;2128;ZOWMK;Urban;Public;ZBH;Standard;30.0;Female;Does not qualify;55.0;
+2129;2129;ZOWMK;Urban;Public;ZBH;Standard;30.0;Female;Qualifies for reduced/free lunch;46.0;
+2130;2130;ZOWMK;Urban;Public;ZBH;Standard;30.0;Female;Qualifies for reduced/free lunch;51.0;
+2131;2131;ZOWMK;Urban;Public;ZBH;Standard;30.0;Male;Qualifies for reduced/free lunch;53.0;
+2132;2132;ZOWMK;Urban;Public;ZBH;Standard;30.0;Male;Qualifies for reduced/free lunch;48.0;
